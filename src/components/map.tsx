@@ -33,7 +33,6 @@ class Map extends React.Component<any, any>{
     async componentDidMount() {
 
         if(this.state.slides){
-            this.loadReports();
             this.initMap();
         }
         
@@ -105,7 +104,7 @@ class Map extends React.Component<any, any>{
  <Source
             id="my-data"
           type="geojson"
-          data={this.state.reports}
+          data='https://covidmap.fastcodelab.com/api'
           cluster={true}
           clusterMaxZoom={13}
           clusterRadius={20}
