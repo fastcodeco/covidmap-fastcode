@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_HOST = process.env.REACT_API_HOST || "http://localhost:5000/api";
+const API_HOST = process.env.REACT_APP_API_HOST || "http://localhost:5000/api";
 
 let API = {
 
