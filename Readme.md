@@ -9,6 +9,8 @@
 * Node.js v12.1.16 
 * Firestore 
 
+Nota: debes configurar el key.json que entrega Firestore en api.js
+
 
 ### Iniciar entorno de Desarrollo 
 
