@@ -1,6 +1,6 @@
 {
-  "short_name": "Covid Map by Fastcode",
-  "name": "Covid Map by Fastcode",
+  "short_name": "Covid Map",
+  "name": "Covid Map por Fastcode",
   "icons": [
     {
       "src": "assets/icon/favicon.png",
@@ -14,8 +14,8 @@
       "purpose": "maskable"
     }
   ],
-  "start_url": ".",
+  "start_url": "./index.html",
   "display": "standalone",
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff"
+  "theme_color": "#000",
+  "background_color": "#000"
 }
