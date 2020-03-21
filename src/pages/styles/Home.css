@@ -36,3 +36,7 @@ ion-textarea{
 .centered{
   margin:0 auto;
 }
+
+.covidTitle{
+  --background: #525252;
+}

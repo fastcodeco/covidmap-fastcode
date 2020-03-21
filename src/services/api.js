@@ -9,6 +9,9 @@ let API = {
     },
     save : async (data) => {
         return axios.post(API_HOST, data);
+    },
+    cases : async (data) =>{
+        return axios.get('https://pomber.github.io/covid19/timeseries.json');
     }
 
 }

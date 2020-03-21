@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactMapGL, { Source, Layer } from 'react-map-gl';
 import { IonFab, IonFabButton, IonIcon } from '@ionic/react';
-import { locateOutline } from 'ionicons/icons';
+import { locateOutline, callOutline, medkitOutline} from 'ionicons/icons';
 import API from '../services/api';
 
 
@@ -25,6 +25,7 @@ class Map extends React.Component<any, any>{
         this.state = {
             viewport: {},
             slides: window.localStorage.slides,
+            suggestions: false,
         };
 
     }
@@ -47,7 +48,6 @@ class Map extends React.Component<any, any>{
 
         this.setState({reports : rs.data})
     
-        console.log(this.state.reports)
     
       }
 
@@ -63,7 +63,6 @@ class Map extends React.Component<any, any>{
 
         try {
 
-            console.log(geolocation);
 
             this.setState({
                 viewport: {
@@ -71,8 +70,9 @@ class Map extends React.Component<any, any>{
                     height: '100vh',
                     longitude: geolocation.coords.longitude,
                     latitude: geolocation.coords.latitude,
-                    zoom: 14,
-
+                    zoom: 13,
+                    maxZoom: 13,
+                    minZoom: 5
 
                 }
             })
@@ -83,6 +83,14 @@ class Map extends React.Component<any, any>{
 
     }
 
+    call(){
+        if(window.confirm("Solo si tienes síntomas haz la llamada a la línea nacional especial para atención del Covid-19. No le demos mal uso, gracias."))
+        window.location.href = "tel:192";
+    }
+
+    medicalCenters(){
+        
+    }
 
     render() {
         return <div> <ReactMapGL
@@ -99,26 +107,49 @@ class Map extends React.Component<any, any>{
           type="geojson"
           data={this.state.reports}
           cluster={true}
-          clusterMaxZoom={8}
-          clusterRadius={50}
+          clusterMaxZoom={13}
+          clusterRadius={20}
     
         >
             <Layer
             type="circle"
             paint={{
-              'circle-radius': 50,
-              'circle-color': 'red'
+              'circle-radius': 20,
+              'circle-color': 'red',
+              'circle-opacity': 0.5
             }} />
 
             
 
         </Source>
         </ReactMapGL>
+        
+          /*
+          floating buttons
+          */      
+
+             <IonFab vertical="bottom" color="success" slot="fixed" style={{left:'auto', right:'150px'}} >
+                <IonFabButton href={`https://www.google.com/search?rlz=1C5CHFA_enCO892CO892&sxsrf=ALeKk01CvBUqn85-GXE60wcPCnsn4Es9QQ:1584822223862&q=centros+de+salud&npsic=0&rflfq=1&rlha=0&rllag=${this.state.viewport.latitude || null},${this.state.viewport.longitude || null}&tbm=lcl&ved=2ahUKEwint73tsqzoAhXhc98KHdAmAx4QtgN6BAgLEAQ&tbs=lrf:!1m4!1u3!2m2!`} target="_blank" color="dark">
+                    <IonIcon icon={medkitOutline} />                    
+                </IonFabButton>
+            </IonFab>    
+
+        
+         <IonFab vertical="bottom" color="success" slot="fixed" style={{left:'auto', right:'80px'}} >
+                <IonFabButton onClick={this.call} color="dark">
+                    <IonIcon icon={callOutline} />
+                    
+                </IonFabButton>
+            </IonFab>
+         
             <IonFab vertical="bottom" horizontal="end" slot="fixed"  >
                 <IonFabButton onClick={this.initMap}>
                     <IonIcon icon={locateOutline} />
                 </IonFabButton>
             </IonFab>
+         
+
+
         </div>
 
 

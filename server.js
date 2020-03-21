@@ -66,7 +66,7 @@ api_router
                     "type": "Feature",
                     "geometry": {
                         "type": "Point",
-                        "coordinates": [report.point[1] || 0, report.point[0] || 0,  0.0] 
+                        "coordinates": [report.point[1] || 0, report.point[0] || 0] 
                     }
                 }
 
@@ -100,10 +100,7 @@ api_router
         }
 
 
-        if (typeof days != 'number') {
-            res.status(400).end();
-            return;
-        }
+      
 
 
         api.save({ point: radius, days: days });

@@ -9,6 +9,8 @@ const slideOpts = {
 };
 
 
+const slideRef = React.createRef<any>();
+
 class Slides extends React.Component<any, any>{
 
 
@@ -16,6 +18,7 @@ class Slides extends React.Component<any, any>{
         super(props);
     
         this.state = slideOpts;
+
       }
     
       componentDidMount() {
@@ -28,33 +31,46 @@ class Slides extends React.Component<any, any>{
         window.location.reload();
 
       }
+
+      nextSlide(e:any){
+        
+        try{
+        slideRef.current.slideNext();
+        }catch(e){
+
+        }
+
+      }
+
+      
+
     
       render() {
   return(<IonContent style={{height:'100vw'}}>
-    <IonSlides pager={true} options={slideOpts} style={{height:'100vh'}}>
+    <IonSlides ref={slideRef} pager={true} options={slideOpts} style={{height:'100vh'}} >
       <IonSlide>
           <IonGrid>
-          <IonRow>
+          <IonRow style={{justifyContent:'center'}}>
         <h1 style={{textAlign:'center', display:'block', width:'100%'}}> Cómo funciona?</h1>
         </IonRow>
-        <IonRow>
-        <p>Covid Map recibe reportes anónimos de personas que han sido diagnosticadas positivo para Coronavirus.</p>            
+        <IonRow style={{justifyContent:'center'}}> 
+        <p style={{textAlign:'center'}}>Covid Map recibe reportes anónimos de personas que han sido diagnosticadas positivo para Coronavirus.</p>            
         </IonRow>
-        <IonRow>          
-          <IonButton  fill="clear" style={{margin:'0 auto'}}><IonIcon slot="end" icon={arrowForward}></IonIcon></IonButton>
+        <IonRow style={{justifyContent:'center'}}>          
+          <IonButton  fill="clear" style={{margin:'0 auto'}} onClick={this.nextSlide}><IonIcon slot="end" icon={arrowForward}></IonIcon></IonButton>
         </IonRow>
         </IonGrid>
       </IonSlide>
       <IonSlide>
       <IonGrid>
-          <IonRow>
+          <IonRow style={{justifyContent:'center'}}>
         <h1 style={{textAlign:'center', display:'block', width:'100%'}}>Objetivo</h1>
         </IonRow>
-        <IonRow>
-        <p>Covid Map identifica las posibles zonas donde se encuentra el virus gracias a la comunidad, con el fin de ayudar a que se tomen las precauciones acorde a las zonas. Juntos podemos lograrlo!</p>
+        <IonRow style={{justifyContent:'center'}}> 
+        <p style={{textAlign:'center'}}>Covid Map App fue desarrollada con el propósito de ofrecer a las personas a tener información más precisa de donde se encuentra el virus gracias a la comunidad.</p>
         </IonRow>
-        <IonRow>          
-          <IonButton  fill="clear" style={{margin:'0 auto'}}><IonIcon slot="end" icon={arrowForward}></IonIcon></IonButton>
+        <IonRow style={{justifyContent:'center'}}>          
+          <IonButton  fill="clear" style={{margin:'0 auto'}} onClick={this.nextSlide}><IonIcon slot="end" icon={arrowForward}></IonIcon></IonButton>
         </IonRow>
         </IonGrid>
 
@@ -62,16 +78,25 @@ class Slides extends React.Component<any, any>{
       <IonSlide>
     
       <IonGrid>
-      <IonRow>
+      <IonRow style={{justifyContent:'center'}}>
         <h1 style={{textAlign:'center', display:'block', width:'100%'}}>Privacidad</h1>
         </IonRow>
-        <IonRow>
-        <p>Covid Map no almacena informacion de ubicacion, el algoritmo solo usa la ubicacion para procesar un radio de 200mts. En ningun momento guarda ubicaciones exactas.</p>
+        <IonRow style={{justifyContent:'center'}}>
+        <p style={{textAlign:'center'}}>Covid Map no almacena la ubicación exacta de un reporte, el algoritmo genera unas coordenadas cercanas de forma aleatoria y luego crea un radio. En ningún momento guarda ni muestra ubicaciones exactas.</p>
         </IonRow>
-        <IonRow>
-            
+
+        <IonRow style={{justifyContent:'center'}}>
+        <p style={{fontSize:'11px', textAlign:'center'}}>Al continuar usted acepta que Covid App maneje su información</p>      
+        </IonRow>
+        
+        <IonRow style={{justifyContent:'center'}}>    
+          
             <IonButton fill="clear" style={{margin:'0 auto'}} onClick={this.slideEnd}>Entendido <IonIcon slot="end" icon={arrowForward}></IonIcon></IonButton>
+
         </IonRow>
+
+      
+
     </IonGrid>
 
       </IonSlide>
