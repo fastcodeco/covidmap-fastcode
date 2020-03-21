@@ -1,9 +1,8 @@
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonSegment, IonSegmentButton, IonLabel, IonIcon, IonFab, IonFabButton} from '@ionic/react';
+import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonSegment, IonSegmentButton, IonLabel} from '@ionic/react';
 import React from 'react';
 import './styles/Home.css';
 import Slides from '../components/slides';
 import Map from '../components/map';
-import { shareSocialOutline} from 'ionicons/icons';
 import Report from '../components/report';
 import API from '../services/api';
 
@@ -31,7 +30,7 @@ export default class Home extends React.Component<any, any>{
       console.log(this.state)
 
     
-     this.loadReports();
+  
 
   }
 
@@ -140,12 +139,6 @@ export default class Home extends React.Component<any, any>{
       <IonContent style={{display: this.state.slides ? 'flex' : 'none' }} >
         <Map />
       </IonContent>
-
-      <IonFab vertical="bottom" horizontal="end" slot="fixed" style={{display: this.state.slides ? 'none' : 'none' }} onClick={this.share}>
-          <IonFabButton >
-            <IonIcon icon={shareSocialOutline} />
-          </IonFabButton>
-        </IonFab>
 
   
      <Report open={this.state.showReportForm} submit={this.sendReport} cancel={()=>{ this.setState({showReportForm:false}) }}/>
