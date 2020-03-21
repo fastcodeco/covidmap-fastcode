@@ -129,7 +129,7 @@ class Map extends React.Component<any, any>{
           */      
 
              <IonFab vertical="bottom" color="success" slot="fixed" style={{left:'auto', right:'150px'}} >
-                <IonFabButton href={`https://www.google.com/search?rlz=1C5CHFA_enCO892CO892&sxsrf=ALeKk01CvBUqn85-GXE60wcPCnsn4Es9QQ:1584822223862&q=centros+de+salud&npsic=0&rflfq=1&rlha=0&rllag=${this.state.viewport.latitude || null},${this.state.viewport.longitude || null}&tbm=lcl&ved=2ahUKEwint73tsqzoAhXhc98KHdAmAx4QtgN6BAgLEAQ&tbs=lrf:!1m4!1u3!2m2!`} target="_blank" color="dark">
+                <IonFabButton href={`https://www.google.com/maps/search/?api=1&query=centros+de+salud`} target="_blank" color="dark">
                     <IonIcon icon={medkitOutline} />                    
                 </IonFabButton>
             </IonFab>    

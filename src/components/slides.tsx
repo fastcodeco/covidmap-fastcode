@@ -67,7 +67,7 @@ class Slides extends React.Component<any, any>{
         <h1 style={{textAlign:'center', display:'block', width:'100%'}}>Objetivo</h1>
         </IonRow>
         <IonRow style={{justifyContent:'center'}}> 
-        <p style={{textAlign:'center'}}>Covid Map App fue desarrollada con el propósito de ofrecer a las personas a tener información más precisa de donde se encuentra el virus gracias a la comunidad.</p>
+        <p style={{textAlign:'center'}}>Covid Map App fue desarrollada con el propósito de ofrecer a las personas información más precisa de donde se encuentra el virus gracias a la ayuda comunidad.</p>
         </IonRow>
         <IonRow style={{justifyContent:'center'}}>          
           <IonButton  fill="clear" style={{margin:'0 auto'}} onClick={this.nextSlide}><IonIcon slot="end" icon={arrowForward}></IonIcon></IonButton>
@@ -86,7 +86,7 @@ class Slides extends React.Component<any, any>{
         </IonRow>
 
         <IonRow style={{justifyContent:'center'}}>
-        <p style={{fontSize:'11px', textAlign:'center'}}>Al continuar usted acepta que Covid App maneje su información</p>      
+        <p style={{fontSize:'11px', textAlign:'center'}}>Al continuar usted acepta que Covid Map App maneje su información</p>      
         </IonRow>
         
         <IonRow style={{justifyContent:'center'}}>    
