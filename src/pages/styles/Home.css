@@ -1,0 +1,38 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+.text-white, ion-label{
+  color:white;
+}
+
+.text-blue{
+  color:#3880ff;
+}
+
+.icon-suggest{
+  top: 2px;
+  position: relative;
+  margin-left: 2px;
+}
+
+ion-input, ion-textarea{
+  background: white !important;
+  padding: 10px !important;
+}
+
+ion-textarea{
+  height: 200px;
+}
+
+.sendReport{
+  padding:30px;
+}
+
+.sendReport ion-row{
+  padding: 10px 0;
+}
+
+.centered{
+  margin:0 auto;
+}
