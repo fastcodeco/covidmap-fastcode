@@ -73,6 +73,7 @@ class Map extends React.Component<any, any>{
                     latitude: geolocation.coords.latitude,
                     zoom: 14,
 
+
                 }
             })
 
@@ -98,14 +99,14 @@ class Map extends React.Component<any, any>{
           type="geojson"
           data={this.state.reports}
           cluster={true}
-          clusterMaxZoom={14}
+          clusterMaxZoom={8}
           clusterRadius={50}
     
         >
             <Layer
             type="circle"
             paint={{
-              'circle-radius': 20,
+              'circle-radius': 50,
               'circle-color': 'red'
             }} />
 

@@ -86,8 +86,10 @@ export default class Home extends React.Component<any, any>{
      let post:any = await API.save(data).catch(console.error);
 
      if(post.status === 201)
-     alert("Gracias por contribuir, se ha enviado el reporte");
-
+    { 
+      alert("Gracias por contribuir, se ha enviado el reporte");
+      window.location.reload();
+    }
 
   }
 
