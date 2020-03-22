@@ -145,7 +145,6 @@ class Map extends React.Component<any, any>{
 
   />
 
-      <Layer {... clusterCountLayer}/>      
 
         </Source>
         </ReactMapGL>
