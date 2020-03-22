@@ -54,7 +54,7 @@ class Slides extends React.Component<any, any>{
         <h1 style={{textAlign:'center', display:'block', width:'100%'}}> Cómo funciona?</h1>
         </IonRow>
         <IonRow style={{justifyContent:'center'}}> 
-        <p style={{textAlign:'center'}}>Covid Map recibe reportes anónimos de personas que han sido diagnosticadas positivo en Coronavirus para luego crear zonas en un mapa.</p>            
+        <p style={{textAlign:'center'}}>Covid Map recibe reportes anónimos de personas que han sido diagnosticadas positivo en Covid-19 o que presentan síntomas para luego crear zonas en un mapa.</p>            
         </IonRow>
         <IonRow style={{justifyContent:'center'}}>          
           <IonButton  fill="clear" style={{margin:'0 auto'}} onClick={this.nextSlide}><IonIcon slot="end" icon={arrowForward}></IonIcon></IonButton>
@@ -67,7 +67,7 @@ class Slides extends React.Component<any, any>{
         <h1 style={{textAlign:'center', display:'block', width:'100%'}}>Objetivo</h1>
         </IonRow>
         <IonRow style={{justifyContent:'center'}}> 
-        <p style={{textAlign:'center'}}>Covid Map fue desarrollada con el propósito de ofrecer a las personas información más precisa de donde se encuentra el virus gracias a la ayuda comunidad.</p>
+        <p style={{textAlign:'center'}}>Covid Map fue desarrollada con el propósito de ofrecer a las personas y entidades información más precisa de las posibles zonas con más presencia del virus, y así contribuir en la gestión contra el Covid-19.</p>
         </IonRow>
         <IonRow style={{justifyContent:'center'}}>          
           <IonButton  fill="clear" style={{margin:'0 auto'}} onClick={this.nextSlide}><IonIcon slot="end" icon={arrowForward}></IonIcon></IonButton>
@@ -82,7 +82,7 @@ class Slides extends React.Component<any, any>{
         <h1 style={{textAlign:'center', display:'block', width:'100%'}}>Privacidad</h1>
         </IonRow>
         <IonRow style={{justifyContent:'center'}}>
-        <p style={{textAlign:'center'}}>Covid Map no almacena la ubicación exacta de un reporte, el algoritmo genera unas coordenadas cercanas de forma aleatoria y luego crea un radio. En ningún momento guarda ni muestra ubicaciones exactas.</p>
+        <p style={{textAlign:'center'}}>Covid Map no almacena la ubicación exacta de un reporte, el algoritmo genera unas coordenadas cercanas de forma aleatoria y luego crea un radio. En ningún momento se guarda ni muestran ubicaciones exactas.</p>
         </IonRow>
 
         <IonRow style={{justifyContent:'center'}}>

@@ -41,14 +41,18 @@ export default class Home extends React.Component<any, any>{
 
  loadCases = async () => {
 
-    let cases:any = await API.cases().catch(console.log)
+    let cases:any = await API.cases().catch(console.log);
+    let status_local:any = await API.status_local().catch(console.log);
 
     cases = cases.data;
+    status_local = status_local.data
 
     let status = {
-      confirmed: cases.confirmed.value,
+      confirmed: cases.confirmed.value + status_local.self_confirmed,
       deaths: cases.deaths.value,
-      recovered: cases.recovered.value
+      recovered: cases.recovered.value,
+      symptoms: status_local.symptoms,
+      self_confirmed: status_local.self_confirmed
     }
 
 
@@ -133,7 +137,7 @@ export default class Home extends React.Component<any, any>{
        { !this.state.slides ?  ' ' :  
        <IonHeader translucent>
         <IonToolbar>
-          <IonTitle>Covid Map por <a href="https://fastcodelab.com" target="_blank" rel="noopener noreferrer"  style={{color:'white', textDecoration:'none'}}>Fastcode</a></IonTitle>
+          <IonTitle style={{textAlign:'center'}}>Covid Map por <a href="https://fastcodelab.com" target="_blank" rel="noopener noreferrer"  style={{color:'white', textDecoration:'none'}}>Fastcode</a></IonTitle>
         </IonToolbar>
       </IonHeader>
       
@@ -148,20 +152,31 @@ export default class Home extends React.Component<any, any>{
       </IonRow>
 
     <IonRow >
+
       <IonCol style={{justifyContent:'center'}}>
-        <IonLabel color="warning" style={{textAlign:'center', width:'100%', display:'block', fontSize:'11px'}}>Reportados</IonLabel>
-        <IonLabel color="warning" style={{textAlign:'center', width:'100%', display:'block'}}>{this.state.cases.confirmed}</IonLabel>
+        <IonLabel color="warning" style={{textAlign:'center', width:'100%', display:'block', fontSize:'11px'}}>Confirmados</IonLabel>
+        <IonLabel color="warning" style={{textAlign:'center', width:'100%', display:'block'}}>{this.state.cases.confirmed }</IonLabel>
       </IonCol>
+     
       <IonCol>
-        <IonLabel color="danger" style={{textAlign:'center', width:'100%', display:'block',fontSize:'11px'}}>Muertes</IonLabel>
-        <IonLabel color="danger" style={{textAlign:'center', width:'100%', display:'block'}}>{this.state.cases.deaths}</IonLabel>
+      <IonLabel style={{textAlign:'center', width:'100%', display:'block'}}>
+        <IonLabel color="primary" style={{textAlign:'center', width:'100%', display:'block', fontSize:'11px' }}>Sintomáticos</IonLabel>
+        <IonLabel color="primary" style={{textAlign:'center', width:'100%', display:'block'}}>{this.state.cases.symptoms}</IonLabel>
+      </IonLabel>
       </IonCol>
+
       <IonCol>
       <IonLabel style={{textAlign:'center', width:'100%', display:'block'}}>
         <IonLabel color="success" style={{textAlign:'center', width:'100%', display:'block', fontSize:'11px' }}>Recuperados</IonLabel>
         <IonLabel color="success" style={{textAlign:'center', width:'100%', display:'block'}}>{this.state.cases.recovered}</IonLabel>
       </IonLabel>
       </IonCol>
+
+      <IonCol>
+        <IonLabel color="danger" style={{textAlign:'center', width:'100%', display:'block',fontSize:'11px'}}>Muertes</IonLabel>
+        <IonLabel color="danger" style={{textAlign:'center', width:'100%', display:'block'}}>{this.state.cases.deaths}</IonLabel>
+      </IonCol>
+
     </IonRow>
   </IonGrid>
     </IonToolbar> 

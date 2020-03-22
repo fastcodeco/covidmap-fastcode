@@ -12,7 +12,8 @@ class Report extends React.Component<any, any>{
     
         this.state = {
             captchaOk : false,
-            days: "lessthan5"
+            days: "lessthan5",
+            type: "Symptoms"
         };
       }
 
@@ -29,6 +30,12 @@ class Report extends React.Component<any, any>{
         this.setState({days:e.detail.value})
     }
 
+    typeChange = (e:any) => {
+        console.log(e)
+        this.setState({type:e.detail.value})
+    }
+
+
     submit = (e:any) => {
    
         let captcha = captchaRef.current.getValue();
@@ -37,8 +44,8 @@ class Report extends React.Component<any, any>{
                 {
                     let data:any = {};
                     data.days = this.state.days;
-
-                    console.log(data);
+                    data.captcha = captcha;
+                    data.type = this.state.type;
 
                     this.props.submit(data);
                 
@@ -69,8 +76,25 @@ class Report extends React.Component<any, any>{
              <br />
 
             <form >
+            <IonRow>
+               <IonLabel>Defina el tipo de caso:</IonLabel>
+             
+          </IonRow>
+     
+            <IonRow>
+                <IonSegment mode="md" style={{background:'white'}} value={this.state.type} onIonChange={this.typeChange} >
+            <IonSegmentButton value="Symptoms" >
+                <IonLabel class="text-blue">Con Síntomas</IonLabel>
+            </IonSegmentButton>
+            <IonSegmentButton value="Confirmed" >
+                <IonLabel  class="text-blue">Confirmado</IonLabel>
+            </IonSegmentButton>
+            </IonSegment>
+             </IonRow>
+      <br/>
+
              <IonRow>
-               <IonLabel>Hace cuantos días fue diagnosticado?</IonLabel>
+               <IonLabel>Hace cuantos días siente síntomas o fue diagnosticado?</IonLabel>
              
           </IonRow>
      
@@ -88,7 +112,7 @@ class Report extends React.Component<any, any>{
             <IonRow style={{justifyContent:'center'}}>
             <ReCAPTCHA  
             ref={captchaRef}  
-            sitekey="6LdG_eIUAAAAAHgzH3kItGIJOJgSc4RVfQY2WWrG"
+            sitekey= {process.env.REACT_APP_CAPTCHAT_WEB_KEY || "6LdG_eIUAAAAAHgzH3kItGIJOJgSc4RVfQY2WWrG"}
             onChange={this.onChangeCaptcha}     
              />
            </IonRow>

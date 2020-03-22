@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactMapGL, { Source, Layer } from 'react-map-gl';
 import { IonFab, IonFabButton, IonIcon } from '@ionic/react';
-import { locateOutline, callOutline, medkitOutline} from 'ionicons/icons';
+import { locateOutline, callOutline, medkitOutline, reloadOutline} from 'ionicons/icons';
 import API from '../services/api';
 
 
@@ -117,7 +117,7 @@ class Map extends React.Component<any, any>{
  <Source
             id="my-data"
           type="geojson"
-          data='https://covidmap.fastcodelab.com/api'
+          data={process.env.REACT_APP_MAP_DATA_URL || 'http://localhost:5000/api/cases.geojson'}
           cluster={true}
           clusterMaxZoom={13}
           clusterRadius={20}
@@ -129,8 +129,18 @@ class Map extends React.Component<any, any>{
             source= 'reports'
             paint={{
                 'circle-radius': 20,
-                'circle-color': 'red',
-                'circle-opacity': 0.5,
+                'circle-color': [
+                    'match',
+                    ['get', 'status'],
+                    "Symptoms",
+                    '#3880ff',
+                    "Confirmed",
+                    '#ffc409',
+                    '#ffc409'
+                ],
+                'circle-opacity': 0.4,
+                'circle-stroke-width': 1,
+                'circle-stroke-color': '#ccc'
               }}
 
   />
@@ -144,6 +154,13 @@ class Map extends React.Component<any, any>{
           floating buttons
           */      
 
+         <IonFab vertical="bottom" color="success" slot="fixed" style={{left:'auto', right:'220px'}} >
+                <IonFabButton href="/" target="_self" color="dark">
+                    <IonIcon icon={reloadOutline} />                    
+                </IonFabButton>
+            </IonFab>    
+
+            
              <IonFab vertical="bottom" color="success" slot="fixed" style={{left:'auto', right:'150px'}} >
                 <IonFabButton href={`https://www.google.com/maps/search/?api=1&query=centros+de+salud`} target="_blank" color="dark">
                     <IonIcon icon={medkitOutline} />                    

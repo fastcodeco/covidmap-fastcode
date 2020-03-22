@@ -6,7 +6,9 @@ const api = require('./api');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const helmet = require('helmet');
+const request = require('request-promise');
 
+require('dotenv').config();
 app.use(cors());
 
 //security 
@@ -38,7 +40,7 @@ if (process.env.FORCE_HTTPS)
 console.log(path.join(__dirname, 'build'))
 
 api_router
-    .get("/", async (req, res, next) => {
+    .get("/cases.geojson", async (req, res, next) => {
 
         let data = await api.get();
 
@@ -68,7 +70,11 @@ api_router
                     "geometry": {
                         "type": "Point",
                         "coordinates": [report.point[1] || 0, report.point[0] || 0] 
-                    }
+                    },
+                    "properties": {
+                        "status": report.type || 'Confirmed',
+                        "days": report.days || ''
+                      }
                 }
 
 
@@ -87,15 +93,43 @@ api_router
     .get("/status", async (req, res, next) => {
 
         let data = await api.getStatus();
+        let cases = await api.get();
+        let symptoms = 0;
+        let self_confirmed = 0;
 
         let response;
 
+        cases.docs.map((item)=>{
+            
+            item = item.data().radius;
 
-        response = await data.docs.map((item) => {
+            console.log(item.type)
+
+            if(!item.type)
+            item.type = "Confirmed";
+
+
+             switch (item.type){
+             case 'Symptoms':
+              symptoms++;
+             break;
+             case 'Confirmed':
+              self_confirmed++;
+             break;
+             default:
+                 self_confirmed++;
+             }
+
+        })
+
+        response = data.docs.map((item) => {
 
             return item.data();
 
         })
+
+        response[0].symptoms = symptoms;
+        response[0].self_confirmed = self_confirmed;
 
         res.send(response[0]);
 
@@ -109,6 +143,8 @@ api_router
 
         let radius = req.body.radius;
         let days = req.body.days || 0;
+        let captcha = req.body.captcha || null;
+        let type = req.body.type || null;
 
         if (!radius) {
             res.status(400).end();
@@ -120,13 +156,33 @@ api_router
             return;
         }
 
+        if(!type){
+            res.status(400).end();
+            return; 
+        }
 
+        if(!captcha){
+            res.status(400).end();
+            return; 
+        }
       
+        //let's validate captcha
+        let rsc = await request({
+            url : "https://www.google.com/recaptcha/api/siteverify",
+            method : "POST",
+            formData: {
+                secret : process.env.CAPTCHA_SECRET || '',
+                response : captcha
+            }
+        });
 
-
-        api.save({ point: radius, days: days });
-
+        rsc = JSON.parse(rsc);
+        
+        if(rsc.success){
+        api.save({ point: radius, days: days, type: type });
         res.status(201).end();
+        }else
+        res.status(401).end("invalid captcha");
 
     })
 
