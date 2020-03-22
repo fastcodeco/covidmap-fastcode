@@ -49,7 +49,7 @@ export default class Home extends React.Component<any, any>{
     status_local = status_local.data
 
     let status = {
-      confirmed: cases.confirmed.value + status_local.self_confirmed,
+      confirmed: cases.confirmed.value,
       deaths: cases.deaths.value,
       recovered: cases.recovered.value,
       symptoms: status_local.symptoms,
