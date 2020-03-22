@@ -186,6 +186,38 @@ api_router
 
     })
 
+
+    api_router
+    .post("/post", async (req, res, next) => {
+
+        let radius = req.body.radius;
+        let days = req.body.days || 0;
+        let type = req.body.type || null;
+
+        if (!radius) {
+            res.status(400).end();
+            return;
+        }
+
+        if (!Array.isArray(radius)) {
+            res.status(400).end();
+            return;
+        }
+
+        if(!type){
+            res.status(400).end();
+            return; 
+        }
+
+      
+        
+     
+        api.save({ point: radius, days: days, type: type });
+        res.status(201).end();
+     
+
+    })
+
 app.use('/api', api_router);
 
 app.use((req, res) => {
