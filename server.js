@@ -52,6 +52,7 @@ api_router
             },
             "features": []
         }
+        
 
 
 
@@ -77,6 +78,26 @@ api_router
         })
 
         res.send(response);
+
+
+
+    })
+
+    api_router
+    .get("/status", async (req, res, next) => {
+
+        let data = await api.getStatus();
+
+        let response;
+
+
+        response = await data.docs.map((item) => {
+
+            return item.data();
+
+        })
+
+        res.send(response[0]);
 
 
 

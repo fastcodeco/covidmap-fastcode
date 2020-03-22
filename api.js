@@ -25,7 +25,13 @@ let Firestore = {
      return await db.collection(process.env.COLLECTION ||'reports').get();
 
 
-    }
+    },
+    getStatus : async () => {
+        
+        return await db.collection('status').get();
+   
+   
+       }
 };
 
 Firestore.get();

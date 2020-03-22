@@ -43,12 +43,12 @@ export default class Home extends React.Component<any, any>{
 
     let cases:any = await API.cases().catch(console.log)
 
-    cases = cases.data["Colombia"]
+    cases = cases.data;
 
     let status = {
-      confirmed: cases[cases.length-1].confirmed,
-      deaths: cases[cases.length-1].deaths,
-      recovered: cases[cases.length-1].recovered
+      confirmed: cases.confirmed.value,
+      deaths: cases.deaths.value,
+      recovered: cases.recovered.value
     }
 
 

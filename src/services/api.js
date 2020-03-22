@@ -10,8 +10,11 @@ let API = {
     save : async (data) => {
         return axios.post(API_HOST, data);
     },
-    cases : async (data) =>{
-        return axios.get('https://pomber.github.io/covid19/timeseries.json');
+    cases : async () =>{
+        return axios.get('https://covid19.mathdro.id/api/countries/co');
+    },
+    status_local : async () =>{
+        return axios.get(API_HOST + "/status");
     }
 
 }
