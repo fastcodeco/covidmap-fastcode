@@ -77,9 +77,15 @@ export default class Home extends React.Component<any, any>{
   }
 
   sendReport = async (values:any) => {
+    
+    if(window.localStorage.report)
+    {
+      alert("Ya hemos recibido tu reporte. Si deseas reportar en nombre de alguien mas pidele a la persona que lo haga por cuenta propia. Gracias.");
+      window.location.reload();
+      return;
+     }
 
-
-     const doit = window.confirm("SOLO ENVÍA EL REPORTE SI ES UN CASO CONFIRMADO. Ayúdanos a no generar información falsa.");
+     const doit = window.confirm("SOLO ENVÍA EL REPORTE SI ES UN CASO VERAZ. Ayúdanos a no generar información falsa.");
 
      if(!doit)
      {
@@ -103,6 +109,7 @@ export default class Home extends React.Component<any, any>{
      if(post.status === 201)
     { 
       alert("Gracias por contribuir, se ha enviado el reporte");
+      window.localStorage.report = data;
       window.location.reload();
     }
 
