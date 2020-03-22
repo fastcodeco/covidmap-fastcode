@@ -12,7 +12,20 @@ var getPosition = function (options: any) {
     });
 }
 
-
+const clusterCountLayer = {
+    id: 'cluster-count',
+    type: 'symbol',
+    source: 'reports',
+    filter: ['has', 'point_count'],
+    layout: {
+      'text-field': '{point_count_abbreviated}',
+      'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
+      'text-size': 12,
+    },
+    paint:{
+        'text-color': 'white'
+    }
+  };
 
 class Map extends React.Component<any, any>{
 
@@ -110,15 +123,19 @@ class Map extends React.Component<any, any>{
           clusterRadius={20}
     
         >
-            <Layer
-            type="circle"
-            paint={{
-              'circle-radius': 20,
-              'circle-color': 'red',
-              'circle-opacity': 0.5
-            }} />
 
-            
+     <Layer
+            type= 'circle'
+            source= 'reports'
+            paint={{
+                'circle-radius': 20,
+                'circle-color': 'red',
+                'circle-opacity': 0.5,
+              }}
+
+  />
+
+      <Layer {... clusterCountLayer}/>      
 
         </Source>
         </ReactMapGL>

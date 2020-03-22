@@ -133,7 +133,7 @@ export default class Home extends React.Component<any, any>{
        { !this.state.slides ?  ' ' :  
        <IonHeader translucent>
         <IonToolbar>
-          <IonTitle>Covid Map por <a href="https://fastcodelab.com" target="_blank" rel="noopener noreferrer"  style={{color:'white'}}>Fastcode</a></IonTitle>
+          <IonTitle>Covid Map por <a href="https://fastcodelab.com" target="_blank" rel="noopener noreferrer"  style={{color:'white', textDecoration:'none'}}>Fastcode</a></IonTitle>
         </IonToolbar>
       </IonHeader>
       
