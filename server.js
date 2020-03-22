@@ -212,8 +212,8 @@ api_router
       
         
      
-        api.save({ point: radius, days: days, type: type });
-        res.status(201).end();
+        let rs = api.save({ point: radius, days: days, type: type });
+        res.status(201).json(rs);
      
 
     })
