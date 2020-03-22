@@ -25,7 +25,8 @@ export default class Home extends React.Component<any, any>{
       cases : {
         confirmed:0,
         deaths:0,
-        recovered:0
+        recovered:0,
+        symptoms:0
       }
     }
 
