@@ -1,6 +1,7 @@
 import React from 'react';
-import { IonRow, IonGrid, IonButton,  IonModal, IonLabel, IonSegmentButton, IonSegment } from '@ionic/react';
+import { IonRow, IonGrid, IonButton,  IonModal, IonLabel, IonSegmentButton, IonSegment, IonAlert } from '@ionic/react';
 import ReCAPTCHA from "react-google-recaptcha";
+import { timeSharp } from 'ionicons/icons';
 
 const captchaRef = React.createRef<any>();
 
@@ -13,11 +14,13 @@ class Report extends React.Component<any, any>{
         this.state = {
             captchaOk : false,
             days: "lessthan5",
-            type: "Symptoms"
+            type: ""
         };
       }
 
     componentDidMount(){
+
+        this.setState({type:""})
         
     }
 
@@ -32,6 +35,10 @@ class Report extends React.Component<any, any>{
 
     typeChange = (e:any) => {
         console.log(e)
+
+        if(e.detail.value.match("Symptoms"))
+        this.setState({showSymptomsAlert:true})
+
         this.setState({type:e.detail.value})
     }
 
@@ -46,6 +53,8 @@ class Report extends React.Component<any, any>{
                     data.days = this.state.days;
                     data.captcha = captcha;
                     data.type = this.state.type;
+
+                    this.setState({type:""})
 
                     this.props.submit(data);
                 
@@ -63,11 +72,12 @@ class Report extends React.Component<any, any>{
 
     }
 
-
     
 
     render(){
-        return( <IonModal isOpen={this.props.open}>
+        return( 
+          <div>
+          <IonModal isOpen={this.props.open} >
               <IonGrid class="sendReport">
               <IonRow>
               <h1 style={{color:'white'}}>Reportar Caso Anónimamente</h1>
@@ -132,6 +142,16 @@ class Report extends React.Component<any, any>{
               </IonGrid>
           
           </IonModal>
+
+          <IonAlert
+          isOpen={this.state.showSymptomsAlert}
+          onDidDismiss={() => this.setState({showSymptomsAlert:false})}
+          header={'Información'}
+          message={'<p>Solo envía el reporte si presentas al menos dos de los siguientes síntomas:<br/> <ul style="text-aling:left !important; justify-selft:start !important"> <li> Fiebre arriba de 38°C</li> <li>Tos seca</li> <li> Malestar general (sobre todo cansancio)</li> <li> Dolor de cabeza</li> <li> Dificultad para respirar</li> <li> En algunos casos diarrea</li> </ul></p>'}
+          buttons={['Aceptar']}
+        />
+
+          </div>
        )
     }
 
