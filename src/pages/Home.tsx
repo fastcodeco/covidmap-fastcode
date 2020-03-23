@@ -6,6 +6,7 @@ import Map from '../components/map';
 import Report from '../components/report';
 import API from '../services/api';
 import Recomendaciones from '../components/recomendaciones';
+import { trendingUpSharp } from 'ionicons/icons';
 
 
 
@@ -207,7 +208,7 @@ export default class Home extends React.Component<any, any>{
       </IonContent>
 
   
-     <Report open={this.state.showReportForm} submit={this.sendReport} cancel={()=>{ this.setState({showReportForm:false}) }}/>
+     <Report open={this.state.showReportForm} submit={this.sendReport} cancel={()=>{ this.setState({showReportForm:false}) }} dismiss={()=>{this.setState({showReportForm:false})}}/>
      <Recomendaciones open={this.state.suggestions} cancel={()=>{ this.setState({suggestions:false}) }}/>
    
     </IonPage>
