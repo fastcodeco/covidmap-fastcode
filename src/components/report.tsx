@@ -1,7 +1,6 @@
 import React from 'react';
 import { IonRow, IonGrid, IonButton,  IonModal, IonLabel, IonSegmentButton, IonSegment, IonAlert, IonContent } from '@ionic/react';
 import ReCAPTCHA from "react-google-recaptcha";
-import { timeSharp } from 'ionicons/icons';
 
 const captchaRef = React.createRef<any>();
 

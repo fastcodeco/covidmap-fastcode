@@ -6,7 +6,6 @@ import Map from '../components/map';
 import Report from '../components/report';
 import API from '../services/api';
 import Recomendaciones from '../components/recomendaciones';
-import { trendingUpSharp } from 'ionicons/icons';
 
 
 

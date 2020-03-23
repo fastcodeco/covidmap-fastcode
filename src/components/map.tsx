@@ -12,6 +12,7 @@ var getPosition = function (options: any) {
     });
 }
 
+/*
 const clusterCountLayer = {
     id: 'cluster-count',
     type: 'symbol',
@@ -26,6 +27,7 @@ const clusterCountLayer = {
         'text-color': 'white'
     }
   };
+*/
 
 class Map extends React.Component<any, any>{
 
