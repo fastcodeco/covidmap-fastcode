@@ -110,7 +110,7 @@ export default class Home extends React.Component<any, any>{
      if(post.status === 201)
     { 
       alert("Gracias por contribuir, se ha enviado el reporte");
-      window.localStorage.report = data;
+      window.localStorage.report = JSON.stringify(data);
       window.location.reload();
     }
 
