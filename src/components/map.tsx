@@ -105,6 +105,8 @@ class Map extends React.Component<any, any>{
 
     locateMe = async () => {
 
+        this.setState({showLoading:true})
+
         let geolocation: any = await getPosition({}).catch(console.error);
 
         try {
