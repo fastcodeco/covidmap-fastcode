@@ -3,6 +3,7 @@ import ReactMapGL, { Source, Layer,} from 'react-map-gl';
 import { IonFab, IonFabButton, IonIcon } from '@ionic/react';
 import { locateOutline, callOutline, medkitOutline, reloadOutline} from 'ionicons/icons';
 import API from '../services/api';
+import './styles/map.css';
 
 
 var getPosition = function (options: any) {
@@ -157,7 +158,7 @@ class Map extends React.Component<any, any>{
           /*
           floating buttons
           */      
-     <div>
+     <div className="fabs">
          <IonFab vertical="bottom" color="success" slot="fixed" style={{left:'auto', right:'220px'}} >
                 <IonFabButton href="/" target="_self" color="dark">
                     <IonIcon icon={reloadOutline} />                    
