@@ -178,7 +178,7 @@ class Map extends React.Component<any, any>{
                     "Death",
                     "red",
                     "Ok",
-                    "#2dd36f",
+                    "green",
                     '#ffc409'
                 ],
                 'circle-opacity': 0.4,
@@ -194,6 +194,12 @@ class Map extends React.Component<any, any>{
         
           
      <div className="fabs">
+     <IonFab vertical="bottom" color="success" slot="fixed" style={{left:'auto', right:'290px'}} >
+                <IonFabButton href="/" target="_self" color="dark">
+                    <IonIcon icon={reloadOutline} />                    
+                </IonFabButton>
+            </IonFab>    
+        
          <IonFab vertical="bottom" color="success" slot="fixed" style={{left:'auto', right:'220px'}} >
                 <IonFabButton href="/" target="_self" color="dark">
                     <IonIcon icon={reloadOutline} />                    
