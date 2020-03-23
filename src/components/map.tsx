@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactMapGL, { Source, Layer,} from 'react-map-gl';
-import { IonFab, IonFabButton, IonIcon } from '@ionic/react';
+import { IonFab, IonFabButton, IonIcon, IonLoading } from '@ionic/react';
 import { locateOutline, callOutline, medkitOutline, reloadOutline} from 'ionicons/icons';
 import API from '../services/api';
 import './styles/map.css';
@@ -41,6 +41,7 @@ class Map extends React.Component<any, any>{
         this.state = {
             slides: window.localStorage.slides,
             suggestions: false,
+            showLoading: true,
             viewport : {
         
             }
@@ -48,7 +49,7 @@ class Map extends React.Component<any, any>{
 
     }
 
-    async componentDidMount() {
+    async componentDidMount() {    
 
         if(this.state.slides){
             this.initMap();
@@ -91,7 +92,8 @@ class Map extends React.Component<any, any>{
                     maxZoom: 13,
                     minZoom: 5,
                     transitionDuration: 700,
-                }
+                },
+                showLoading: false
             })
 
 
@@ -118,7 +120,8 @@ class Map extends React.Component<any, any>{
                     maxZoom: 13,
                     minZoom: 5,
                     transitionDuration: 700,
-                }
+                },
+                showLoading: false
             })
 
 
@@ -137,7 +140,15 @@ class Map extends React.Component<any, any>{
     }
 
     render() {
-        return <div> <ReactMapGL
+        return <div>
+            
+            <IonLoading 
+             isOpen={this.state.showLoading}
+             onDidDismiss={() => this.setState({showLoading:false})}
+            
+            />
+
+             <ReactMapGL
             {...this.state.viewport}
             onViewportChange={this._onViewportChange}
             mapboxApiAccessToken='pk.eyJ1IjoiZmFzdGNvZGUiLCJhIjoiY2s4MGczdmNxMGFybzNkc2Z4M24wYWhqZyJ9.xo6Amo_Nh2ZbxoNDq5t7BQ'
