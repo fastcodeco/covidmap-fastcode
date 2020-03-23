@@ -41,7 +41,9 @@ class Map extends React.Component<any, any>{
         this.state = {
             slides: window.localStorage.slides,
             suggestions: false,
-            viewport : {}
+            viewport : {
+        
+            }
         };
 
     }
@@ -82,7 +84,34 @@ class Map extends React.Component<any, any>{
             this.setState({
                 viewport: {
                     width: '100vw',
-                    height: '100vh',
+                    height: '85vh',
+                    longitude: geolocation.coords.longitude,
+                    latitude: geolocation.coords.latitude,
+                    zoom: 5,
+                    maxZoom: 13,
+                    minZoom: 5,
+                    transitionDuration: 700,
+                }
+            })
+
+
+
+        } catch (e) { }
+
+    }
+
+
+    locateMe = async () => {
+
+        let geolocation: any = await getPosition({}).catch(console.error);
+
+        try {
+
+
+            this.setState({
+                viewport: {
+                    width: '100vw',
+                    height: '85vh',
                     longitude: geolocation.coords.longitude,
                     latitude: geolocation.coords.latitude,
                     zoom: 13,
@@ -113,7 +142,7 @@ class Map extends React.Component<any, any>{
             onViewportChange={this._onViewportChange}
             mapboxApiAccessToken='pk.eyJ1IjoiZmFzdGNvZGUiLCJhIjoiY2s4MGczdmNxMGFybzNkc2Z4M24wYWhqZyJ9.xo6Amo_Nh2ZbxoNDq5t7BQ'
             width='100vw'
-            height='100vh'
+            height='85vh'
             center = {[this.state.viewport.latitude, this.state.longitude]}
             mapStyle="mapbox://styles/mapbox/dark-v9"
 
@@ -181,7 +210,7 @@ class Map extends React.Component<any, any>{
             </IonFab>
          
             <IonFab vertical="bottom" horizontal="end" slot="fixed"  >
-                <IonFabButton onClick={this.initMap}>
+                <IonFabButton onClick={this.locateMe}>
                     <IonIcon icon={locateOutline} />
                 </IonFabButton>
             </IonFab>
