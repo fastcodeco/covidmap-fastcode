@@ -42,7 +42,7 @@ class Map extends React.Component<any, any>{
             suggestions: false,
             viewport : {
                 width: '100vw',
-                height: '100vh',
+                height: '100%',
                 longitude: 4.1156735,
                 latitude: -72.9301367,
                 zoom: 5,
@@ -129,7 +129,6 @@ class Map extends React.Component<any, any>{
         id="my-data"
           type="geojson"
           data={process.env.REACT_APP_MAP_DATA_URL || 'http://localhost:5000/api/cases.geojson'}
-          cluster={true}
           clusterMaxZoom={13}
           clusterRadius={20}
         >
@@ -138,7 +137,7 @@ class Map extends React.Component<any, any>{
             type= 'circle'
             source= 'reports'
             paint={{
-                'circle-radius': 20,
+                'circle-radius': 17,
                 'circle-color': [
                     'match',
                     ['get', 'status'],
@@ -146,6 +145,10 @@ class Map extends React.Component<any, any>{
                     '#3880ff',
                     "Confirmed",
                     '#ffc409',
+                    "Death",
+                    "red",
+                    "recovered",
+                    "#2dd36f",
                     '#ffc409'
                 ],
                 'circle-opacity': 0.4,
