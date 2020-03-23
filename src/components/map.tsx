@@ -115,15 +115,15 @@ class Map extends React.Component<any, any>{
             height='100vh'
             center = {[this.state.viewport.latitude, this.state.longitude]}
             mapStyle="mapbox://styles/mapbox/dark-v9"
+            zoom= {13}
         >
  <Source
-            id="my-data"
+        id="my-data"
           type="geojson"
           data={process.env.REACT_APP_MAP_DATA_URL || 'http://localhost:5000/api/cases.geojson'}
           cluster={true}
           clusterMaxZoom={13}
           clusterRadius={20}
-    
         >
 
      <Layer
