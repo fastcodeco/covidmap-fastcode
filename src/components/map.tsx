@@ -1,9 +1,8 @@
 import React from 'react';
-import ReactMapGL, { Source, Layer } from 'react-map-gl';
+import ReactMapGL, { Source, Layer,} from 'react-map-gl';
 import { IonFab, IonFabButton, IonIcon } from '@ionic/react';
 import { locateOutline, callOutline, medkitOutline, reloadOutline} from 'ionicons/icons';
 import API from '../services/api';
-
 
 
 var getPosition = function (options: any) {
@@ -86,7 +85,8 @@ class Map extends React.Component<any, any>{
                     latitude: geolocation.coords.latitude,
                     zoom: 13,
                     maxZoom: 13,
-                    minZoom: 5
+                    minZoom: 5,
+
 
                 }
             })

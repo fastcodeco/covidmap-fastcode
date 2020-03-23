@@ -18,7 +18,7 @@ app.use(helmet({
 }))
 
 
-app.use(express.static(path.join(__dirname)))
+app.use(express.static(path.join(__dirname)+'/build'))
 
 // parse application/x-www-form-urlencoded
 app.use(bodyParser.urlencoded({ extended: false }))
