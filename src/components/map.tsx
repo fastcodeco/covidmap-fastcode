@@ -40,15 +40,7 @@ class Map extends React.Component<any, any>{
         this.state = {
             slides: window.localStorage.slides,
             suggestions: false,
-            viewport : {
-                width: '100vw',
-                height: '100%',
-                longitude: 4.1156735,
-                latitude: -72.9301367,
-                zoom: 5,
-                maxZoom: 13,
-                minZoom: 5,
-            }
+            viewport : {}
         };
 
     }
