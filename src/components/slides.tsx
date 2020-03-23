@@ -54,7 +54,7 @@ class Slides extends React.Component<any, any>{
         <h1 style={{textAlign:'center', display:'block', width:'100%'}}> Cómo funciona?</h1>
         </IonRow>
         <IonRow style={{justifyContent:'center'}}> 
-        <p style={{textAlign:'center'}}>Covid Map recibe reportes anónimos de personas que han sido diagnosticadas positivo en Covid-19 o que presentan síntomas para luego crear zonas en un mapa.</p>            
+        <p style={{textAlign:'center'}}>Covid Map recibe reportes anónimos de estados de las personas en relació con el Covid-19 para luego crear zonas en un mapa generando una visión general de la salud nacional.</p>            
         </IonRow>
         <IonRow style={{justifyContent:'center'}}>          
           <IonButton  fill="clear" style={{margin:'0 auto'}} onClick={this.nextSlide}><IonIcon slot="end" icon={arrowForward}></IonIcon></IonButton>
