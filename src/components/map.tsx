@@ -28,6 +28,7 @@ const clusterCountLayer = {
   };
 */
 
+
 class Map extends React.Component<any, any>{
 
 
@@ -37,9 +38,17 @@ class Map extends React.Component<any, any>{
         super(props);
 
         this.state = {
-            viewport: {},
             slides: window.localStorage.slides,
             suggestions: false,
+            viewport : {
+                width: '100vw',
+                height: '100vh',
+                longitude: 4.1156735,
+                latitude: -72.9301367,
+                zoom: 5,
+                maxZoom: 13,
+                minZoom: 5,
+            }
         };
 
     }
@@ -86,8 +95,7 @@ class Map extends React.Component<any, any>{
                     zoom: 13,
                     maxZoom: 13,
                     minZoom: 5,
-
-
+                    transitionDuration: 700,
                 }
             })
 
@@ -115,7 +123,7 @@ class Map extends React.Component<any, any>{
             height='100vh'
             center = {[this.state.viewport.latitude, this.state.longitude]}
             mapStyle="mapbox://styles/mapbox/dark-v9"
-            zoom= {13}
+
         >
  <Source
         id="my-data"
@@ -154,7 +162,7 @@ class Map extends React.Component<any, any>{
           /*
           floating buttons
           */      
-
+     <div>
          <IonFab vertical="bottom" color="success" slot="fixed" style={{left:'auto', right:'220px'}} >
                 <IonFabButton href="/" target="_self" color="dark">
                     <IonIcon icon={reloadOutline} />                    
@@ -182,7 +190,7 @@ class Map extends React.Component<any, any>{
                 </IonFabButton>
             </IonFab>
          
-
+            </div>
 
         </div>
 
