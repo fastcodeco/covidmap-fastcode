@@ -60,6 +60,8 @@ api_router
 
         response.features = await data.docs.map((report) => {
 
+            console.log(report)
+
             report = report.data().radius;
 
             console.log(report)

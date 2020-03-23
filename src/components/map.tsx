@@ -177,7 +177,7 @@ class Map extends React.Component<any, any>{
                     '#ffc409',
                     "Death",
                     "red",
-                    "recovered",
+                    "Ok",
                     "#2dd36f",
                     '#ffc409'
                 ],

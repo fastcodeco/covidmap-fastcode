@@ -190,7 +190,7 @@ export default class Home extends React.Component<any, any>{
     </IonToolbar> 
 <IonSegment mode="md" onIonChange={e => console.log('Segment selected', e.detail.value)} style={{background:'gray', borderRadius: 'none'}}>
           <IonSegmentButton value="map" onClick={this.report}>
-            <IonLabel class="text-white">Reportar un Caso</IonLabel>
+            <IonLabel class="text-white">Reporta Tu Estado</IonLabel>
           </IonSegmentButton>
           <IonSegmentButton value="suggestion" onClick={this.goToVideo}>
             <IonLabel  class="text-white">Recomendaciones </IonLabel>

@@ -12,7 +12,7 @@ class Report extends React.Component<any, any>{
     
         this.state = {
             captchaOk : false,
-            days: "lessthan5",
+            days: "none",
             type: ""
         };
       }
@@ -25,11 +25,6 @@ class Report extends React.Component<any, any>{
 
     captchaValidation = (e:any) => {
         console.log(e);
-    }
-
-    daysChange = (e:any) => {
-        console.log(e)
-        this.setState({days:e.detail.value})
     }
 
     typeChange = (e:any) => {
@@ -81,15 +76,15 @@ class Report extends React.Component<any, any>{
               <IonContent>
               <IonGrid class="sendReport">
               <IonRow>
-              <h1 style={{color:'white'}}>Reportar Caso Anónimamente</h1>
+              <h1 style={{color:'white'}}>Reportar Estado Anónimamente</h1>
               <IonLabel style={{fontSize:'12px'}}>Usaremos tu reporte para crear una zona en el mapa. No almacenaremos ni mostraremos ubicaciones exactas.</IonLabel>
              </IonRow>
              <br />
 
             <form >
             <IonRow>
-               <IonLabel>Defina el tipo de caso:</IonLabel>
-             
+               <h4 style={{display:'block !important'}}>Defina su estado.</h4>
+               <IonLabel style={{fontSize:'12px', display:'block !important'}}>Podrás actualizar tu estado en el futuro.</IonLabel>
           </IonRow>
      
             <IonRow>
@@ -100,26 +95,14 @@ class Report extends React.Component<any, any>{
             <IonSegmentButton value="Confirmed" >
                 <IonLabel  class="text-blue">Confirmado</IonLabel>
             </IonSegmentButton>
+            <IonSegmentButton value="Ok" >
+                <IonLabel  class="text-blue">Sano</IonLabel>
+            </IonSegmentButton>
             </IonSegment>
              </IonRow>
       <br/>
 
-             <IonRow>
-               <IonLabel>Hace cuantos días siente síntomas o fue diagnosticado?</IonLabel>
-             
-          </IonRow>
-     
-            <IonRow>
-                <IonSegment mode="md" style={{background:'white'}} value={this.state.days} onIonChange={this.daysChange} >
-            <IonSegmentButton value="lessthan5" >
-                <IonLabel class="text-blue">Menos de 5</IonLabel>
-            </IonSegmentButton>
-            <IonSegmentButton value="morethan5" >
-                <IonLabel  class="text-blue">Más de 5</IonLabel>
-            </IonSegmentButton>
-            </IonSegment>
-             </IonRow>
-      <br/>
+         
             <IonRow style={{justifyContent:'center'}}>
             <ReCAPTCHA  
             ref={captchaRef}  
