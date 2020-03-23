@@ -45,13 +45,13 @@ export default class Home extends React.Component<any, any>{
     let cases:any = await API.cases().catch(console.log);
     let status_local:any = await API.status_local().catch(console.log);
 
-    cases = cases.data[0];
-    status_local = status_local.data
+    cases = cases.data;
+    status_local = status_local.data;
 
     let status = {
-      confirmed: cases.confirmed,
-      deaths: cases.deaths,
-      recovered: cases.recovered,
+      confirmed: cases.confirmed.value,
+      deaths: cases.deaths.value,
+      recovered: cases.recovered.value,
       symptoms: status_local.symptoms,
       self_confirmed: status_local.self_confirmed
     }

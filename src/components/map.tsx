@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactMapGL, { Source, Layer,} from 'react-map-gl';
 import { IonFab, IonFabButton, IonIcon} from '@ionic/react';
-import { locateOutline, callOutline, medkitOutline, reloadOutline} from 'ionicons/icons';
+import { locateOutline, callOutline, medkitOutline, reloadOutline, pencilOutline} from 'ionicons/icons';
 import API from '../services/api';
 import './styles/map.css';
 
@@ -196,7 +196,7 @@ class Map extends React.Component<any, any>{
      <div className="fabs">
      <IonFab vertical="bottom" color="success" slot="fixed" style={{left:'auto', right:'290px'}} >
                 <IonFabButton href="/" target="_self" color="dark">
-                    <IonIcon icon={reloadOutline} />                    
+                    <IonIcon icon={pencilOutline} />                    
                 </IonFabButton>
             </IonFab>    
         
