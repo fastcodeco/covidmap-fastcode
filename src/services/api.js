@@ -11,7 +11,7 @@ let API = {
         return axios.post(API_HOST, data);
     },
     cases : async () =>{
-        return axios.get('https://covid-19-api-jst2gkntj.now.sh/api/countries/co');
+        return axios.get('https://covid19.mathdro.id/api/countries/co/confirmed');
     },
     status_local : async () =>{
         return axios.get(API_HOST + "/status");
