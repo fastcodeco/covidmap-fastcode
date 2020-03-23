@@ -203,7 +203,7 @@ export default class Home extends React.Component<any, any>{
 
 
       <IonContent style={{display: this.state.slides ? 'flex' : 'none' }} >
-        <Map />
+        <Map showLoading={this.state.showLoading} />
       </IonContent>
 
   

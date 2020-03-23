@@ -1,5 +1,5 @@
 import React from 'react';
-import { IonRow, IonGrid, IonButton,  IonModal, IonLabel, IonSegmentButton, IonSegment, IonAlert, IonContent } from '@ionic/react';
+import { IonRow, IonGrid, IonButton,  IonModal, IonLabel, IonSegmentButton, IonSegment, IonAlert, IonContent, } from '@ionic/react';
 import ReCAPTCHA from "react-google-recaptcha";
 
 const captchaRef = React.createRef<any>();
@@ -76,7 +76,7 @@ class Report extends React.Component<any, any>{
 
     render(){
         return( 
-          <div>
+            <div>
           <IonModal isOpen={this.props.open} onDidDismiss={()=>{this.props.dismiss(); this.setState({type:""})}} swipeToClose={true}>
               <IonContent>
               <IonGrid class="sendReport">

@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactMapGL, { Source, Layer,} from 'react-map-gl';
-import { IonFab, IonFabButton, IonIcon, IonLoading } from '@ionic/react';
+import { IonFab, IonFabButton, IonIcon} from '@ionic/react';
 import { locateOutline, callOutline, medkitOutline, reloadOutline} from 'ionicons/icons';
 import API from '../services/api';
 import './styles/map.css';
@@ -44,7 +44,7 @@ class Map extends React.Component<any, any>{
             showLoading: true,
             viewport : {
         
-            }
+            },
         };
 
     }
@@ -143,12 +143,7 @@ class Map extends React.Component<any, any>{
 
     render() {
         return <div>
-            
-            <IonLoading 
-             isOpen={this.state.showLoading}
-             onDidDismiss={() => this.setState({showLoading:false})}
-            
-            />
+
 
              <ReactMapGL
             {...this.state.viewport}
