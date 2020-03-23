@@ -184,9 +184,7 @@ class Map extends React.Component<any, any>{
         </Source>
         </ReactMapGL>
         
-          /*
-          floating buttons
-          */      
+          
      <div className="fabs">
          <IonFab vertical="bottom" color="success" slot="fixed" style={{left:'auto', right:'220px'}} >
                 <IonFabButton href="/" target="_self" color="dark">
