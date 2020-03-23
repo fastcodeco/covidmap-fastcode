@@ -84,7 +84,7 @@ class Map extends React.Component<any, any>{
             this.setState({
                 viewport: {
                     width: '100vw',
-                    height: '85vh',
+                    height: '90vh',
                     longitude: geolocation.coords.longitude,
                     latitude: geolocation.coords.latitude,
                     zoom: 5,
@@ -111,7 +111,7 @@ class Map extends React.Component<any, any>{
             this.setState({
                 viewport: {
                     width: '100vw',
-                    height: '85vh',
+                    height: '90vh',
                     longitude: geolocation.coords.longitude,
                     latitude: geolocation.coords.latitude,
                     zoom: 13,
@@ -142,7 +142,7 @@ class Map extends React.Component<any, any>{
             onViewportChange={this._onViewportChange}
             mapboxApiAccessToken='pk.eyJ1IjoiZmFzdGNvZGUiLCJhIjoiY2s4MGczdmNxMGFybzNkc2Z4M24wYWhqZyJ9.xo6Amo_Nh2ZbxoNDq5t7BQ'
             width='100vw'
-            height='85vh'
+            height='90vh'
             center = {[this.state.viewport.latitude, this.state.longitude]}
             mapStyle="mapbox://styles/mapbox/dark-v9"
 
