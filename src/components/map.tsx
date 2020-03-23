@@ -195,7 +195,7 @@ class Map extends React.Component<any, any>{
           
      <div className="fabs">
      <IonFab vertical="bottom" color="success" slot="fixed" style={{left:'auto', right:'290px'}} >
-                <IonFabButton href="/" target="_self" color="dark">
+                <IonFabButton onClick={()=>{alert("Estamos trabajando en la versión que te permitirá actualizar tu estado en el futuro.")}} color="dark">
                     <IonIcon icon={pencilOutline} />                    
                 </IonFabButton>
             </IonFab>    

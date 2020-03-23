@@ -175,7 +175,7 @@ export default class Home extends React.Component<any, any>{
 
       <IonCol>
       <IonLabel style={{textAlign:'center', width:'100%', display:'block'}}>
-        <IonLabel color="success" style={{textAlign:'center', width:'100%', display:'block', fontSize:'11px' }}>Recuperados</IonLabel>
+        <IonLabel color="success" style={{textAlign:'center', width:'100%', display:'block', fontSize:'11px' }}>Sanos</IonLabel>
         <IonLabel color="success" style={{textAlign:'center', width:'100%', display:'block'}}>{this.state.cases.recovered}</IonLabel>
       </IonLabel>
       </IonCol>
