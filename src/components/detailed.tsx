@@ -1,5 +1,5 @@
 import React from 'react';
-import { IonRow, IonGrid, IonModal, IonContent, IonCol, IonCard, IonCardHeader, IonCardSubtitle, IonCardContent, IonButton, IonIcon, IonFab, IonFabButton, } from '@ionic/react';
+import { IonRow, IonGrid, IonModal, IonContent, IonCol, IonCard, IonCardHeader, IonCardSubtitle, IonCardContent, IonButton, IonIcon, IonFab, IonFabButton, IonLabel, } from '@ionic/react';
 import ReCAPTCHA from "react-google-recaptcha";
 import Axios from 'axios';
 import API from '../services/api';
@@ -50,7 +50,8 @@ class Detailed extends React.Component<any, any>{
             </IonFab>    
               <IonGrid class="sendReport">
               <IonRow>
-              <h1 style={{color:'white'}}>Casos en Colombia</h1>
+              <h1 style={{color:'white', width:'100%'}}>Casos en Colombia</h1>
+              <IonLabel style={{fontSize:'12px'}}>Fuente: Reportes MinSalud Colombia.</IonLabel>
              </IonRow>
 
              <IonRow>
