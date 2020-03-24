@@ -181,8 +181,8 @@ export default class Home extends React.Component<any, any>{
       </IonCol>
 
       <IonCol>
-        <IonLabel color="danger" style={{textAlign:'center', width:'100%', display:'block',fontSize:'11px'}}>Muertes</IonLabel>
-        <IonLabel color="danger" style={{textAlign:'center', width:'100%', display:'block'}}>{this.state.cases.deaths}</IonLabel>
+        <IonLabel style={{textAlign:'center', width:'100%', display:'block',fontSize:'11px'}}>Muertes</IonLabel>
+        <IonLabel  style={{textAlign:'center', width:'100%', display:'block'}}>{this.state.cases.deaths}</IonLabel>
       </IonCol>
 
     </IonRow>

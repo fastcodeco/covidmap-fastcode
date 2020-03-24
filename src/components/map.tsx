@@ -176,7 +176,7 @@ class Map extends React.Component<any, any>{
                     "Confirmed",
                     '#ffc409',
                     "Death",
-                    "red",
+                    "white",
                     '#ffc409'
                 ],
                 'circle-opacity': 0.4,
