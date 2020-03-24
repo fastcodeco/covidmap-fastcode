@@ -15,6 +15,9 @@ let API = {
     },
     status_local : async () =>{
         return axios.get(API_HOST + "/status");
+    },
+    get_co_details : async () => {
+        return axios.get(API_HOST + "/details/co")
     }
 
 }

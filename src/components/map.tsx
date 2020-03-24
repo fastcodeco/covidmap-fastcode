@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactMapGL, { Source, Layer,} from 'react-map-gl';
 import { IonFab, IonFabButton, IonIcon} from '@ionic/react';
-import { locateOutline, callOutline, medkitOutline, reloadOutline, personOutline} from 'ionicons/icons';
+import { locateOutline, callOutline, medkitOutline, reloadOutline, personOutline, addOutline, listOutline} from 'ionicons/icons';
 import API from '../services/api';
 import './styles/map.css';
+import Detailed from './detailed';
 
 
 var getPosition = function (options: any) {
@@ -42,6 +43,7 @@ class Map extends React.Component<any, any>{
             slides: window.localStorage.slides,
             suggestions: false,
             showLoading: true,
+            showDetails: false,       
             viewport : {
         
             },
@@ -195,8 +197,8 @@ class Map extends React.Component<any, any>{
           
      <div className="fabs">
      <IonFab vertical="bottom" color="success" slot="fixed" style={{left:'auto', right:'290px'}} >
-                <IonFabButton onClick={()=>{alert("Estamos trabajando en la versión que te permitirá actualizar tu estado en el futuro.")}} color="dark">
-                    <IonIcon icon={personOutline} />                    
+                <IonFabButton onClick={()=>this.setState({showDetails:true})} color="dark">
+                    <IonIcon icon={listOutline} />                    
                 </IonFabButton>
             </IonFab>    
         
@@ -228,6 +230,8 @@ class Map extends React.Component<any, any>{
             </IonFab>
          
             </div>
+
+            <Detailed open={this.state.showDetails} close={()=>this.setState({showDetails:false})}/>
 
         </div>
 

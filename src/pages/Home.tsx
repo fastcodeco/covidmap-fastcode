@@ -6,6 +6,7 @@ import Map from '../components/map';
 import Report from '../components/report';
 import API from '../services/api';
 import Recomendaciones from '../components/recomendaciones';
+import Detailed from '../components/detailed';
 
 
 
@@ -159,7 +160,7 @@ export default class Home extends React.Component<any, any>{
     <IonLabel  style={{textAlign:'center', width:'100%', display:'block', fontSize:'11px', paddingBottom:'7px'}}>Estado COVID-19 Colombia</IonLabel>
       </IonRow>
 
-    <IonRow >
+    <IonRow onClick={()=>this.setState({showDetails:true})}>
 
       <IonCol style={{justifyContent:'center'}}>
         <IonLabel color="danger" style={{textAlign:'center', width:'100%', display:'block', fontSize:'11px'}}>Confirmados</IonLabel>
@@ -192,11 +193,17 @@ export default class Home extends React.Component<any, any>{
           <IonSegmentButton value="map" onClick={this.report}>
             <IonLabel class="text-white">Reporta un Caso</IonLabel>
           </IonSegmentButton>
+          
           <IonSegmentButton value="suggestion" onClick={this.goToVideo}>
             <IonLabel  class="text-white">Recomendaciones </IonLabel>
           </IonSegmentButton>
 
+
+
         </IonSegment>
+
+        <Detailed open={this.state.showDetails} close={()=>this.setState({showDetails:false})}/>
+
         </div>
         
   }
@@ -212,6 +219,7 @@ export default class Home extends React.Component<any, any>{
    
     </IonPage>
 
+    
 
   );
     }

@@ -132,12 +132,26 @@ api_router
 
         response[0].symptoms = symptoms;
         response[0].self_confirmed = self_confirmed;
+        
+        console.log(response[0])
 
         res.send(response[0]);
 
 
 
     })
+
+api_router
+.get("/details/:country", async (req, res, next)=>{
+    
+    let data = []; 
+    data = await require('./scrap.js').getCovidCoDetails().catch(console.log).catch(()=>{
+        res.json(data);
+    });
+
+    res.json(data);
+
+})
 
 
 api_router
