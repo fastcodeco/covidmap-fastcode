@@ -83,7 +83,7 @@ class Report extends React.Component<any, any>{
 
             <form >
             <IonRow>
-               <h4 style={{display:'block !important'}}>Defina su estado.</h4>
+               <h4 style={{display:'block !important', width:'100%'}}>Defina su estado.</h4><br/>
                <IonLabel style={{fontSize:'12px', display:'block !important'}}>Podrás actualizar tu estado en el futuro.</IonLabel>
           </IonRow>
      
@@ -94,9 +94,6 @@ class Report extends React.Component<any, any>{
             </IonSegmentButton>
             <IonSegmentButton value="Confirmed" >
                 <IonLabel  class="text-blue">Confirmado</IonLabel>
-            </IonSegmentButton>
-            <IonSegmentButton value="Ok" >
-                <IonLabel  class="text-blue">Sano</IonLabel>
             </IonSegmentButton>
             </IonSegment>
              </IonRow>
