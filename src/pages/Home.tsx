@@ -168,8 +168,8 @@ export default class Home extends React.Component<any, any>{
      
       <IonCol>
       <IonLabel style={{textAlign:'center', width:'100%', display:'block'}}>
-        <IonLabel color="primary" style={{textAlign:'center', width:'100%', display:'block', fontSize:'11px' }}>Sospechosos</IonLabel>
-        <IonLabel color="primary" style={{textAlign:'center', width:'100%', display:'block'}}>{this.state.cases.symptoms}</IonLabel>
+        <IonLabel color="warning" style={{textAlign:'center', width:'100%', display:'block', fontSize:'11px' }}>Sospechosos</IonLabel>
+        <IonLabel color="warning" style={{textAlign:'center', width:'100%', display:'block'}}>{this.state.cases.symptoms}</IonLabel>
       </IonLabel>
       </IonCol>
 

@@ -172,9 +172,11 @@ class Map extends React.Component<any, any>{
                     'match',
                     ['get', 'status'],
                     "Symptoms",
-                    '#3880ff',
-                    "Confirmed",
                     '#ffc409',
+                    "Confirmed",
+                    'red',
+                    "confirmed",
+                    'red',
                     "Death",
                     "white",
                     '#ffc409'
