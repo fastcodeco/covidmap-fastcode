@@ -67,7 +67,7 @@ api_router
             console.log(report)
 
             if (report.point)
-                return {
+                return report.type != "Death" ? {
                     "type": "Feature",
                     "geometry": {
                         "type": "Point",
@@ -77,11 +77,11 @@ api_router
                         "status": report.type || 'Confirmed',
                         "days": report.days || ''
                       }
-                }
+                } : false;
 
 
             else
-                return null;
+                return false;
 
         })
 
