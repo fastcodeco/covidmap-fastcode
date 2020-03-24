@@ -162,8 +162,8 @@ export default class Home extends React.Component<any, any>{
     <IonRow >
 
       <IonCol style={{justifyContent:'center'}}>
-        <IonLabel color="warning" style={{textAlign:'center', width:'100%', display:'block', fontSize:'11px'}}>Confirmados</IonLabel>
-        <IonLabel color="warning" style={{textAlign:'center', width:'100%', display:'block'}}>{this.state.cases.confirmed }</IonLabel>
+        <IonLabel color="danger" style={{textAlign:'center', width:'100%', display:'block', fontSize:'11px'}}>Confirmados</IonLabel>
+        <IonLabel color="danger" style={{textAlign:'center', width:'100%', display:'block'}}>{this.state.cases.confirmed }</IonLabel>
       </IonCol>
      
       <IonCol>
