@@ -1,11 +1,8 @@
 import React from 'react';
-import { IonRow, IonGrid, IonModal, IonContent, IonCol, IonCard, IonCardHeader, IonCardSubtitle, IonCardContent, IonButton, IonIcon, IonFab, IonFabButton, IonLabel, } from '@ionic/react';
-import ReCAPTCHA from "react-google-recaptcha";
-import Axios from 'axios';
+import { IonRow, IonGrid, IonModal, IonContent, IonCol, IonCard, IonCardHeader, IonCardSubtitle, IonCardContent, IonIcon, IonFab, IonFabButton, IonLabel, } from '@ionic/react';
 import API from '../services/api';
-import { personOutline, closeCircleOutline } from 'ionicons/icons';
+import { closeCircleOutline } from 'ionicons/icons';
 
-const captchaRef = React.createRef<any>();
 
 class Detailed extends React.Component<any, any>{
 
@@ -33,7 +30,6 @@ class Detailed extends React.Component<any, any>{
 
        this.setState({data:data})
 
-       console.log(data);
   }
 
     

@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactMapGL, { Source, Layer,} from 'react-map-gl';
 import { IonFab, IonFabButton, IonIcon} from '@ionic/react';
-import { locateOutline, callOutline, medkitOutline, reloadOutline, personOutline, addOutline, listOutline} from 'ionicons/icons';
+import { locateOutline, callOutline, medkitOutline, reloadOutline, listOutline} from 'ionicons/icons';
 import API from '../services/api';
 import './styles/map.css';
 import Detailed from './detailed';
