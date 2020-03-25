@@ -13,7 +13,7 @@ class Report extends React.Component<any, any>{
         this.state = {
             captchaOk : false,
             days: "none",
-            type: ""
+            type: "Symptoms"
         };
       }
 
@@ -46,7 +46,7 @@ class Report extends React.Component<any, any>{
                     let data:any = {};
                     data.days = this.state.days;
                     data.captcha = captcha;
-                    data.type = this.state.type;
+                    data.type = "Symptoms";
 
                     this.setState({type:""})
 
@@ -76,29 +76,14 @@ class Report extends React.Component<any, any>{
               <IonContent>
               <IonGrid class="sendReport">
               <IonRow>
-              <h1 style={{color:'white'}}>Reportar Estado Anónimamente</h1>
-              <IonLabel style={{fontSize:'12px'}}>Usaremos tu reporte para crear una zona en el mapa. No almacenaremos ni mostraremos ubicaciones exactas.</IonLabel>
+              <h1 style={{color:'white'}}>Reportar Caso Sospechoso Anónimamente</h1>
+              <IonLabel style={{fontSize:'12px'}}>Usaremos tu reporte para crear un caso sospechoso en el mapa. No almacenaremos ni mostraremos ubicaciones exactas.</IonLabel>
              </IonRow>
              <br />
 
             <form >
-            <IonRow>
-               <h4 style={{display:'block !important', width:'100%'}}>Defina su estado.</h4><br/>
-               <IonLabel style={{fontSize:'12px', display:'block !important'}}>Podrás actualizar tu estado en el futuro.</IonLabel>
-          </IonRow>
-     
-            <IonRow>
-                <IonSegment mode="md" style={{background:'white'}} value={this.state.type} onIonChange={this.typeChange} >
-            <IonSegmentButton value="Symptoms" >
-                <IonLabel class="text-blue">Con Síntomas</IonLabel>
-            </IonSegmentButton>
-            <IonSegmentButton value="Confirmed" >
-                <IonLabel  class="text-blue">Confirmado</IonLabel>
-            </IonSegmentButton>
-            </IonSegment>
-             </IonRow>
-      <br/>
-
+ 
+ 
          
             <IonRow style={{justifyContent:'center'}}>
             <ReCAPTCHA  
@@ -115,7 +100,7 @@ class Report extends React.Component<any, any>{
 
                <IonRow style={{justifyContent: 'center'}}>
                <IonButton  onClick={this.props.cancel} style={{marginRight:'20px'}}>Cancelar</IonButton>
-               <IonButton color="danger" onClick={this.submit} >Enviar Caso</IonButton>
+               <IonButton color="danger" onClick={this.submit} >Enviar Reporte</IonButton>
                </IonRow>
          
 

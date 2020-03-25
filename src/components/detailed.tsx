@@ -63,18 +63,18 @@ class Detailed extends React.Component<any, any>{
                            <table style={{width:'98%', margin:'0 auto'}}>
                                <tbody>
                                    <tr>
-                                       <td >Confirmados</td>
-                                       <td style={{color:'red'}}>{data.confirmed || 0}</td>
+                                       <td style={{width:'50%'}}>Confirmados</td>
+                                       <td style={{color:'red', width:'50%'}}>{data.confirmed || 0}</td>
                                    </tr>
    
                                    <tr>
-                                       <td>Recuperados</td>
-                 <td style={{color:'green'}}>{data.recovered || 0}</td>
+                                       <td style={{width:'50%'}}> Recuperados</td>
+                 <td style={{color:'green', width:'50%'}}>{data.recovered || 0}</td>
                                    </tr>
                                    
                                    <tr>
-                                       <td>Muertes</td>
-                                       <td>{data.deaths || 0}</td>
+                                       <td style={{width:'50%'}}>Muertes</td>
+                                       <td style={{width:'50%'}}>{data.deaths || 0}</td>
                                    </tr>
                                </tbody>
                            </table>

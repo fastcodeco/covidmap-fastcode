@@ -67,7 +67,7 @@ api_router
             console.log(report)
 
             if (report.point)
-                return report.type != "Death" ? {
+                return report.type != "Death" && report.type!="Symptoms" ? {
                     "type": "Feature",
                     "geometry": {
                         "type": "Point",
