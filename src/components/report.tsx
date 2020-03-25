@@ -95,7 +95,7 @@ class Report extends React.Component<any, any>{
       <br/>
 
              <IonRow>
-               <IonLabel style={{textAlign:'center', fontSize:'11px'}}>Al enviar la información usted acepta el procesamiento de datos por parte de Covid Map.</IonLabel>
+               <IonLabel style={{textAlign:'center', fontSize:'11px'}}>Al enviar la información usted acepta el procesamiento de datos por parte de Covid Map, y se hace responsable del caso reportado.</IonLabel>
                </IonRow>
 
                <IonRow style={{justifyContent: 'center'}}>
