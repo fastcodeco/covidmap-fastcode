@@ -18,7 +18,7 @@ app.use(helmet({
 }))
 
 
-app.use(express.static(path.join(__dirname)+'/build'))
+app.use(express.static(path.join(__dirname) + '/build'))
 
 // parse application/x-www-form-urlencoded
 app.use(bodyParser.urlencoded({ extended: false }))
@@ -54,7 +54,7 @@ api_router
             },
             "features": []
         }
-        
+
 
 
 
@@ -67,16 +67,16 @@ api_router
             console.log(report)
 
             if (report.point)
-                return report.type != "Death" && report.type!="Symptoms" ? {
+                return report.type != "Death" && report.type != "Symptoms" ? {
                     "type": "Feature",
                     "geometry": {
                         "type": "Point",
-                        "coordinates": [report.point[1] || 0, report.point[0] || 0] 
+                        "coordinates": [report.point[1] || 0, report.point[0] || 0]
                     },
                     "properties": {
                         "status": report.type || 'Confirmed',
                         "days": report.days || ''
-                      }
+                    }
                 } : false;
 
 
@@ -91,7 +91,7 @@ api_router
 
     })
 
-    api_router
+api_router
     .get("/status", async (req, res, next) => {
 
         let data = await api.getStatus();
@@ -101,26 +101,26 @@ api_router
 
         let response;
 
-        cases.docs.map((item)=>{
-            
+        cases.docs.map((item) => {
+
             item = item.data().radius;
 
             console.log(item.type)
 
-            if(!item.type)
-            item.type = "Confirmed";
+            if (!item.type)
+                item.type = "Confirmed";
 
 
-             switch (item.type){
-             case 'Symptoms':
-              symptoms++;
-             break;
-             case 'Confirmed':
-              self_confirmed++;
-             break;
-             default:
-                 self_confirmed++;
-             }
+            switch (item.type) {
+                case 'Symptoms':
+                    symptoms++;
+                    break;
+                case 'Confirmed':
+                    self_confirmed++;
+                    break;
+                default:
+                    self_confirmed++;
+            }
 
         })
 
@@ -132,7 +132,7 @@ api_router
 
         response[0].symptoms = symptoms;
         response[0].self_confirmed = self_confirmed;
-        
+
         console.log(response[0])
 
         res.send(response[0]);
@@ -142,16 +142,16 @@ api_router
     })
 
 api_router
-.get("/details/:country", async (req, res, next)=>{
-    
-    let data = []; 
-    data = await require('./scrap.js').getCovidCoDetails().catch(console.log).catch(()=>{
+    .get("/details/:country", async (req, res, next) => {
+
+        let data = [];
+        data = await require('./scrap.js').getCovidCoDetails().catch(console.log).catch(() => {
+            res.json(data);
+        });
+
         res.json(data);
-    });
 
-    res.json(data);
-
-})
+    })
 
 
 api_router
@@ -161,6 +161,8 @@ api_router
         let days = req.body.days || 0;
         let captcha = req.body.captcha || null;
         let type = req.body.type || null;
+
+
 
         if (!radius) {
             res.status(400).end();
@@ -172,38 +174,47 @@ api_router
             return;
         }
 
-        if(!type){
+        if (!type) {
             res.status(400).end();
-            return; 
+            return;
         }
 
-        if(!captcha){
+        if (!captcha) {
             res.status(400).end();
-            return; 
+            return;
         }
-      
+
+
         //let's validate captcha
         let rsc = await request({
-            url : "https://www.google.com/recaptcha/api/siteverify",
-            method : "POST",
+            url: "https://www.google.com/recaptcha/api/siteverify",
+            method: "POST",
             formData: {
-                secret : process.env.CAPTCHA_SECRET || '',
-                response : captcha
+                secret: process.env.CAPTCHA_SECRET || '',
+                response: captcha
             }
         });
 
         rsc = JSON.parse(rsc);
+
+        if (rsc.success) {
+
+            if (type.match("Confirmed"))
+                type = "Symptoms";
+            
+                console.log(type);
         
-        if(rsc.success){
-        api.save({ point: radius, days: days, type: type });
-        res.status(201).end();
-        }else
-        res.status(401).end("invalid captcha");
+
+            api.save({ point: radius, days: days, type: type });
+            res.status(201).end();
+
+        } else
+            res.status(401).end("invalid captcha");
 
     })
 
 
-    api_router
+api_router
     .post("/post", async (req, res, next) => {
 
         let radius = req.body.radius;
@@ -220,17 +231,17 @@ api_router
             return;
         }
 
-        if(!type){
+        if (!type) {
             res.status(400).end();
-            return; 
+            return;
         }
 
-      
-        
-     
+
+
+
         let rs = api.save({ point: radius, days: days, type: type });
         res.status(201).json(rs);
-     
+
 
     })
 
