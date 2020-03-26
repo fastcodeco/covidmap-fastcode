@@ -45,7 +45,7 @@
   },
   "scripts": {
     "start": "node ./server.js",
-    "dev": "react-scripts start",
+    "dev": "ionic serve",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

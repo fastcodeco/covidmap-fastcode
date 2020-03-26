@@ -208,7 +208,7 @@ export default class Home extends React.Component<any, any>{
 
         <IonSegment mode="md" onIonChange={e => console.log('Segment selected', e.detail.value)} style={{borderRadius: 'none'}}>
       
-          <IonSegmentButton value="map" onClick={()=>this.setState({canGoOut:true})}>
+          <IonSegmentButton value="" onClick={()=>this.setState({canGoOut:true})}>
             <IonLabel class="text-white">Puedo salir de casa?</IonLabel>
           </IonSegmentButton>
           
