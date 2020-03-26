@@ -1,5 +1,5 @@
 import React from 'react';
-import { IonRow, IonGrid, IonButton,  IonModal, IonLabel, IonSegmentButton, IonSegment, IonAlert, IonContent, } from '@ionic/react';
+import { IonRow, IonGrid, IonButton,  IonModal, IonLabel, IonAlert, IonContent, } from '@ionic/react';
 import ReCAPTCHA from "react-google-recaptcha";
 
 const captchaRef = React.createRef<any>();
@@ -77,7 +77,7 @@ class Report extends React.Component<any, any>{
               <IonGrid class="sendReport">
               <IonRow>
               <h1 style={{color:'white'}}>Reportar Caso Sospechoso Anónimamente</h1>
-              <IonLabel style={{fontSize:'12px'}}>Usaremos tu reporte para crear un caso sospechoso en el mapa. No almacenaremos ni mostraremos ubicaciones exactas.</IonLabel>
+              <IonLabel style={{fontSize:'12px'}}>Usaremos tu reporte para crear un caso sospechoso en nuestros registros. No almacenaremos ni mostraremos ubicaciones exactas.</IonLabel>
              </IonRow>
              <br />
 

@@ -7,6 +7,7 @@ import Report from '../components/report';
 import API from '../services/api';
 import Recomendaciones from '../components/recomendaciones';
 import Detailed from '../components/detailed';
+import CanGoOut from '../components/cangoout';
 
 
 
@@ -146,7 +147,7 @@ export default class Home extends React.Component<any, any>{
        { !this.state.slides ?  ' ' :  
        <IonHeader translucent>
         <IonToolbar>
-          <IonTitle style={{textAlign:'center'}}><a href="https://fastcodelab.com" target="_blank" rel="noopener noreferrer"  style={{color:'white', textDecoration:'none'}}>Covid Map Colombia</a></IonTitle>
+          <IonTitle style={{textAlign:'center'}}><a href="https://fastcodelab.com" target="_blank" rel="noopener noreferrer"  style={{color:'white', textDecoration:'none'}}>Covid Map por Fastcode</a></IonTitle>
         </IonToolbar>
       </IonHeader>
       
@@ -191,8 +192,9 @@ export default class Home extends React.Component<any, any>{
     </IonToolbar> 
 <IonSegment mode="md" onIonChange={e => console.log('Segment selected', e.detail.value)} style={{background:'gray', borderRadius: 'none'}}>
           <IonSegmentButton value="map" onClick={this.report}>
-            <IonLabel class="text-white">Reporta un Caso</IonLabel>
+            <IonLabel class="text-white">Reportar un Caso</IonLabel>
           </IonSegmentButton>
+
           
           <IonSegmentButton value="suggestion" onClick={this.goToVideo}>
             <IonLabel  class="text-white">Recomendaciones </IonLabel>
@@ -204,6 +206,16 @@ export default class Home extends React.Component<any, any>{
 
         <Detailed open={this.state.showDetails} close={()=>this.setState({showDetails:false})}/>
 
+        <IonSegment mode="md" onIonChange={e => console.log('Segment selected', e.detail.value)} style={{borderRadius: 'none'}}>
+      
+          <IonSegmentButton value="map" onClick={()=>this.setState({canGoOut:true})}>
+            <IonLabel class="text-white">Puedo salir de casa?</IonLabel>
+          </IonSegmentButton>
+          
+    
+
+
+        </IonSegment>
         </div>
         
   }
@@ -216,6 +228,7 @@ export default class Home extends React.Component<any, any>{
   
      <Report open={this.state.showReportForm} submit={this.sendReport} cancel={()=>{ this.setState({showReportForm:false}) }} dismiss={()=>{this.setState({showReportForm:false})}}/>
      <Recomendaciones open={this.state.suggestions} cancel={()=>{ this.setState({suggestions:false}) }}/>
+     <CanGoOut open={this.state.canGoOut} close={()=>{this.setState({canGoOut:false})}} />
    
     </IonPage>
 
