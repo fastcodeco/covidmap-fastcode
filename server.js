@@ -133,7 +133,7 @@ api_router
                          report.city = "Ibagué";
 
                     if(geodata[x].city.trim().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").match(report.city.trim().normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()))
-                       coordinates = [geodata[x].latitude, geodata[x].longitude];
+                       coordinates = [geodata[x].latitude, geodata[x].longitude]; 
 
                }
             
