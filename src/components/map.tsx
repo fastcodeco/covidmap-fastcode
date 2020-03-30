@@ -169,7 +169,7 @@ class Map extends React.Component<any, any>{
             type= 'circle'
             source= 'reports'
             paint={{
-                'circle-radius': 17,
+                'circle-radius': 15,
                 'circle-color': [
                     'match',
                     ['get', 'status'],

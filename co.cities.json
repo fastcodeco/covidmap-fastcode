@@ -2265,7 +2265,7 @@
     },
     {
     "zipcode": 66170,
-    "city": "Dos Quebradas",
+    "city": "Dosquebradas",
     "code": 66,
     "state": "Risaralda",
     "latitude": 4.8347222,
@@ -5953,7 +5953,7 @@
     },
     {
     "zipcode": "05607",
-    "city": "Retiro",
+    "city": "El Retiro",
     "code": "05",
     "state": "Antioquia",
     "latitude": 6.0833333,
@@ -5977,7 +5977,7 @@
     },
     {
     "zipcode": 68615,
-    "city": "Rio Negro",
+    "city": "Rionegro",
     "code": 68,
     "state": "Santander",
     "latitude": 7.2191667,
@@ -8097,7 +8097,7 @@
     },
     {
     "zipcode": 76834,
-    "city": "Tulúa",
+    "city": "Tuluá",
     "code": 76,
     "state": "Valle del Cauca",
     "latitude": 4.0866667,
