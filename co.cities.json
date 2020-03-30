@@ -1,0 +1,8818 @@
+[
+    {
+    "zipcode": "05002",
+    "city": "Abejorral",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.75,
+    "longitude": -75.4166667
+    },
+    {
+    "zipcode": "05004",
+    "city": "Abriaquí",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.6666667,
+    "longitude": -76.0833333
+    },
+    {
+    "zipcode": 50006,
+    "city": "Acacías",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 3.9166667,
+    "longitude": -73.8333333
+    },
+    {
+    "zipcode": 27006,
+    "city": "Acandí",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 8.3333333,
+    "longitude": -77.1666667
+    },
+    {
+    "zipcode": 41006,
+    "city": "Acevedo",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 1.75,
+    "longitude": -75.9166667
+    },
+    {
+    "zipcode": 13006,
+    "city": "Achí",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 8.25,
+    "longitude": -74.5
+    },
+    {
+    "zipcode": 41013,
+    "city": "Agrado",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.3333333,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 25001,
+    "city": "Agua de Dios",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.4166667,
+    "longitude": -74.6666667
+    },
+    {
+    "zipcode": 20011,
+    "city": "Aguachica",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 8.3333333,
+    "longitude": -73.5833333
+    },
+    {
+    "zipcode": 68013,
+    "city": "Aguada",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.25,
+    "longitude": -73.4666667
+    },
+    {
+    "zipcode": 17013,
+    "city": "Aguadas",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.6333333,
+    "longitude": -75.4166667
+    },
+    {
+    "zipcode": 85010,
+    "city": "Aguazul",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 5.1730556,
+    "longitude": -72.5547222
+    },
+    {
+    "zipcode": 20013,
+    "city": "Agustín Codazzi",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 9.9166667,
+    "longitude": -73.25
+    },
+    {
+    "zipcode": 41016,
+    "city": "Aipe",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 3.25,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": 18029,
+    "city": "Albania",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 1.3316667,
+    "longitude": -75.8822222
+    },
+    {
+    "zipcode": 44035,
+    "city": "Albania",
+    "code": 44,
+    "state": "La Guajira",
+    "latitude": 11.1597222,
+    "longitude": -72.5855556
+    },
+    {
+    "zipcode": 68020,
+    "city": "Albania",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 5.8333333,
+    "longitude": -73.75
+    },
+    {
+    "zipcode": 25019,
+    "city": "Albán",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.9166667,
+    "longitude": -74.45
+    },
+    {
+    "zipcode": 52019,
+    "city": "Albán (San José)",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.4744444,
+    "longitude": -77.0836111
+    },
+    {
+    "zipcode": 76020,
+    "city": "Alcalá",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.6666667,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 52022,
+    "city": "Aldana",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 0.9166667,
+    "longitude": -77.6833333
+    },
+    {
+    "zipcode": "05021",
+    "city": "Alejandria",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.3666667,
+    "longitude": -75.0833333
+    },
+    {
+    "zipcode": 47030,
+    "city": "Algarrobo",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.1869444,
+    "longitude": -74.5752778
+    },
+    {
+    "zipcode": 41020,
+    "city": "Algeciras",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.5833333,
+    "longitude": -75.25
+    },
+    {
+    "zipcode": 19022,
+    "city": "Almaguer",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 1.9166667,
+    "longitude": -76.8333333
+    },
+    {
+    "zipcode": 15022,
+    "city": "Almeida",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 4.9166667,
+    "longitude": -73.3333333
+    },
+    {
+    "zipcode": 73024,
+    "city": "Alpujarra",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 3.4166667,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 41026,
+    "city": "Altamira",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.1666667,
+    "longitude": -75.8333333
+    },
+    {
+    "zipcode": 27025,
+    "city": "Alto Baudó (Pie de Pato)",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 5.6666667,
+    "longitude": -77
+    },
+    {
+    "zipcode": 13030,
+    "city": "Altos del Rosario",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 8.7944444,
+    "longitude": -74.1658333
+    },
+    {
+    "zipcode": 73026,
+    "city": "Alvarado",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.5833333,
+    "longitude": -75
+    },
+    {
+    "zipcode": "05030",
+    "city": "Amagá",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.05,
+    "longitude": -75.7
+    },
+    {
+    "zipcode": "05031",
+    "city": "Amalfi",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 73030,
+    "city": "Ambalema",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.8333333,
+    "longitude": -74.8333333
+    },
+    {
+    "zipcode": 25035,
+    "city": "Anapoima",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.6166667,
+    "longitude": -74.55
+    },
+    {
+    "zipcode": 52036,
+    "city": "Ancuya",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.25,
+    "longitude": -77.5
+    },
+    {
+    "zipcode": 76036,
+    "city": "Andalucía",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.1741667,
+    "longitude": -76.1702778
+    },
+    {
+    "zipcode": "05034",
+    "city": "Andes",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.5833333,
+    "longitude": -75.9166667
+    },
+    {
+    "zipcode": "05036",
+    "city": "Angelópolis",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.1333333,
+    "longitude": -75.7
+    },
+    {
+    "zipcode": "05038",
+    "city": "Angostura",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.8666667,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": 25040,
+    "city": "Anolaima",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.8333333,
+    "longitude": -74.5
+    },
+    {
+    "zipcode": "05040",
+    "city": "Anorí",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.1666667,
+    "longitude": -75.0833333
+    },
+    {
+    "zipcode": 17042,
+    "city": "Anserma",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.25,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 76041,
+    "city": "Ansermanuevo",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.7972222,
+    "longitude": -75.995
+    },
+    {
+    "zipcode": 73043,
+    "city": "Anzoátegui",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.6666667,
+    "longitude": -75.25
+    },
+    {
+    "zipcode": "05044",
+    "city": "Anzá",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.3333333,
+    "longitude": -75.9166667
+    },
+    {
+    "zipcode": "05045",
+    "city": "Apartadó",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.8855556,
+    "longitude": -76.6347222
+    },
+    {
+    "zipcode": 25599,
+    "city": "Apulo",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.5833333,
+    "longitude": -74.5833333
+    },
+    {
+    "zipcode": 66045,
+    "city": "Apía",
+    "code": 66,
+    "state": "Risaralda",
+    "latitude": 5.1666667,
+    "longitude": -76
+    },
+    {
+    "zipcode": 15047,
+    "city": "Aquitania",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5197222,
+    "longitude": -72.8875
+    },
+    {
+    "zipcode": 47053,
+    "city": "Aracataca",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.5833333,
+    "longitude": -74
+    },
+    {
+    "zipcode": 17050,
+    "city": "Aranzazu",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.3,
+    "longitude": -75.45
+    },
+    {
+    "zipcode": 68051,
+    "city": "Aratoca",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.8333333,
+    "longitude": -72.9666667
+    },
+    {
+    "zipcode": 81001,
+    "city": "Arauca",
+    "code": 81,
+    "state": "Arauca",
+    "latitude": 7.0902778,
+    "longitude": -70.7616667
+    },
+    {
+    "zipcode": 81065,
+    "city": "Arauquita",
+    "code": 81,
+    "state": "Arauca",
+    "latitude": 6.8219444,
+    "longitude": -71.3236111
+    },
+    {
+    "zipcode": 25053,
+    "city": "Arbeláez",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.3,
+    "longitude": -74.5833333
+    },
+    {
+    "zipcode": 52051,
+    "city": "Arboleda (Berruecos)",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.5033333,
+    "longitude": -77.0877778
+    },
+    {
+    "zipcode": 54051,
+    "city": "Arboledas",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.6666667,
+    "longitude": -72.75
+    },
+    {
+    "zipcode": "05051",
+    "city": "Arboletes",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 8.5,
+    "longitude": -76.4166667
+    },
+    {
+    "zipcode": 15051,
+    "city": "Arcabuco",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.8,
+    "longitude": -73.3833333
+    },
+    {
+    "zipcode": 13042,
+    "city": "Arenal",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 8.4666667,
+    "longitude": -73.95
+    },
+    {
+    "zipcode": "05055",
+    "city": "Argelia",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.7341667,
+    "longitude": -75.1463889
+    },
+    {
+    "zipcode": 19050,
+    "city": "Argelia",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.2666667,
+    "longitude": -77.25
+    },
+    {
+    "zipcode": 76054,
+    "city": "Argelia",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.7,
+    "longitude": -76.1333333
+    },
+    {
+    "zipcode": 47058,
+    "city": "Ariguaní (El Difícil)",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.25,
+    "longitude": -74
+    },
+    {
+    "zipcode": 13052,
+    "city": "Arjona",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10.1666667,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": "05059",
+    "city": "Armenia",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.1666667,
+    "longitude": -75.8333333
+    },
+    {
+    "zipcode": 63001,
+    "city": "Armenia",
+    "code": 63,
+    "state": "Quindío",
+    "latitude": 4.5338889,
+    "longitude": -75.6811111
+    },
+    {
+    "zipcode": 73055,
+    "city": "Armero (Guayabal)",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 5.0833333,
+    "longitude": -74.8333333
+    },
+    {
+    "zipcode": 13062,
+    "city": "Arroyohondo",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10.2497222,
+    "longitude": -75.0113889
+    },
+    {
+    "zipcode": 20032,
+    "city": "Astrea",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 9.5011111,
+    "longitude": -73.9802778
+    },
+    {
+    "zipcode": 73067,
+    "city": "Ataco",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 3.3333333,
+    "longitude": -75.6666667
+    },
+    {
+    "zipcode": 27050,
+    "city": "Atrato (Yuto)",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 5.5333333,
+    "longitude": -76.6333333
+    },
+    {
+    "zipcode": 23068,
+    "city": "Ayapel",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 8.25,
+    "longitude": -75.25
+    },
+    {
+    "zipcode": 27073,
+    "city": "Bagadó",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 5.5,
+    "longitude": -76.25
+    },
+    {
+    "zipcode": 27075,
+    "city": "Bahía Solano (Mútis)",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 6.2191667,
+    "longitude": -77.4077778
+    },
+    {
+    "zipcode": 27077,
+    "city": "Bajo Baudó (Pizarro)",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": "5,0",
+    "longitude": -77.0833333
+    },
+    {
+    "zipcode": 19075,
+    "city": "Balboa",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.1,
+    "longitude": -77.2
+    },
+    {
+    "zipcode": 66075,
+    "city": "Balboa",
+    "code": 66,
+    "state": "Risaralda",
+    "latitude": 4.9166667,
+    "longitude": -75.95
+    },
+    {
+    "zipcode": "08078",
+    "city": "Baranoa",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.8,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 41078,
+    "city": "Baraya",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 3.1666667,
+    "longitude": -75
+    },
+    {
+    "zipcode": 52079,
+    "city": "Barbacoas",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.5833333,
+    "longitude": -78
+    },
+    {
+    "zipcode": "05079",
+    "city": "Barbosa",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.45,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": 68077,
+    "city": "Barbosa",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6,
+    "longitude": -73.55
+    },
+    {
+    "zipcode": 68079,
+    "city": "Barichara",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.75,
+    "longitude": -73.1666667
+    },
+    {
+    "zipcode": 50110,
+    "city": "Barranca de Upía",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 4.5755556,
+    "longitude": -72.9611111
+    },
+    {
+    "zipcode": 68081,
+    "city": "Barrancabermeja",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.0652778,
+    "longitude": -73.8547222
+    },
+    {
+    "zipcode": 44078,
+    "city": "Barrancas",
+    "code": 44,
+    "state": "La Guajira",
+    "latitude": 11,
+    "longitude": -72.75
+    },
+    {
+    "zipcode": 13074,
+    "city": "Barranco de Loba",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 8.8333333,
+    "longitude": -74.1666667
+    },
+    {
+    "zipcode": "08001",
+    "city": "Barranquilla",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.9638889,
+    "longitude": -74.7963889
+    },
+    {
+    "zipcode": 20045,
+    "city": "Becerríl",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 9.705,
+    "longitude": -73.2847222
+    },
+    {
+    "zipcode": 17088,
+    "city": "Belalcázar",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5,
+    "longitude": -75.8333333
+    },
+    {
+    "zipcode": "05088",
+    "city": "Bello",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.3388889,
+    "longitude": -75.5622222
+    },
+    {
+    "zipcode": "05086",
+    "city": "Belmira",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.6666667,
+    "longitude": -75.6666667
+    },
+    {
+    "zipcode": 25086,
+    "city": "Beltrán",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.8,
+    "longitude": -74.75
+    },
+    {
+    "zipcode": 15087,
+    "city": "Belén",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.0833333,
+    "longitude": -72.9166667
+    },
+    {
+    "zipcode": 52083,
+    "city": "Belén",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.5975,
+    "longitude": -77.0175
+    },
+    {
+    "zipcode": 27086,
+    "city": "Belén de Bajirá",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 7.3725,
+    "longitude": -76.7147222
+    },
+    {
+    "zipcode": 66088,
+    "city": "Belén de Umbría",
+    "code": 66,
+    "state": "Risaralda",
+    "latitude": 5.25,
+    "longitude": -75.9166667
+    },
+    {
+    "zipcode": 18094,
+    "city": "Belén de los Andaquíes",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 1.4166667,
+    "longitude": -75.9166667
+    },
+    {
+    "zipcode": 15090,
+    "city": "Berbeo",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.3333333,
+    "longitude": -73
+    },
+    {
+    "zipcode": "05091",
+    "city": "Betania",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.75,
+    "longitude": -75.9666667
+    },
+    {
+    "zipcode": 15092,
+    "city": "Beteitiva",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6,
+    "longitude": -72.8333333
+    },
+    {
+    "zipcode": "05093",
+    "city": "Betulia",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.2,
+    "longitude": -75.9166667
+    },
+    {
+    "zipcode": 68092,
+    "city": "Betulia",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.0833333,
+    "longitude": -73.3333333
+    },
+    {
+    "zipcode": 25095,
+    "city": "Bituima",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.9166667,
+    "longitude": -74.55
+    },
+    {
+    "zipcode": 15097,
+    "city": "Boavita",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.4166667,
+    "longitude": -72.5833333
+    },
+    {
+    "zipcode": 54099,
+    "city": "Bochalema",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.6666667,
+    "longitude": -72.5833333
+    },
+    {
+    "zipcode": 11001,
+    "city": "Bogotá D.C.",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.6,
+    "longitude": -74.0833333
+    },
+    {
+    "zipcode": 25099,
+    "city": "Bojacá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.75,
+    "longitude": -74.3333333
+    },
+    {
+    "zipcode": 27099,
+    "city": "Bojayá (Bellavista)",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 6.5236111,
+    "longitude": -76.9744444
+    },
+    {
+    "zipcode": "05101",
+    "city": "Bolívar",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.8333333,
+    "longitude": -76
+    },
+    {
+    "zipcode": 19100,
+    "city": "Bolívar",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 1.8333333,
+    "longitude": -76.9166667
+    },
+    {
+    "zipcode": 68101,
+    "city": "Bolívar",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.25,
+    "longitude": -74
+    },
+    {
+    "zipcode": 76100,
+    "city": "Bolívar",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.3333333,
+    "longitude": -76.3333333
+    },
+    {
+    "zipcode": 20060,
+    "city": "Bosconia",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 9.9761111,
+    "longitude": -73.8902778
+    },
+    {
+    "zipcode": 15104,
+    "city": "Boyacá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5,
+    "longitude": -72.5
+    },
+    {
+    "zipcode": "05107",
+    "city": "Briceño",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.1122222,
+    "longitude": -75.5541667
+    },
+    {
+    "zipcode": 15106,
+    "city": "Briceño",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.75,
+    "longitude": -73.8333333
+    },
+    {
+    "zipcode": 68001,
+    "city": "Bucaramanga",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.1297222,
+    "longitude": -73.1258333
+    },
+    {
+    "zipcode": 54109,
+    "city": "Bucarasica",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 8.0833333,
+    "longitude": -73
+    },
+    {
+    "zipcode": 76109,
+    "city": "Buenaventura",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.8933333,
+    "longitude": -77.0697222
+    },
+    {
+    "zipcode": 15109,
+    "city": "Buenavista",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5,
+    "longitude": -73.9666667
+    },
+    {
+    "zipcode": 23079,
+    "city": "Buenavista",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 8.7575,
+    "longitude": -75.89
+    },
+    {
+    "zipcode": 63111,
+    "city": "Buenavista",
+    "code": 63,
+    "state": "Quindío",
+    "latitude": 4.3622222,
+    "longitude": -75.7394444
+    },
+    {
+    "zipcode": 70110,
+    "city": "Buenavista",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.3222222,
+    "longitude": -74.9772222
+    },
+    {
+    "zipcode": 19110,
+    "city": "Buenos Aires",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.9166667,
+    "longitude": -76.6666667
+    },
+    {
+    "zipcode": 52110,
+    "city": "Buesaco",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.25,
+    "longitude": -77.0833333
+    },
+    {
+    "zipcode": 76111,
+    "city": "Buga",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.9022222,
+    "longitude": -76.3027778
+    },
+    {
+    "zipcode": 76113,
+    "city": "Bugalagrande",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.2094444,
+    "longitude": -76.1602778
+    },
+    {
+    "zipcode": "05113",
+    "city": "Burítica",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.75,
+    "longitude": -75.9166667
+    },
+    {
+    "zipcode": 15114,
+    "city": "Busbanza",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.9166667,
+    "longitude": -72.85
+    },
+    {
+    "zipcode": 25120,
+    "city": "Cabrera",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 3.9780556,
+    "longitude": -74.4858333
+    },
+    {
+    "zipcode": 68121,
+    "city": "Cabrera",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.6333333,
+    "longitude": -73.2
+    },
+    {
+    "zipcode": 50124,
+    "city": "Cabuyaro",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 4.2902778,
+    "longitude": -72.7905556
+    },
+    {
+    "zipcode": 25123,
+    "city": "Cachipay",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.2666667,
+    "longitude": -74.5666667
+    },
+    {
+    "zipcode": "05125",
+    "city": "Caicedo",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.45,
+    "longitude": -75.9666667
+    },
+    {
+    "zipcode": 76122,
+    "city": "Caicedonia",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.33365917459535,
+    "longitude": -75.8342456817627
+    },
+    {
+    "zipcode": 70124,
+    "city": "Caimito",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 8.8333333,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": 73124,
+    "city": "Cajamarca",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.4166667,
+    "longitude": -75.5
+    },
+    {
+    "zipcode": 19130,
+    "city": "Cajibío",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.6666667,
+    "longitude": -76.6666667
+    },
+    {
+    "zipcode": 25126,
+    "city": "Cajicá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5,
+    "longitude": -74.05
+    },
+    {
+    "zipcode": 13140,
+    "city": "Calamar",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10.25,
+    "longitude": -75
+    },
+    {
+    "zipcode": 95015,
+    "city": "Calamar",
+    "code": 95,
+    "state": "Guaviare",
+    "latitude": 1.9597222,
+    "longitude": -72.6538889
+    },
+    {
+    "zipcode": 63130,
+    "city": "Calarcá",
+    "code": 63,
+    "state": "Quindío",
+    "latitude": 4.5325,
+    "longitude": -75.6436111
+    },
+    {
+    "zipcode": "05129",
+    "city": "Caldas",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.0833333,
+    "longitude": -75.6333333
+    },
+    {
+    "zipcode": 15131,
+    "city": "Caldas",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.55,
+    "longitude": -73.8833333
+    },
+    {
+    "zipcode": 19137,
+    "city": "Caldono",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.8333333,
+    "longitude": -76.4166667
+    },
+    {
+    "zipcode": 68132,
+    "city": "California",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.4166667,
+    "longitude": -72.85
+    },
+    {
+    "zipcode": 76126,
+    "city": "Calima (Darién)",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.9166667,
+    "longitude": -76.6666667
+    },
+    {
+    "zipcode": 19142,
+    "city": "Caloto",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 3.0833333,
+    "longitude": -76.3333333
+    },
+    {
+    "zipcode": 76001,
+    "city": "Calí",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.4372222,
+    "longitude": -76.5225
+    },
+    {
+    "zipcode": "05134",
+    "city": "Campamento",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.0833333,
+    "longitude": -75.25
+    },
+    {
+    "zipcode": "08137",
+    "city": "Campo de la Cruz",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.4166667,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 41132,
+    "city": "Campoalegre",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.6666667,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": 15135,
+    "city": "Campohermoso",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.0833333,
+    "longitude": -73
+    },
+    {
+    "zipcode": 23090,
+    "city": "Canalete",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 8.6761111,
+    "longitude": -76.2041667
+    },
+    {
+    "zipcode": "08141",
+    "city": "Candelaria",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.5,
+    "longitude": -74.8333333
+    },
+    {
+    "zipcode": 76130,
+    "city": "Candelaria",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.4130556,
+    "longitude": -76.3511111
+    },
+    {
+    "zipcode": 13160,
+    "city": "Cantagallo",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 7.3791667,
+    "longitude": -73.9180556
+    },
+    {
+    "zipcode": 27135,
+    "city": "Cantón de San Pablo",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 5.3388889,
+    "longitude": -76.7313889
+    },
+    {
+    "zipcode": 25148,
+    "city": "Caparrapí",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.4166667,
+    "longitude": -74.5833333
+    },
+    {
+    "zipcode": 68147,
+    "city": "Capitanejo",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.6,
+    "longitude": -72.6333333
+    },
+    {
+    "zipcode": "05142",
+    "city": "Caracolí",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.4119444,
+    "longitude": -74.7605556
+    },
+    {
+    "zipcode": "05145",
+    "city": "Caramanta",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.5833333,
+    "longitude": -75.5833333
+    },
+    {
+    "zipcode": 68152,
+    "city": "Carcasí",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.8333333,
+    "longitude": -72.5
+    },
+    {
+    "zipcode": "05147",
+    "city": "Carepa",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.7663889,
+    "longitude": -76.6611111
+    },
+    {
+    "zipcode": 73148,
+    "city": "Carmen de Apicalá",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.15,
+    "longitude": -74.7333333
+    },
+    {
+    "zipcode": 25154,
+    "city": "Carmen de Carupa",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.3502778,
+    "longitude": -73.9052778
+    },
+    {
+    "zipcode": "05148",
+    "city": "Carmen de Viboral",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.085,
+    "longitude": -75.3386111
+    },
+    {
+    "zipcode": 27150,
+    "city": "Carmen del Darién (CURBARAD�?)",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 7.158,
+    "longitude": -76.971
+    },
+    {
+    "zipcode": "05150",
+    "city": "Carolina",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.8,
+    "longitude": -75.25
+    },
+    {
+    "zipcode": 13001,
+    "city": "Cartagena",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10.3997222,
+    "longitude": -75.5144444
+    },
+    {
+    "zipcode": 18150,
+    "city": "Cartagena del Chairá",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 1.35,
+    "longitude": -74.84
+    },
+    {
+    "zipcode": 76147,
+    "city": "Cartago",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.7463889,
+    "longitude": -75.9116667
+    },
+    {
+    "zipcode": 97161,
+    "city": "Carurú",
+    "code": 97,
+    "state": "Vaupés",
+    "latitude": 0.9166667,
+    "longitude": -70.7333333
+    },
+    {
+    "zipcode": 73152,
+    "city": "Casabianca",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 5.0833333,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": 50150,
+    "city": "Castilla la Nueva",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 3.8,
+    "longitude": -73.5833333
+    },
+    {
+    "zipcode": "05154",
+    "city": "Caucasia",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.9166667,
+    "longitude": -75
+    },
+    {
+    "zipcode": "05138",
+    "city": "Cañasgordas",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.75,
+    "longitude": -76
+    },
+    {
+    "zipcode": 68160,
+    "city": "Cepita",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.8333333,
+    "longitude": -72.9166667
+    },
+    {
+    "zipcode": 23162,
+    "city": "Cereté",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 8.9166667,
+    "longitude": -76
+    },
+    {
+    "zipcode": 15162,
+    "city": "Cerinza",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6,
+    "longitude": -72.9166667
+    },
+    {
+    "zipcode": 68162,
+    "city": "Cerrito",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7,
+    "longitude": -72.5833333
+    },
+    {
+    "zipcode": 47161,
+    "city": "Cerro San Antonio",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.25,
+    "longitude": -74.8333333
+    },
+    {
+    "zipcode": 52240,
+    "city": "Chachaguí",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.35943053925138,
+    "longitude": -77.2836685180664
+    },
+    {
+    "zipcode": 25168,
+    "city": "Chaguaní",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5,
+    "longitude": -74.65
+    },
+    {
+    "zipcode": 70230,
+    "city": "Chalán",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.5491667,
+    "longitude": -75.3161111
+    },
+    {
+    "zipcode": 73168,
+    "city": "Chaparral",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 3.75,
+    "longitude": -75.5833333
+    },
+    {
+    "zipcode": 68167,
+    "city": "Charalá",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.25,
+    "longitude": -73.0833333
+    },
+    {
+    "zipcode": 68169,
+    "city": "Charta",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.3,
+    "longitude": -72.9666667
+    },
+    {
+    "zipcode": "05172",
+    "city": "Chigorodó",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.6666667,
+    "longitude": -76.6666667
+    },
+    {
+    "zipcode": 68176,
+    "city": "Chima",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.4166667,
+    "longitude": -73.3333333
+    },
+    {
+    "zipcode": 20175,
+    "city": "Chimichagua",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 9.2577778,
+    "longitude": -73.8177778
+    },
+    {
+    "zipcode": 23168,
+    "city": "Chimá",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 9.0833333,
+    "longitude": -75.6333333
+    },
+    {
+    "zipcode": 15172,
+    "city": "Chinavita",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.25,
+    "longitude": -73.3333333
+    },
+    {
+    "zipcode": 17174,
+    "city": "Chinchiná",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5,
+    "longitude": -75.6666667
+    },
+    {
+    "zipcode": 54172,
+    "city": "Chinácota",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.75,
+    "longitude": -72.55
+    },
+    {
+    "zipcode": 23182,
+    "city": "Chinú",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 9.0833333,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": 25178,
+    "city": "Chipaque",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.5,
+    "longitude": -74.0833333
+    },
+    {
+    "zipcode": 68179,
+    "city": "Chipatá",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.1333333,
+    "longitude": -73.55
+    },
+    {
+    "zipcode": 15176,
+    "city": "Chiquinquirá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.6333333,
+    "longitude": -73.75
+    },
+    {
+    "zipcode": 20178,
+    "city": "Chiriguaná",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 9.5,
+    "longitude": -73.4166667
+    },
+    {
+    "zipcode": 15180,
+    "city": "Chiscas",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.75,
+    "longitude": -72.3333333
+    },
+    {
+    "zipcode": 15183,
+    "city": "Chita",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.1666667,
+    "longitude": -72.4166667
+    },
+    {
+    "zipcode": 54174,
+    "city": "Chitagá",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.1666667,
+    "longitude": -72.5833333
+    },
+    {
+    "zipcode": 15185,
+    "city": "Chitaraque",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.0833333,
+    "longitude": -73.3666667
+    },
+    {
+    "zipcode": 15187,
+    "city": "Chivatá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5333333,
+    "longitude": -73.2666667
+    },
+    {
+    "zipcode": 47170,
+    "city": "Chivolo",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.0280556,
+    "longitude": -74.6436111
+    },
+    {
+    "zipcode": 25181,
+    "city": "Choachí",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.5833333,
+    "longitude": -73.9166667
+    },
+    {
+    "zipcode": 25183,
+    "city": "Chocontá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.1666667,
+    "longitude": -73.6666667
+    },
+    {
+    "zipcode": 85015,
+    "city": "Chámeza",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 5,
+    "longitude": -72.75
+    },
+    {
+    "zipcode": 25175,
+    "city": "Chía",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.9166667,
+    "longitude": -74.05
+    },
+    {
+    "zipcode": 15232,
+    "city": "Chíquiza",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.6083333,
+    "longitude": -73.4886111
+    },
+    {
+    "zipcode": 15236,
+    "city": "Chívor",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 4.8855556,
+    "longitude": -73.3688889
+    },
+    {
+    "zipcode": 13188,
+    "city": "Cicuco",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 9.4166667,
+    "longitude": -74.7333333
+    },
+    {
+    "zipcode": 68190,
+    "city": "Cimitarra",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.3161111,
+    "longitude": -73.9505556
+    },
+    {
+    "zipcode": 63190,
+    "city": "Circasia",
+    "code": 63,
+    "state": "Quindío",
+    "latitude": 4.6166667,
+    "longitude": -75.6333333
+    },
+    {
+    "zipcode": "05190",
+    "city": "Cisneros",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.5833333,
+    "longitude": -75.0833333
+    },
+    {
+    "zipcode": 15189,
+    "city": "Ciénaga",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.4666667,
+    "longitude": -73.25
+    },
+    {
+    "zipcode": 47189,
+    "city": "Ciénaga",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.8333333,
+    "longitude": -74.0833333
+    },
+    {
+    "zipcode": 23189,
+    "city": "Ciénaga de Oro",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 8.8333333,
+    "longitude": -75.6666667
+    },
+    {
+    "zipcode": 13222,
+    "city": "Clemencia",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10.5891667,
+    "longitude": -75.3341667
+    },
+    {
+    "zipcode": "05197",
+    "city": "Cocorná",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6,
+    "longitude": -75
+    },
+    {
+    "zipcode": 73200,
+    "city": "Coello",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.3333333,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 25200,
+    "city": "Cogua",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.15,
+    "longitude": -73.9666667
+    },
+    {
+    "zipcode": 41206,
+    "city": "Colombia",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.5,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 70204,
+    "city": "Colosó (Ricaurte)",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.4966667,
+    "longitude": -75.3555556
+    },
+    {
+    "zipcode": 86219,
+    "city": "Colón",
+    "code": 86,
+    "state": "Putumayo",
+    "latitude": 1.1936111,
+    "longitude": -76.9769444
+    },
+    {
+    "zipcode": 52203,
+    "city": "Colón (Génova)",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.5833333,
+    "longitude": -77
+    },
+    {
+    "zipcode": "05206",
+    "city": "Concepción",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.4166667,
+    "longitude": -75.25
+    },
+    {
+    "zipcode": 68207,
+    "city": "Concepción",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.9166667,
+    "longitude": -72.5
+    },
+    {
+    "zipcode": "05209",
+    "city": "Concordia",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.0833333,
+    "longitude": -75.9166667
+    },
+    {
+    "zipcode": 47205,
+    "city": "Concordia",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 9.8402778,
+    "longitude": -74.4447222
+    },
+    {
+    "zipcode": 27205,
+    "city": "Condoto",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 5.1666667,
+    "longitude": -76.5
+    },
+    {
+    "zipcode": 68209,
+    "city": "Confines",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.4166667,
+    "longitude": -73.1666667
+    },
+    {
+    "zipcode": 52207,
+    "city": "Consaca",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.20840649727186,
+    "longitude": -77.4632263183594
+    },
+    {
+    "zipcode": 52210,
+    "city": "Contadero",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 0.9166667,
+    "longitude": -77.5333333
+    },
+    {
+    "zipcode": 68211,
+    "city": "Contratación",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.3333333,
+    "longitude": -73.4166667
+    },
+    {
+    "zipcode": 54206,
+    "city": "Convención",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 8.8333333,
+    "longitude": -73.2
+    },
+    {
+    "zipcode": "05212",
+    "city": "Copacabana",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.3333333,
+    "longitude": -75.5
+    },
+    {
+    "zipcode": 15212,
+    "city": "Coper",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.4333333,
+    "longitude": -74.0333333
+    },
+    {
+    "zipcode": 63212,
+    "city": "Cordobá",
+    "code": 63,
+    "state": "Quindío",
+    "latitude": 4.3905556,
+    "longitude": -75.6888889
+    },
+    {
+    "zipcode": 19212,
+    "city": "Corinto",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 3.1666667,
+    "longitude": -76.2
+    },
+    {
+    "zipcode": 68217,
+    "city": "Coromoro",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.3333333,
+    "longitude": -73
+    },
+    {
+    "zipcode": 70215,
+    "city": "Corozal",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.3333333,
+    "longitude": -75.25
+    },
+    {
+    "zipcode": 15215,
+    "city": "Corrales",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.8666667,
+    "longitude": -72.8333333
+    },
+    {
+    "zipcode": 25214,
+    "city": "Cota",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.8333333,
+    "longitude": -74.1333333
+    },
+    {
+    "zipcode": 23300,
+    "city": "Cotorra",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 9.05,
+    "longitude": -75.8
+    },
+    {
+    "zipcode": 15218,
+    "city": "Covarachía",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.5833333,
+    "longitude": -72.7
+    },
+    {
+    "zipcode": 70221,
+    "city": "Coveñas",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.4166667,
+    "longitude": -75.7
+    },
+    {
+    "zipcode": 73217,
+    "city": "Coyaima",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 3.8333333,
+    "longitude": -75.0833333
+    },
+    {
+    "zipcode": 81220,
+    "city": "Cravo Norte",
+    "code": 81,
+    "state": "Arauca",
+    "latitude": 6.3030556,
+    "longitude": -70.2016667
+    },
+    {
+    "zipcode": 52224,
+    "city": "Cuaspud (Carlosama)",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 0.8658333,
+    "longitude": -77.7294444
+    },
+    {
+    "zipcode": 50223,
+    "city": "Cubarral",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 3.7713889,
+    "longitude": -73.8377778
+    },
+    {
+    "zipcode": 15223,
+    "city": "Cubará",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 7.0411111,
+    "longitude": -72.0608333
+    },
+    {
+    "zipcode": 15224,
+    "city": "Cucaita",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5333333,
+    "longitude": -73.4666667
+    },
+    {
+    "zipcode": 25224,
+    "city": "Cucunubá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.25,
+    "longitude": -73.75
+    },
+    {
+    "zipcode": 54223,
+    "city": "Cucutilla",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.5,
+    "longitude": -72.75
+    },
+    {
+    "zipcode": 15226,
+    "city": "Cuitiva",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.65,
+    "longitude": -72.9166667
+    },
+    {
+    "zipcode": 50226,
+    "city": "Cumaral",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 4.25,
+    "longitude": -73.3333333
+    },
+    {
+    "zipcode": 99773,
+    "city": "Cumaribo",
+    "code": 99,
+    "state": "Vichada",
+    "latitude": 4.4444444,
+    "longitude": -69.8002778
+    },
+    {
+    "zipcode": 52227,
+    "city": "Cumbal",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 0.9166667,
+    "longitude": -77.9166667
+    },
+    {
+    "zipcode": 52233,
+    "city": "Cumbitara",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.6533333,
+    "longitude": -77.5833333
+    },
+    {
+    "zipcode": 73226,
+    "city": "Cunday",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.0833333,
+    "longitude": -74.6666667
+    },
+    {
+    "zipcode": 18205,
+    "city": "Curillo",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 1.0352778,
+    "longitude": -75.9247222
+    },
+    {
+    "zipcode": 68229,
+    "city": "Curití",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.6666667,
+    "longitude": -73
+    },
+    {
+    "zipcode": 20228,
+    "city": "Curumaní",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 9.2041667,
+    "longitude": -73.5486111
+    },
+    {
+    "zipcode": "05120",
+    "city": "Cáceres",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.6666667,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": 54128,
+    "city": "Cáchira",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.75,
+    "longitude": -73.1666667
+    },
+    {
+    "zipcode": 54125,
+    "city": "Cácota",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.25,
+    "longitude": -72.5833333
+    },
+    {
+    "zipcode": 25151,
+    "city": "Cáqueza",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.45,
+    "longitude": -73.95
+    },
+    {
+    "zipcode": 27160,
+    "city": "Cértegui",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 5.4,
+    "longitude": -76.6
+    },
+    {
+    "zipcode": 15204,
+    "city": "Cómbita",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.75,
+    "longitude": -73.25
+    },
+    {
+    "zipcode": 13212,
+    "city": "Córdoba",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 9.5,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 52215,
+    "city": "Córdoba",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 0.7833333,
+    "longitude": -77.3333333
+    },
+    {
+    "zipcode": 54001,
+    "city": "Cúcuta",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.8833333,
+    "longitude": -72.5052778
+    },
+    {
+    "zipcode": "05234",
+    "city": "Dabeiba",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7,
+    "longitude": -76.25
+    },
+    {
+    "zipcode": 76233,
+    "city": "Dagua",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.6602778,
+    "longitude": -76.6927778
+    },
+    {
+    "zipcode": 44090,
+    "city": "Dibulla",
+    "code": 44,
+    "state": "La Guajira",
+    "latitude": 11.2722222,
+    "longitude": -73.3055556
+    },
+    {
+    "zipcode": 44098,
+    "city": "Distracción",
+    "code": 44,
+    "state": "La Guajira",
+    "latitude": 10.8977778,
+    "longitude": -72.8869444
+    },
+    {
+    "zipcode": 73236,
+    "city": "Dolores",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 3.6666667,
+    "longitude": -74.75
+    },
+    {
+    "zipcode": "05237",
+    "city": "Don Matías",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.5,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": 66170,
+    "city": "Dos Quebradas",
+    "code": 66,
+    "state": "Risaralda",
+    "latitude": 4.8347222,
+    "longitude": -75.6725
+    },
+    {
+    "zipcode": 15238,
+    "city": "Duitama",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.8269444,
+    "longitude": -73.0202778
+    },
+    {
+    "zipcode": 54239,
+    "city": "Durania",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.75,
+    "longitude": -72.6333333
+    },
+    {
+    "zipcode": "05240",
+    "city": "Ebéjico",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.3333333,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": "05250",
+    "city": "El Bagre",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.5941667,
+    "longitude": -74.8119444
+    },
+    {
+    "zipcode": 47245,
+    "city": "El Banco",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 9.0455556,
+    "longitude": -73.9747222
+    },
+    {
+    "zipcode": 76246,
+    "city": "El Cairo",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.75,
+    "longitude": -76.25
+    },
+    {
+    "zipcode": 50245,
+    "city": "El Calvario",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 4.4166667,
+    "longitude": -73.6666667
+    },
+    {
+    "zipcode": 54245,
+    "city": "El Carmen",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 8.75,
+    "longitude": -73.3333333
+    },
+    {
+    "zipcode": 68235,
+    "city": "El Carmen",
+    "code": 68,
+    "state": "Santander",
+    "latitude": "6,698",
+    "longitude": -73.511
+    },
+    {
+    "zipcode": 27245,
+    "city": "El Carmen de Atrato",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": "",
+    "longitude": ""
+    },
+    {
+    "zipcode": 13244,
+    "city": "El Carmen de Bolívar",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 9.75,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": 50251,
+    "city": "El Castillo",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 3.5680556,
+    "longitude": -73.7838889
+    },
+    {
+    "zipcode": 76248,
+    "city": "El Cerrito",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.6666667,
+    "longitude": -76.1666667
+    },
+    {
+    "zipcode": 52250,
+    "city": "El Charco",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 2.3333333,
+    "longitude": -78.35
+    },
+    {
+    "zipcode": 15244,
+    "city": "El Cocuy",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.4166667,
+    "longitude": -72.4166667
+    },
+    {
+    "zipcode": 25245,
+    "city": "El Colegio",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.5833333,
+    "longitude": -74.45
+    },
+    {
+    "zipcode": 20238,
+    "city": "El Copey",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 10.1505556,
+    "longitude": -73.965
+    },
+    {
+    "zipcode": 18247,
+    "city": "El Doncello",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 1.6794444,
+    "longitude": -75.2791667
+    },
+    {
+    "zipcode": 50270,
+    "city": "El Dorado",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 2.7791667,
+    "longitude": -72.8719444
+    },
+    {
+    "zipcode": 76250,
+    "city": "El Dovio",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.5,
+    "longitude": -76.25
+    },
+    {
+    "zipcode": 15248,
+    "city": "El Espino",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.5833333,
+    "longitude": -72.4166667
+    },
+    {
+    "zipcode": 68245,
+    "city": "El Guacamayo",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.3333333,
+    "longitude": -73.4666667
+    },
+    {
+    "zipcode": 13248,
+    "city": "El Guamo",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10.0833333,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 44110,
+    "city": "El Molino",
+    "code": 44,
+    "state": "La Guajira",
+    "latitude": 10.6533333,
+    "longitude": -72.9241667
+    },
+    {
+    "zipcode": 20250,
+    "city": "El Paso",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 9.6622222,
+    "longitude": -73.7519444
+    },
+    {
+    "zipcode": 18256,
+    "city": "El Paujil",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 1.564,
+    "longitude": -75.332
+    },
+    {
+    "zipcode": 52254,
+    "city": "El Peñol",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.4333333,
+    "longitude": -77.4333333
+    },
+    {
+    "zipcode": 13268,
+    "city": "El Peñon",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 8.9833333,
+    "longitude": -73.95
+    },
+    {
+    "zipcode": 68250,
+    "city": "El Peñon",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.55,
+    "longitude": -72.8333333
+    },
+    {
+    "zipcode": 25258,
+    "city": "El Peñón",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.3333333,
+    "longitude": -74.3333333
+    },
+    {
+    "zipcode": 47258,
+    "city": "El Piñon",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.3333333,
+    "longitude": -74.6666667
+    },
+    {
+    "zipcode": 68255,
+    "city": "El Playón",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.4766667,
+    "longitude": -73.2080556
+    },
+    {
+    "zipcode": 95025,
+    "city": "El Retorno",
+    "code": 95,
+    "state": "Guaviare",
+    "latitude": 2.3305556,
+    "longitude": -72.6277778
+    },
+    {
+    "zipcode": 47268,
+    "city": "El Retén",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.6166667,
+    "longitude": -74.2666667
+    },
+    {
+    "zipcode": 70233,
+    "city": "El Roble",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.1,
+    "longitude": -75.2
+    },
+    {
+    "zipcode": 25260,
+    "city": "El Rosal",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.85,
+    "longitude": -74.2666667
+    },
+    {
+    "zipcode": 52256,
+    "city": "El Rosario",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.8333333,
+    "longitude": -77.3333333
+    },
+    {
+    "zipcode": 52258,
+    "city": "El Tablón de Gómez",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": "",
+    "longitude": ""
+    },
+    {
+    "zipcode": 19256,
+    "city": "El Tambo",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.5,
+    "longitude": -77
+    },
+    {
+    "zipcode": 52260,
+    "city": "El Tambo",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.4,
+    "longitude": -77.3333333
+    },
+    {
+    "zipcode": 54250,
+    "city": "El Tarra",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 8.5847222,
+    "longitude": -73.0883333
+    },
+    {
+    "zipcode": 54261,
+    "city": "El Zulia",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.9355556,
+    "longitude": -72.605
+    },
+    {
+    "zipcode": 76243,
+    "city": "El Águila",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.9166667,
+    "longitude": -76.0833333
+    },
+    {
+    "zipcode": 41244,
+    "city": "Elías",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.0833333,
+    "longitude": -76
+    },
+    {
+    "zipcode": 68264,
+    "city": "Encino",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.1666667,
+    "longitude": -73
+    },
+    {
+    "zipcode": 68266,
+    "city": "Enciso",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.75,
+    "longitude": -72.6333333
+    },
+    {
+    "zipcode": "05264",
+    "city": "Entrerríos",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.5833333,
+    "longitude": -75.5833333
+    },
+    {
+    "zipcode": "05266",
+    "city": "Envigado",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.1730556,
+    "longitude": -75.5638889
+    },
+    {
+    "zipcode": 73268,
+    "city": "Espinal",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.2,
+    "longitude": -74.8333333
+    },
+    {
+    "zipcode": 25269,
+    "city": "Facatativá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.8166667,
+    "longitude": -74.3666667
+    },
+    {
+    "zipcode": 73270,
+    "city": "Falan",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 5.1333333,
+    "longitude": -75
+    },
+    {
+    "zipcode": 17272,
+    "city": "Filadelfia",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.3,
+    "longitude": -75.6
+    },
+    {
+    "zipcode": 63272,
+    "city": "Filandia",
+    "code": 63,
+    "state": "Quindío",
+    "latitude": 4.6666667,
+    "longitude": -75.6333333
+    },
+    {
+    "zipcode": 15272,
+    "city": "Firavitoba",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.75,
+    "longitude": -72.9666667
+    },
+    {
+    "zipcode": 73275,
+    "city": "Flandes",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.25,
+    "longitude": -74.8333333
+    },
+    {
+    "zipcode": 18001,
+    "city": "Florencia",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 1.6175,
+    "longitude": -75.6175
+    },
+    {
+    "zipcode": 19290,
+    "city": "Florencia",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 1.6944444,
+    "longitude": -77.0758333
+    },
+    {
+    "zipcode": 15276,
+    "city": "Floresta",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.9166667,
+    "longitude": -72.9166667
+    },
+    {
+    "zipcode": 76275,
+    "city": "Florida",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.3275,
+    "longitude": -76.2386111
+    },
+    {
+    "zipcode": 68276,
+    "city": "Floridablanca",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.0647222,
+    "longitude": -73.0897222
+    },
+    {
+    "zipcode": 68271,
+    "city": "Florián",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 5.8047222,
+    "longitude": -73.9741667
+    },
+    {
+    "zipcode": 44279,
+    "city": "Fonseca",
+    "code": 44,
+    "state": "La Guajira",
+    "latitude": 10.8333333,
+    "longitude": -72.8333333
+    },
+    {
+    "zipcode": 81300,
+    "city": "Fortúl",
+    "code": 81,
+    "state": "Arauca",
+    "latitude": 6.7461111,
+    "longitude": -71.8566667
+    },
+    {
+    "zipcode": 25281,
+    "city": "Fosca",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.3333333,
+    "longitude": -73.9166667
+    },
+    {
+    "zipcode": 52520,
+    "city": "Francisco Pizarro",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 2.1019444,
+    "longitude": -78.7216667
+    },
+    {
+    "zipcode": "05282",
+    "city": "Fredonia",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.9166667,
+    "longitude": -75.6666667
+    },
+    {
+    "zipcode": 73283,
+    "city": "Fresno",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 5.1666667,
+    "longitude": -75.0833333
+    },
+    {
+    "zipcode": "05284",
+    "city": "Frontino",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.6666667,
+    "longitude": -76.3333333
+    },
+    {
+    "zipcode": 50287,
+    "city": "Fuente de Oro",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 3.4594444,
+    "longitude": -73.6127778
+    },
+    {
+    "zipcode": 47288,
+    "city": "Fundación",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.4166667,
+    "longitude": -73.9166667
+    },
+    {
+    "zipcode": 52287,
+    "city": "Funes",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 0.95,
+    "longitude": -77.3333333
+    },
+    {
+    "zipcode": 25286,
+    "city": "Funza",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.7833333,
+    "longitude": -74.2
+    },
+    {
+    "zipcode": 25290,
+    "city": "Fusagasugá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.4166667,
+    "longitude": -74.4
+    },
+    {
+    "zipcode": 25279,
+    "city": "Fómeque",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.5833333,
+    "longitude": -73.8333333
+    },
+    {
+    "zipcode": 25288,
+    "city": "Fúquene",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.4166667,
+    "longitude": -73.8
+    },
+    {
+    "zipcode": 25293,
+    "city": "Gachalá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.6666667,
+    "longitude": -73.5
+    },
+    {
+    "zipcode": 25295,
+    "city": "Gachancipá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.0833333,
+    "longitude": -73.8833333
+    },
+    {
+    "zipcode": 15293,
+    "city": "Gachantivá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.75,
+    "longitude": -73.5
+    },
+    {
+    "zipcode": 25297,
+    "city": "Gachetá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.9166667,
+    "longitude": -73.6666667
+    },
+    {
+    "zipcode": "08296",
+    "city": "Galapa",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.9166667,
+    "longitude": -74.8333333
+    },
+    {
+    "zipcode": 70235,
+    "city": "Galeras (Nueva Granada)",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.1630556,
+    "longitude": -75.0525
+    },
+    {
+    "zipcode": 68296,
+    "city": "Galán",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.7,
+    "longitude": -73.3
+    },
+    {
+    "zipcode": 25299,
+    "city": "Gama",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.75,
+    "longitude": -73.6
+    },
+    {
+    "zipcode": 20295,
+    "city": "Gamarra",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 8.3333333,
+    "longitude": -73.6666667
+    },
+    {
+    "zipcode": 15299,
+    "city": "Garagoa",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.1333333,
+    "longitude": -73.3
+    },
+    {
+    "zipcode": 41298,
+    "city": "Garzón",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.25,
+    "longitude": -75.5833333
+    },
+    {
+    "zipcode": 41306,
+    "city": "Gigante",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.5,
+    "longitude": -75.5
+    },
+    {
+    "zipcode": 76306,
+    "city": "Ginebra",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.75,
+    "longitude": -76.1666667
+    },
+    {
+    "zipcode": "05306",
+    "city": "Giraldo",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.6666667,
+    "longitude": -75.9166667
+    },
+    {
+    "zipcode": 25307,
+    "city": "Girardot",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.3030556,
+    "longitude": -74.8008333
+    },
+    {
+    "zipcode": "05308",
+    "city": "Girardota",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.4166667,
+    "longitude": -75.45
+    },
+    {
+    "zipcode": 68306,
+    "city": "Girón",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.0708333,
+    "longitude": -73.1730556
+    },
+    {
+    "zipcode": 20310,
+    "city": "Gonzalez",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 8.4,
+    "longitude": -73.3333333
+    },
+    {
+    "zipcode": 54313,
+    "city": "Gramalote",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.9166667,
+    "longitude": -72.75
+    },
+    {
+    "zipcode": "05313",
+    "city": "Granada",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.1666667,
+    "longitude": -75.1333333
+    },
+    {
+    "zipcode": 25312,
+    "city": "Granada",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.0666667,
+    "longitude": -74.5666667
+    },
+    {
+    "zipcode": 50313,
+    "city": "Granada",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 3.5386111,
+    "longitude": -73.7005556
+    },
+    {
+    "zipcode": 68318,
+    "city": "Guaca",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7,
+    "longitude": -72.7666667
+    },
+    {
+    "zipcode": 15317,
+    "city": "Guacamayas",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.5,
+    "longitude": -72.5
+    },
+    {
+    "zipcode": 76318,
+    "city": "Guacarí",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.7694444,
+    "longitude": -76.3380556
+    },
+    {
+    "zipcode": 52699,
+    "city": "Guachavés",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.2247222,
+    "longitude": -77.68
+    },
+    {
+    "zipcode": 19300,
+    "city": "Guachené",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 3.1333333,
+    "longitude": -76.3833333
+    },
+    {
+    "zipcode": 25317,
+    "city": "Guachetá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.4166667,
+    "longitude": -73.7
+    },
+    {
+    "zipcode": 52317,
+    "city": "Guachucal",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1,
+    "longitude": -77.75
+    },
+    {
+    "zipcode": "05315",
+    "city": "Guadalupe",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.8175,
+    "longitude": -75.2441667
+    },
+    {
+    "zipcode": 41319,
+    "city": "Guadalupe",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.0833333,
+    "longitude": -75.6666667
+    },
+    {
+    "zipcode": 68320,
+    "city": "Guadalupe",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.3,
+    "longitude": -73.3333333
+    },
+    {
+    "zipcode": 25320,
+    "city": "Guaduas",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.25,
+    "longitude": -74.6666667
+    },
+    {
+    "zipcode": 52320,
+    "city": "Guaitarilla",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.15,
+    "longitude": -77.5
+    },
+    {
+    "zipcode": 52323,
+    "city": "Gualmatán",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 0.8333333,
+    "longitude": -77.5833333
+    },
+    {
+    "zipcode": 47318,
+    "city": "Guamal",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 9.25,
+    "longitude": -74.1666667
+    },
+    {
+    "zipcode": 50318,
+    "city": "Guamal",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 3.9166667,
+    "longitude": -74
+    },
+    {
+    "zipcode": 73319,
+    "city": "Guamo",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.0833333,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 68322,
+    "city": "Guapota",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.3833333,
+    "longitude": -73.25
+    },
+    {
+    "zipcode": 19318,
+    "city": "Guapí",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.4166667,
+    "longitude": -77.6
+    },
+    {
+    "zipcode": 70265,
+    "city": "Guaranda",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 8.4697222,
+    "longitude": -75.5383333
+    },
+    {
+    "zipcode": "05318",
+    "city": "Guarne",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.25,
+    "longitude": -75.4166667
+    },
+    {
+    "zipcode": 25322,
+    "city": "Guasca",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.8333333,
+    "longitude": -73.8333333
+    },
+    {
+    "zipcode": "05321",
+    "city": "Guatapé",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.25,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": 25324,
+    "city": "Guataquí",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.5833333,
+    "longitude": -74.8
+    },
+    {
+    "zipcode": 25326,
+    "city": "Guatavita",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.9666667,
+    "longitude": -73.75
+    },
+    {
+    "zipcode": 15322,
+    "city": "Guateque",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.0833333,
+    "longitude": -73.5
+    },
+    {
+    "zipcode": 68324,
+    "city": "Guavatá",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6,
+    "longitude": -73.65
+    },
+    {
+    "zipcode": 25328,
+    "city": "Guayabal de Siquima",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.8813889,
+    "longitude": -74.4702778
+    },
+    {
+    "zipcode": 25335,
+    "city": "Guayabetal",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.2163889,
+    "longitude": -73.8133333
+    },
+    {
+    "zipcode": 15325,
+    "city": "Guayatá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5,
+    "longitude": -73.5
+    },
+    {
+    "zipcode": 68327,
+    "city": "Guepsa",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.0833333,
+    "longitude": -73.5
+    },
+    {
+    "zipcode": 15332,
+    "city": "Guicán",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.75,
+    "longitude": -72.1666667
+    },
+    {
+    "zipcode": 25339,
+    "city": "Gutiérrez",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.25,
+    "longitude": -74
+    },
+    {
+    "zipcode": 66318,
+    "city": "Guática",
+    "code": 66,
+    "state": "Risaralda",
+    "latitude": 5.3333333,
+    "longitude": -75.8333333
+    },
+    {
+    "zipcode": 68298,
+    "city": "Gámbita",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6,
+    "longitude": -73.25
+    },
+    {
+    "zipcode": 15296,
+    "city": "Gámeza",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.85,
+    "longitude": -72.75
+    },
+    {
+    "zipcode": 63302,
+    "city": "Génova",
+    "code": 63,
+    "state": "Quindío",
+    "latitude": 4.25,
+    "longitude": -75.6666667
+    },
+    {
+    "zipcode": "05310",
+    "city": "Gómez Plata",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.75,
+    "longitude": -75.8333333
+    },
+    {
+    "zipcode": 54344,
+    "city": "Hacarí",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 8.5,
+    "longitude": -73.0833333
+    },
+    {
+    "zipcode": 13300,
+    "city": "Hatillo de Loba",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 8.9586111,
+    "longitude": -74.0808333
+    },
+    {
+    "zipcode": 68344,
+    "city": "Hato",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.5833333,
+    "longitude": -73.3333333
+    },
+    {
+    "zipcode": 85125,
+    "city": "Hato Corozal",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 6.1555556,
+    "longitude": -71.7655556
+    },
+    {
+    "zipcode": 44378,
+    "city": "Hatonuevo",
+    "code": 44,
+    "state": "La Guajira",
+    "latitude": 11.0694444,
+    "longitude": -72.7669444
+    },
+    {
+    "zipcode": "05347",
+    "city": "Heliconia",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.2333333,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 54347,
+    "city": "Herrán",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.5,
+    "longitude": -72.4666667
+    },
+    {
+    "zipcode": 73347,
+    "city": "Herveo",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 5.0833333,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": "05353",
+    "city": "Hispania",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.8025,
+    "longitude": -75.9116667
+    },
+    {
+    "zipcode": 41349,
+    "city": "Hobo",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.5833333,
+    "longitude": -75.5
+    },
+    {
+    "zipcode": 73349,
+    "city": "Honda",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 5.25,
+    "longitude": -74.8333333
+    },
+    {
+    "zipcode": 73001,
+    "city": "Ibagué",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.4388889,
+    "longitude": -75.2322222
+    },
+    {
+    "zipcode": 73352,
+    "city": "Icononzo",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.1666667,
+    "longitude": -74.55
+    },
+    {
+    "zipcode": 52352,
+    "city": "Iles",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 0.95,
+    "longitude": -77.5333333
+    },
+    {
+    "zipcode": 52354,
+    "city": "Imúes",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.05,
+    "longitude": -77.5
+    },
+    {
+    "zipcode": 19355,
+    "city": "Inzá",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.6666667,
+    "longitude": -76.0833333
+    },
+    {
+    "zipcode": 94001,
+    "city": "Inírida",
+    "code": 94,
+    "state": "Guainía",
+    "latitude": 3.8652778,
+    "longitude": -67.9238889
+    },
+    {
+    "zipcode": 52356,
+    "city": "Ipiales",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 0.8302778,
+    "longitude": -77.6444444
+    },
+    {
+    "zipcode": 41359,
+    "city": "Isnos",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.0833333,
+    "longitude": -76.25
+    },
+    {
+    "zipcode": 27361,
+    "city": "Istmina",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 5.1588889,
+    "longitude": -76.6916667
+    },
+    {
+    "zipcode": "05360",
+    "city": "Itagüí",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.1719444,
+    "longitude": -75.6113889
+    },
+    {
+    "zipcode": "05361",
+    "city": "Ituango",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.25,
+    "longitude": -76
+    },
+    {
+    "zipcode": 15362,
+    "city": "Izá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.6666667,
+    "longitude": -72.9166667
+    },
+    {
+    "zipcode": 19364,
+    "city": "Jambaló",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.85,
+    "longitude": -76.3166667
+    },
+    {
+    "zipcode": 76364,
+    "city": "Jamundí",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.1666667,
+    "longitude": -76.5833333
+    },
+    {
+    "zipcode": "05364",
+    "city": "Jardín",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.5833333,
+    "longitude": -75.8333333
+    },
+    {
+    "zipcode": 15367,
+    "city": "Jenesano",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.3888889,
+    "longitude": -73.3680556
+    },
+    {
+    "zipcode": "05368",
+    "city": "Jericó",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.75,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 15368,
+    "city": "Jericó",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.2,
+    "longitude": -72.5833333
+    },
+    {
+    "zipcode": 25368,
+    "city": "Jerusalén",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.6666667,
+    "longitude": -74.6666667
+    },
+    {
+    "zipcode": 68368,
+    "city": "Jesús María",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 5.9166667,
+    "longitude": -73.8333333
+    },
+    {
+    "zipcode": 68370,
+    "city": "Jordán",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.75,
+    "longitude": -73.0666667
+    },
+    {
+    "zipcode": "08132",
+    "city": "Juan de Acosta",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.8333333,
+    "longitude": -75.0333333
+    },
+    {
+    "zipcode": 25372,
+    "city": "Junín",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.75,
+    "longitude": -73.6666667
+    },
+    {
+    "zipcode": 27372,
+    "city": "Juradó",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 7,
+    "longitude": -77.6666667
+    },
+    {
+    "zipcode": 23350,
+    "city": "La Apartada y La Frontera",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": "",
+    "longitude": ""
+    },
+    {
+    "zipcode": 41378,
+    "city": "La Argentina",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.25,
+    "longitude": -76.1666667
+    },
+    {
+    "zipcode": 68377,
+    "city": "La Belleza",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 5.8613889,
+    "longitude": -73.9683333
+    },
+    {
+    "zipcode": 25377,
+    "city": "La Calera",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.75,
+    "longitude": -73.9166667
+    },
+    {
+    "zipcode": 15380,
+    "city": "La Capilla",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.15,
+    "longitude": -73.45
+    },
+    {
+    "zipcode": "05376",
+    "city": "La Ceja",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6,
+    "longitude": -75.4166667
+    },
+    {
+    "zipcode": 66383,
+    "city": "La Celia",
+    "code": 66,
+    "state": "Risaralda",
+    "latitude": 4.9666667,
+    "longitude": -76
+    },
+    {
+    "zipcode": 52378,
+    "city": "La Cruz",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.55,
+    "longitude": -76.8833333
+    },
+    {
+    "zipcode": 76677,
+    "city": "La Cumbre",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.6666667,
+    "longitude": -76.5833333
+    },
+    {
+    "zipcode": 17380,
+    "city": "La Dorada",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.5333333,
+    "longitude": -74.7
+    },
+    {
+    "zipcode": 54385,
+    "city": "La Esperanza",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 8.1666667,
+    "longitude": -72.4666667
+    },
+    {
+    "zipcode": "05380",
+    "city": "La Estrella",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.1666667,
+    "longitude": -75.6666667
+    },
+    {
+    "zipcode": 52381,
+    "city": "La Florida",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.25,
+    "longitude": -77.4166667
+    },
+    {
+    "zipcode": 20383,
+    "city": "La Gloria",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 8.5833333,
+    "longitude": -73.5833333
+    },
+    {
+    "zipcode": 20400,
+    "city": "La Jagua de Ibirico",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 9.5641667,
+    "longitude": -73.3375
+    },
+    {
+    "zipcode": 44420,
+    "city": "La Jagua del Pilar",
+    "code": 44,
+    "state": "La Guajira",
+    "latitude": 10.5166667,
+    "longitude": -73.0833333
+    },
+    {
+    "zipcode": 52385,
+    "city": "La Llanada",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.4777778,
+    "longitude": -77.5838889
+    },
+    {
+    "zipcode": 50350,
+    "city": "La Macarena",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 2.8536111,
+    "longitude": -73.9436111
+    },
+    {
+    "zipcode": 17388,
+    "city": "La Merced",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.4019444,
+    "longitude": -75.8847222
+    },
+    {
+    "zipcode": 25386,
+    "city": "La Mesa",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.6666667,
+    "longitude": -74.5
+    },
+    {
+    "zipcode": 18410,
+    "city": "La Montañita",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 1.5833333,
+    "longitude": -75.25
+    },
+    {
+    "zipcode": 25394,
+    "city": "La Palma",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.4166667,
+    "longitude": -74.4166667
+    },
+    {
+    "zipcode": 68397,
+    "city": "La Paz",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.25,
+    "longitude": -73.4666667
+    },
+    {
+    "zipcode": 20621,
+    "city": "La Paz (Robles)",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 10.1666667,
+    "longitude": -73.25
+    },
+    {
+    "zipcode": 25398,
+    "city": "La Peña",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.25,
+    "longitude": -74.4166667
+    },
+    {
+    "zipcode": "05390",
+    "city": "La Pintada",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.75,
+    "longitude": -75.6
+    },
+    {
+    "zipcode": 41396,
+    "city": "La Plata",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.4166667,
+    "longitude": -76.1666667
+    },
+    {
+    "zipcode": 54398,
+    "city": "La Playa",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 8.25,
+    "longitude": -73.1666667
+    },
+    {
+    "zipcode": 99524,
+    "city": "La Primavera",
+    "code": 99,
+    "state": "Vichada",
+    "latitude": 5.4905556,
+    "longitude": -70.4091667
+    },
+    {
+    "zipcode": 85136,
+    "city": "La Salina",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 6.1852778,
+    "longitude": -72.3444444
+    },
+    {
+    "zipcode": 19392,
+    "city": "La Sierra",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.25,
+    "longitude": -76.8333333
+    },
+    {
+    "zipcode": 63401,
+    "city": "La Tebaida",
+    "code": 63,
+    "state": "Quindío",
+    "latitude": 4.45,
+    "longitude": -75.8
+    },
+    {
+    "zipcode": 52390,
+    "city": "La Tola",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 2.4108333,
+    "longitude": -78.2427778
+    },
+    {
+    "zipcode": "05400",
+    "city": "La Unión",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.9166667,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": 52399,
+    "city": "La Unión",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.5833333,
+    "longitude": -77.0833333
+    },
+    {
+    "zipcode": 70400,
+    "city": "La Unión",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 8.8605556,
+    "longitude": -75.2805556
+    },
+    {
+    "zipcode": 76400,
+    "city": "La Unión",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.5358333,
+    "longitude": -76.1066667
+    },
+    {
+    "zipcode": 15403,
+    "city": "La Uvita",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.3333333,
+    "longitude": -72.5
+    },
+    {
+    "zipcode": 19397,
+    "city": "La Vega",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.0833333,
+    "longitude": -76.8333333
+    },
+    {
+    "zipcode": 25402,
+    "city": "La Vega",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5,
+    "longitude": -74.35
+    },
+    {
+    "zipcode": 15401,
+    "city": "La Victoria",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5258333,
+    "longitude": -74.2361111
+    },
+    {
+    "zipcode": 17867,
+    "city": "La Victoria",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 4.5238889,
+    "longitude": -76.0411111
+    },
+    {
+    "zipcode": 76403,
+    "city": "La Victoria",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.5238889,
+    "longitude": -76.0411111
+    },
+    {
+    "zipcode": 66400,
+    "city": "La Virginia",
+    "code": 66,
+    "state": "Risaralda",
+    "latitude": 4.9166667,
+    "longitude": -75.8333333
+    },
+    {
+    "zipcode": 54377,
+    "city": "Labateca",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.3333333,
+    "longitude": -72.5
+    },
+    {
+    "zipcode": 15377,
+    "city": "Labranzagrande",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5833333,
+    "longitude": -72.5833333
+    },
+    {
+    "zipcode": 68385,
+    "city": "Landázuri",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.2238889,
+    "longitude": -73.8127778
+    },
+    {
+    "zipcode": 68406,
+    "city": "Lebrija",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.4166667,
+    "longitude": -73.4166667
+    },
+    {
+    "zipcode": 52405,
+    "city": "Leiva",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.9375,
+    "longitude": -77.3080556
+    },
+    {
+    "zipcode": 50400,
+    "city": "Lejanías",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 3.5136111,
+    "longitude": -74.0516667
+    },
+    {
+    "zipcode": 25407,
+    "city": "Lenguazaque",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.3333333,
+    "longitude": -73.6666667
+    },
+    {
+    "zipcode": 91001,
+    "city": "Leticia",
+    "code": 91,
+    "state": "Amazonas",
+    "latitude": -4.2152778,
+    "longitude": -69.9405556
+    },
+    {
+    "zipcode": "05411",
+    "city": "Liborina",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.75,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 52411,
+    "city": "Linares",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.3833333,
+    "longitude": -77.45
+    },
+    {
+    "zipcode": 27413,
+    "city": "Lloró",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 5.5833333,
+    "longitude": -76.4166667
+    },
+    {
+    "zipcode": 23417,
+    "city": "Lorica",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 9.1666667,
+    "longitude": -75.8333333
+    },
+    {
+    "zipcode": 23419,
+    "city": "Los Córdobas",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 8.9,
+    "longitude": -76.3597222
+    },
+    {
+    "zipcode": 70418,
+    "city": "Los Palmitos",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.3811111,
+    "longitude": -75.2713889
+    },
+    {
+    "zipcode": 54405,
+    "city": "Los Patios",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.8383333,
+    "longitude": -72.5133333
+    },
+    {
+    "zipcode": 68418,
+    "city": "Los Santos",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.9166667,
+    "longitude": -73.0833333
+    },
+    {
+    "zipcode": 54418,
+    "city": "Lourdes",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.9666667,
+    "longitude": -72.8333333
+    },
+    {
+    "zipcode": "08421",
+    "city": "Luruaco",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.6141667,
+    "longitude": -75.1461111
+    },
+    {
+    "zipcode": 73408,
+    "city": "Lérida",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.9166667,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 73411,
+    "city": "Líbano",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.9166667,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": 19418,
+    "city": "López (Micay)",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.4333333,
+    "longitude": -76.8
+    },
+    {
+    "zipcode": 15425,
+    "city": "Macanal",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 4.9166667,
+    "longitude": -73.25
+    },
+    {
+    "zipcode": 68425,
+    "city": "Macaravita",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.5833333,
+    "longitude": -72.5333333
+    },
+    {
+    "zipcode": "05425",
+    "city": "Maceo",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.5,
+    "longitude": -74.75
+    },
+    {
+    "zipcode": 25426,
+    "city": "Machetá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.0833333,
+    "longitude": -73.6166667
+    },
+    {
+    "zipcode": 25430,
+    "city": "Madrid",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.8333333,
+    "longitude": -74.3
+    },
+    {
+    "zipcode": 13430,
+    "city": "Magangué",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 9.2413889,
+    "longitude": -74.7533333
+    },
+    {
+    "zipcode": 52427,
+    "city": "Magüi (Payán)",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.9166667,
+    "longitude": -77.8333333
+    },
+    {
+    "zipcode": 13433,
+    "city": "Mahates",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10.1666667,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": 44430,
+    "city": "Maicao",
+    "code": 44,
+    "state": "La Guajira",
+    "latitude": 11.3841667,
+    "longitude": -72.2441667
+    },
+    {
+    "zipcode": 70429,
+    "city": "Majagual",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 8.5,
+    "longitude": -74.6666667
+    },
+    {
+    "zipcode": "08433",
+    "city": "Malambo",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.8588889,
+    "longitude": -74.7730556
+    },
+    {
+    "zipcode": 52435,
+    "city": "Mallama (Piedrancha)",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.0833333,
+    "longitude": -77.8166667
+    },
+    {
+    "zipcode": "08436",
+    "city": "Manatí",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.5,
+    "longitude": -75
+    },
+    {
+    "zipcode": 44560,
+    "city": "Manaure",
+    "code": 44,
+    "state": "La Guajira",
+    "latitude": 11.7791667,
+    "longitude": -72.4494444
+    },
+    {
+    "zipcode": 20443,
+    "city": "Manaure Balcón del Cesar",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 10.3927778,
+    "longitude": -73.0325
+    },
+    {
+    "zipcode": 17001,
+    "city": "Manizales",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.07,
+    "longitude": -75.5205556
+    },
+    {
+    "zipcode": 25436,
+    "city": "Manta",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.0833333,
+    "longitude": -73.5833333
+    },
+    {
+    "zipcode": 17433,
+    "city": "Manzanares",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.25,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": 85139,
+    "city": "Maní",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 4.8333333,
+    "longitude": -72.3333333
+    },
+    {
+    "zipcode": 50325,
+    "city": "Mapiripan",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 2.8911111,
+    "longitude": -72.1322222
+    },
+    {
+    "zipcode": 13440,
+    "city": "Margarita",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 9.0833333,
+    "longitude": -74.2
+    },
+    {
+    "zipcode": "05440",
+    "city": "Marinilla",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.2,
+    "longitude": -75.3
+    },
+    {
+    "zipcode": 15442,
+    "city": "Maripí",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5833333,
+    "longitude": -74
+    },
+    {
+    "zipcode": 73443,
+    "city": "Mariquita",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 5.25,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 17442,
+    "city": "Marmato",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.5,
+    "longitude": -75.5833333
+    },
+    {
+    "zipcode": 17444,
+    "city": "Marquetalia",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.3333333,
+    "longitude": -75
+    },
+    {
+    "zipcode": 66440,
+    "city": "Marsella",
+    "code": 66,
+    "state": "Risaralda",
+    "latitude": 4.9166667,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 17446,
+    "city": "Marulanda",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.3333333,
+    "longitude": -75.25
+    },
+    {
+    "zipcode": 13442,
+    "city": "María la Baja",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": 68444,
+    "city": "Matanza",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.4166667,
+    "longitude": -73.0833333
+    },
+    {
+    "zipcode": "05001",
+    "city": "Medellín",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.2913889,
+    "longitude": -75.5361111
+    },
+    {
+    "zipcode": 25438,
+    "city": "Medina",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.5,
+    "longitude": -73.3333333
+    },
+    {
+    "zipcode": 27425,
+    "city": "Medio Atrato",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": "",
+    "longitude": ""
+    },
+    {
+    "zipcode": 27430,
+    "city": "Medio Baudó",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": "",
+    "longitude": ""
+    },
+    {
+    "zipcode": 27450,
+    "city": "Medio San Juan (ANDAGOYA)",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 5.1,
+    "longitude": -76.683
+    },
+    {
+    "zipcode": 73449,
+    "city": "Melgar",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.25,
+    "longitude": -74.5833333
+    },
+    {
+    "zipcode": 19450,
+    "city": "Mercaderes",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 1.75,
+    "longitude": -77.1666667
+    },
+    {
+    "zipcode": 50330,
+    "city": "Mesetas",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 3.3780556,
+    "longitude": -74.0447222
+    },
+    {
+    "zipcode": 18460,
+    "city": "Milán",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 1.3483333,
+    "longitude": -75.5116667
+    },
+    {
+    "zipcode": 15455,
+    "city": "Miraflores",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.25,
+    "longitude": -73.1666667
+    },
+    {
+    "zipcode": 95200,
+    "city": "Miraflores",
+    "code": 95,
+    "state": "Guaviare",
+    "latitude": 1.3366667,
+    "longitude": -71.9511111
+    },
+    {
+    "zipcode": 19455,
+    "city": "Miranda",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 3.25,
+    "longitude": -76.25
+    },
+    {
+    "zipcode": 66456,
+    "city": "Mistrató",
+    "code": 66,
+    "state": "Risaralda",
+    "latitude": 5.4166667,
+    "longitude": -76
+    },
+    {
+    "zipcode": 97001,
+    "city": "Mitú",
+    "code": 97,
+    "state": "Vaupés",
+    "latitude": 1.1983333,
+    "longitude": -70.1733333
+    },
+    {
+    "zipcode": 86001,
+    "city": "Mocoa",
+    "code": 86,
+    "state": "Putumayo",
+    "latitude": 1.1488889,
+    "longitude": -76.6477778
+    },
+    {
+    "zipcode": 68464,
+    "city": "Mogotes",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.5833333,
+    "longitude": -72.9166667
+    },
+    {
+    "zipcode": 68468,
+    "city": "Molagavita",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.75,
+    "longitude": -72.75
+    },
+    {
+    "zipcode": 23464,
+    "city": "Momil",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 9.2372222,
+    "longitude": -75.6780556
+    },
+    {
+    "zipcode": 13468,
+    "city": "Mompós",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 9.25,
+    "longitude": -74.5833333
+    },
+    {
+    "zipcode": 15464,
+    "city": "Mongua",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.8333333,
+    "longitude": -72.6666667
+    },
+    {
+    "zipcode": 15466,
+    "city": "Monguí",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.75,
+    "longitude": -72.8333333
+    },
+    {
+    "zipcode": 15469,
+    "city": "Moniquirá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.9166667,
+    "longitude": -73.5
+    },
+    {
+    "zipcode": "05467",
+    "city": "Montebello",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.9166667,
+    "longitude": -75.5
+    },
+    {
+    "zipcode": 13458,
+    "city": "Montecristo",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 8.2994444,
+    "longitude": -74.4755556
+    },
+    {
+    "zipcode": 23466,
+    "city": "Montelíbano",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 7.75,
+    "longitude": -75.6666667
+    },
+    {
+    "zipcode": 63470,
+    "city": "Montenegro",
+    "code": 63,
+    "state": "Quindío",
+    "latitude": 4.5,
+    "longitude": -75.8
+    },
+    {
+    "zipcode": 23001,
+    "city": "Monteria",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 8.7575,
+    "longitude": -75.89
+    },
+    {
+    "zipcode": 85162,
+    "city": "Monterrey",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 4.9166667,
+    "longitude": -72.8333333
+    },
+    {
+    "zipcode": 13473,
+    "city": "Morales",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 8.4166667,
+    "longitude": -74
+    },
+    {
+    "zipcode": 19473,
+    "city": "Morales",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.8,
+    "longitude": -76.6666667
+    },
+    {
+    "zipcode": 18479,
+    "city": "Morelia",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 1.4875,
+    "longitude": -75.725
+    },
+    {
+    "zipcode": 70473,
+    "city": "Morroa",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.4166667,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": 25473,
+    "city": "Mosquera",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.75,
+    "longitude": -74.3333333
+    },
+    {
+    "zipcode": 52473,
+    "city": "Mosquera",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 2.35,
+    "longitude": -78.35
+    },
+    {
+    "zipcode": 15476,
+    "city": "Motavita",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5797222,
+    "longitude": -73.3713889
+    },
+    {
+    "zipcode": 23500,
+    "city": "Moñitos",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 8.25,
+    "longitude": -76.05
+    },
+    {
+    "zipcode": 73461,
+    "city": "Murillo",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.8769444,
+    "longitude": -75.1738889
+    },
+    {
+    "zipcode": "05475",
+    "city": "Murindó",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.8,
+    "longitude": -76.8
+    },
+    {
+    "zipcode": "05480",
+    "city": "Mutatá",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.3333333,
+    "longitude": -76.5
+    },
+    {
+    "zipcode": 54480,
+    "city": "Mutiscua",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.3333333,
+    "longitude": -72.7166667
+    },
+    {
+    "zipcode": 15480,
+    "city": "Muzo",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5166667,
+    "longitude": -74.1166667
+    },
+    {
+    "zipcode": 68432,
+    "city": "Málaga",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.7833333,
+    "longitude": -72.6666667
+    },
+    {
+    "zipcode": "05483",
+    "city": "Nariño",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.6,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": 25483,
+    "city": "Nariño",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.45,
+    "longitude": -74.8
+    },
+    {
+    "zipcode": 52480,
+    "city": "Nariño",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.5,
+    "longitude": -78
+    },
+    {
+    "zipcode": 73483,
+    "city": "Natagaima",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 3.5833333,
+    "longitude": -75.0833333
+    },
+    {
+    "zipcode": "05495",
+    "city": "Nechí",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 8.0963889,
+    "longitude": -74.7758333
+    },
+    {
+    "zipcode": "05490",
+    "city": "Necoclí",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 8.4238889,
+    "longitude": -76.7911111
+    },
+    {
+    "zipcode": 17486,
+    "city": "Neira",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.1666667,
+    "longitude": -75.5
+    },
+    {
+    "zipcode": 41001,
+    "city": "Neiva",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.9305556,
+    "longitude": -75.3302778
+    },
+    {
+    "zipcode": 25486,
+    "city": "Nemocón",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.1333333,
+    "longitude": -73.9
+    },
+    {
+    "zipcode": 25488,
+    "city": "Nilo",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.3333333,
+    "longitude": -74.5833333
+    },
+    {
+    "zipcode": 25489,
+    "city": "Nimaima",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.2,
+    "longitude": -74.4166667
+    },
+    {
+    "zipcode": 15491,
+    "city": "Nobsa",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.8333333,
+    "longitude": -72.9166667
+    },
+    {
+    "zipcode": 25491,
+    "city": "Nocaima",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.1166667,
+    "longitude": -74.4166667
+    },
+    {
+    "zipcode": 17495,
+    "city": "Norcasia",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.5666667,
+    "longitude": -74.8833333
+    },
+    {
+    "zipcode": 13490,
+    "city": "Norosí",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 8.5333333,
+    "longitude": -74.0333333
+    },
+    {
+    "zipcode": 27491,
+    "city": "Novita",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 4.9166667,
+    "longitude": -76.5833333
+    },
+    {
+    "zipcode": 47460,
+    "city": "Nueva Granada",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 9.8030556,
+    "longitude": -74.3902778
+    },
+    {
+    "zipcode": 15494,
+    "city": "Nuevo Colón",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.4166667,
+    "longitude": -73.4166667
+    },
+    {
+    "zipcode": 85225,
+    "city": "Nunchía",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 5.6405556,
+    "longitude": -72.1986111
+    },
+    {
+    "zipcode": 27495,
+    "city": "Nuquí",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 6,
+    "longitude": -77.3333333
+    },
+    {
+    "zipcode": 41483,
+    "city": "Nátaga",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.65,
+    "longitude": -75.8
+    },
+    {
+    "zipcode": 76497,
+    "city": "Obando",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.5833333,
+    "longitude": -75.9166667
+    },
+    {
+    "zipcode": 68498,
+    "city": "Ocamonte",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.4166667,
+    "longitude": -73.0833333
+    },
+    {
+    "zipcode": 54498,
+    "city": "Ocaña",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 8.25,
+    "longitude": -73.3
+    },
+    {
+    "zipcode": 68500,
+    "city": "Oiba",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.3,
+    "longitude": -73.25
+    },
+    {
+    "zipcode": 15500,
+    "city": "Oicatá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.6,
+    "longitude": -73.3166667
+    },
+    {
+    "zipcode": "05501",
+    "city": "Olaya",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.6666667,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 52490,
+    "city": "Olaya Herrera",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.2666667,
+    "longitude": -77.4833333
+    },
+    {
+    "zipcode": 68502,
+    "city": "Onzaga",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.3333333,
+    "longitude": -72.75
+    },
+    {
+    "zipcode": 41503,
+    "city": "Oporapa",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.0833333,
+    "longitude": -76.0166667
+    },
+    {
+    "zipcode": 86320,
+    "city": "Orito",
+    "code": 86,
+    "state": "Putumayo",
+    "latitude": 0.6966667,
+    "longitude": -76.8747222
+    },
+    {
+    "zipcode": 85230,
+    "city": "Orocué",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 4.7941667,
+    "longitude": -71.34
+    },
+    {
+    "zipcode": 73504,
+    "city": "Ortega",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 3.9166667,
+    "longitude": -75.25
+    },
+    {
+    "zipcode": 52506,
+    "city": "Ospina",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.0333333,
+    "longitude": -77.55
+    },
+    {
+    "zipcode": 15507,
+    "city": "Otanche",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.75,
+    "longitude": -74.25
+    },
+    {
+    "zipcode": 70508,
+    "city": "Ovejas",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.5,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": 15511,
+    "city": "Pachavita",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.1333333,
+    "longitude": -73.4
+    },
+    {
+    "zipcode": 25513,
+    "city": "Pacho",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.25,
+    "longitude": -74.1666667
+    },
+    {
+    "zipcode": 19513,
+    "city": "Padilla",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 3.0666667,
+    "longitude": -76.3166667
+    },
+    {
+    "zipcode": 41518,
+    "city": "Paicol",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.45,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 20517,
+    "city": "Pailitas",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 8.9661111,
+    "longitude": -73.6316667
+    },
+    {
+    "zipcode": 25518,
+    "city": "Paime",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.4166667,
+    "longitude": -74.1666667
+    },
+    {
+    "zipcode": 15516,
+    "city": "Paipa",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.8333333,
+    "longitude": -73.1
+    },
+    {
+    "zipcode": 15518,
+    "city": "Pajarito",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.4166667,
+    "longitude": -72.6666667
+    },
+    {
+    "zipcode": 41524,
+    "city": "Palermo",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 3,
+    "longitude": -75.5
+    },
+    {
+    "zipcode": 17524,
+    "city": "Palestina",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.0833333,
+    "longitude": -75.6666667
+    },
+    {
+    "zipcode": 41530,
+    "city": "Palestina",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 1.75,
+    "longitude": -76.0666667
+    },
+    {
+    "zipcode": 68522,
+    "city": "Palmar",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.5833333,
+    "longitude": -73.25
+    },
+    {
+    "zipcode": "08520",
+    "city": "Palmar de Varela",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.7466667,
+    "longitude": -74.7555556
+    },
+    {
+    "zipcode": 68524,
+    "city": "Palmas del Socorro",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.45,
+    "longitude": -73.25
+    },
+    {
+    "zipcode": 76520,
+    "city": "Palmira",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.5394444,
+    "longitude": -76.3036111
+    },
+    {
+    "zipcode": 70523,
+    "city": "Palmito",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.3333333,
+    "longitude": -75.55
+    },
+    {
+    "zipcode": 73520,
+    "city": "Palocabildo",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 5.1333333,
+    "longitude": -75.0333333
+    },
+    {
+    "zipcode": 54518,
+    "city": "Pamplona",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.3780556,
+    "longitude": -72.6525
+    },
+    {
+    "zipcode": 54520,
+    "city": "Pamplonita",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.5,
+    "longitude": -72.5833333
+    },
+    {
+    "zipcode": 25524,
+    "city": "Pandi",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.25,
+    "longitude": -74.5
+    },
+    {
+    "zipcode": 15522,
+    "city": "Panqueba",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.5,
+    "longitude": -72.4166667
+    },
+    {
+    "zipcode": 25530,
+    "city": "Paratebueno",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.3730556,
+    "longitude": -73.2213889
+    },
+    {
+    "zipcode": 25535,
+    "city": "Pasca",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.3333333,
+    "longitude": -74.2833333
+    },
+    {
+    "zipcode": 19532,
+    "city": "Patía (El Bordo)",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.1155556,
+    "longitude": -76.9891667
+    },
+    {
+    "zipcode": 15531,
+    "city": "Pauna",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.75,
+    "longitude": -73.9166667
+    },
+    {
+    "zipcode": 15532,
+    "city": "Paya",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.6666667,
+    "longitude": -72.3816667
+    },
+    {
+    "zipcode": 85250,
+    "city": "Paz de Ariporo",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 5.8833333,
+    "longitude": -71.9
+    },
+    {
+    "zipcode": 15537,
+    "city": "Paz de Río",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.0833333,
+    "longitude": -72.75
+    },
+    {
+    "zipcode": 47441,
+    "city": "Pedraza",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.1666667,
+    "longitude": -74.75
+    },
+    {
+    "zipcode": 20550,
+    "city": "Pelaya",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 8.6916667,
+    "longitude": -73.6663889
+    },
+    {
+    "zipcode": 17541,
+    "city": "Pensilvania",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.5,
+    "longitude": -75.0833333
+    },
+    {
+    "zipcode": "05543",
+    "city": "Peque",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7,
+    "longitude": -75.8333333
+    },
+    {
+    "zipcode": 66001,
+    "city": "Pereira",
+    "code": 66,
+    "state": "Risaralda",
+    "latitude": 4.8133333,
+    "longitude": -75.6961111
+    },
+    {
+    "zipcode": 15542,
+    "city": "Pesca",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5833333,
+    "longitude": -73.05
+    },
+    {
+    "zipcode": "05541",
+    "city": "Peñol",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.25,
+    "longitude": -75.25
+    },
+    {
+    "zipcode": 19533,
+    "city": "Piamonte",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 7.7833333,
+    "longitude": -75.2
+    },
+    {
+    "zipcode": 68547,
+    "city": "Pie de Cuesta",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 5.8383333,
+    "longitude": -74.0366667
+    },
+    {
+    "zipcode": 73547,
+    "city": "Piedras",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.5,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 19548,
+    "city": "Piendamó",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.75,
+    "longitude": -76.5
+    },
+    {
+    "zipcode": 63548,
+    "city": "Pijao",
+    "code": 63,
+    "state": "Quindío",
+    "latitude": 4.3333333,
+    "longitude": -75.6666667
+    },
+    {
+    "zipcode": 47545,
+    "city": "Pijiño",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": "`9.3302778",
+    "longitude": -74.4497222
+    },
+    {
+    "zipcode": 68549,
+    "city": "Pinchote",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.5833333,
+    "longitude": -73.1666667
+    },
+    {
+    "zipcode": 13549,
+    "city": "Pinillos",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 8.9172222,
+    "longitude": -74.4663889
+    },
+    {
+    "zipcode": "08549",
+    "city": "Piojo",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.75,
+    "longitude": -75.1333333
+    },
+    {
+    "zipcode": 15550,
+    "city": "Pisva",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.7427778,
+    "longitude": -72.4894444
+    },
+    {
+    "zipcode": 41548,
+    "city": "Pital",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.3333333,
+    "longitude": -75.8333333
+    },
+    {
+    "zipcode": 41551,
+    "city": "Pitalito",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 1.75,
+    "longitude": -76.1666667
+    },
+    {
+    "zipcode": 47551,
+    "city": "Pivijay",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.4166667,
+    "longitude": -74.3333333
+    },
+    {
+    "zipcode": 73555,
+    "city": "Planadas",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 3.25,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 23555,
+    "city": "Planeta Rica",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 8.3333333,
+    "longitude": -75.5833333
+    },
+    {
+    "zipcode": 47555,
+    "city": "Plato",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 9.8333333,
+    "longitude": -74.3333333
+    },
+    {
+    "zipcode": 52540,
+    "city": "Policarpa",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.6316667,
+    "longitude": -77.4616667
+    },
+    {
+    "zipcode": "08558",
+    "city": "Polonuevo",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.75,
+    "longitude": -74.7833333
+    },
+    {
+    "zipcode": "08560",
+    "city": "Ponedera",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.6436111,
+    "longitude": -74.7544444
+    },
+    {
+    "zipcode": 19001,
+    "city": "Popayán",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 3.2775,
+    "longitude": -75.6213889
+    },
+    {
+    "zipcode": 85263,
+    "city": "Pore",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 5.6708333,
+    "longitude": -71.93
+    },
+    {
+    "zipcode": 52560,
+    "city": "Potosí",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 0.75,
+    "longitude": -77.4166667
+    },
+    {
+    "zipcode": 76563,
+    "city": "Pradera",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.4211111,
+    "longitude": -76.2447222
+    },
+    {
+    "zipcode": 73563,
+    "city": "Prado",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 3.75,
+    "longitude": -74.8333333
+    },
+    {
+    "zipcode": 52565,
+    "city": "Providencia",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.5702778,
+    "longitude": -77.4694444
+    },
+    {
+    "zipcode": 88564,
+    "city": "Providencia",
+    "code": 88,
+    "state": "San Andrés",
+    "latitude": 12.5,
+    "longitude": -81.75
+    },
+    {
+    "zipcode": 20570,
+    "city": "Pueblo Bello",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 10.3666667,
+    "longitude": -73.6333333
+    },
+    {
+    "zipcode": 23570,
+    "city": "Pueblo Nuevo",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 8.2333333,
+    "longitude": -74.9666667
+    },
+    {
+    "zipcode": 66572,
+    "city": "Pueblo Rico",
+    "code": 66,
+    "state": "Risaralda",
+    "latitude": 5.25,
+    "longitude": -76.1666667
+    },
+    {
+    "zipcode": "05576",
+    "city": "Pueblorrico",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.8,
+    "longitude": -75.85
+    },
+    {
+    "zipcode": 47570,
+    "city": "Puebloviejo",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.9833333,
+    "longitude": -74.3333333
+    },
+    {
+    "zipcode": 68572,
+    "city": "Puente Nacional",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 5.9166667,
+    "longitude": -73.5833333
+    },
+    {
+    "zipcode": 52573,
+    "city": "Puerres",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 0.9166667,
+    "longitude": -77.25
+    },
+    {
+    "zipcode": 86568,
+    "city": "Puerto Asís",
+    "code": 86,
+    "state": "Putumayo",
+    "latitude": 0.5158333,
+    "longitude": -76.495
+    },
+    {
+    "zipcode": "05579",
+    "city": "Puerto Berrío",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.4166667,
+    "longitude": -74.5
+    },
+    {
+    "zipcode": 15572,
+    "city": "Puerto Boyacá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.9780556,
+    "longitude": -74.5897222
+    },
+    {
+    "zipcode": 86569,
+    "city": "Puerto Caicedo",
+    "code": 86,
+    "state": "Putumayo",
+    "latitude": 0.6838889,
+    "longitude": -76.5858333
+    },
+    {
+    "zipcode": 99001,
+    "city": "Puerto Carreño",
+    "code": 99,
+    "state": "Vichada",
+    "latitude": 6.1877778,
+    "longitude": -67.4730556
+    },
+    {
+    "zipcode": "08573",
+    "city": "Puerto Colombia",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 11.0166667,
+    "longitude": -74.8833333
+    },
+    {
+    "zipcode": 50450,
+    "city": "Puerto Concordia",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 2.6794444,
+    "longitude": -72.7608333
+    },
+    {
+    "zipcode": 23574,
+    "city": "Puerto Escondido",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 8.95,
+    "longitude": -76.25
+    },
+    {
+    "zipcode": 50568,
+    "city": "Puerto Gaitán",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 4.3141667,
+    "longitude": -72.0825
+    },
+    {
+    "zipcode": 86571,
+    "city": "Puerto Guzmán",
+    "code": 86,
+    "state": "Putumayo",
+    "latitude": 0.9702778,
+    "longitude": -76.5858333
+    },
+    {
+    "zipcode": 86573,
+    "city": "Puerto Leguízamo",
+    "code": 86,
+    "state": "Putumayo",
+    "latitude": -0.2,
+    "longitude": -74.7666667
+    },
+    {
+    "zipcode": 23580,
+    "city": "Puerto Libertador",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 4.6,
+    "longitude": -74.1166667
+    },
+    {
+    "zipcode": 50577,
+    "city": "Puerto Lleras",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 3,
+    "longitude": -72.5
+    },
+    {
+    "zipcode": 50573,
+    "city": "Puerto López",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 4.0833333,
+    "longitude": -72.9666667
+    },
+    {
+    "zipcode": "05585",
+    "city": "Puerto Nare",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.1916667,
+    "longitude": -74.5866667
+    },
+    {
+    "zipcode": 91540,
+    "city": "Puerto Nariño",
+    "code": 91,
+    "state": "Amazonas",
+    "latitude": -3.7702778,
+    "longitude": -70.3830556
+    },
+    {
+    "zipcode": 68573,
+    "city": "Puerto Parra",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.6516667,
+    "longitude": -74.0608333
+    },
+    {
+    "zipcode": 18592,
+    "city": "Puerto Rico",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 1.9141667,
+    "longitude": -75.145
+    },
+    {
+    "zipcode": 50590,
+    "city": "Puerto Rico",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 2.9383333,
+    "longitude": -73.2083333
+    },
+    {
+    "zipcode": 81591,
+    "city": "Puerto Rondón",
+    "code": 81,
+    "state": "Arauca",
+    "latitude": 6.2780556,
+    "longitude": -71.1
+    },
+    {
+    "zipcode": 25572,
+    "city": "Puerto Salgar",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.5,
+    "longitude": -74.5833333
+    },
+    {
+    "zipcode": 54553,
+    "city": "Puerto Santander",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 8.3636111,
+    "longitude": -72.4075
+    },
+    {
+    "zipcode": 19573,
+    "city": "Puerto Tejada",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 3.25,
+    "longitude": -76.4166667
+    },
+    {
+    "zipcode": "05591",
+    "city": "Puerto Triunfo",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.8708333,
+    "longitude": -74.6455556
+    },
+    {
+    "zipcode": 68575,
+    "city": "Puerto Wilches",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.5833333,
+    "longitude": -73.6666667
+    },
+    {
+    "zipcode": 25580,
+    "city": "Pulí",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.75,
+    "longitude": -74.6666667
+    },
+    {
+    "zipcode": 52585,
+    "city": "Pupiales",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 0.9166667,
+    "longitude": -77.6666667
+    },
+    {
+    "zipcode": 19585,
+    "city": "Puracé (Coconuco)",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.3480556,
+    "longitude": -76.5008333
+    },
+    {
+    "zipcode": 73585,
+    "city": "Purificación",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 3.9166667,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 23586,
+    "city": "Purísima",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 9.3,
+    "longitude": -75.6666667
+    },
+    {
+    "zipcode": 17513,
+    "city": "Pácora",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.5,
+    "longitude": -75.5
+    },
+    {
+    "zipcode": 15514,
+    "city": "Páez",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.1044444,
+    "longitude": -73.0555556
+    },
+    {
+    "zipcode": 19517,
+    "city": "Páez (Belalcazar)",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 5.1044444,
+    "longitude": -73.0555556
+    },
+    {
+    "zipcode": 68533,
+    "city": "Páramo",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.5,
+    "longitude": -73.1333333
+    },
+    {
+    "zipcode": 25592,
+    "city": "Quebradanegra",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.15,
+    "longitude": -74.5
+    },
+    {
+    "zipcode": 25594,
+    "city": "Quetame",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.3333333,
+    "longitude": -73.8333333
+    },
+    {
+    "zipcode": 27001,
+    "city": "Quibdó",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 5.6947222,
+    "longitude": -76.6611111
+    },
+    {
+    "zipcode": 63594,
+    "city": "Quimbaya",
+    "code": 63,
+    "state": "Quindío",
+    "latitude": 4.6333333,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 66594,
+    "city": "Quinchía",
+    "code": 66,
+    "state": "Risaralda",
+    "latitude": 5.3333333,
+    "longitude": -75.6666667
+    },
+    {
+    "zipcode": 15580,
+    "city": "Quipama",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5222222,
+    "longitude": -74.1808333
+    },
+    {
+    "zipcode": 25596,
+    "city": "Quipile",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.75,
+    "longitude": -74.5833333
+    },
+    {
+    "zipcode": 54599,
+    "city": "Ragonvalia",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.5833333,
+    "longitude": -72.5
+    },
+    {
+    "zipcode": 15599,
+    "city": "Ramiriquí",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.4166667,
+    "longitude": -73.3333333
+    },
+    {
+    "zipcode": 85279,
+    "city": "Recetor",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 5.3333333,
+    "longitude": -72.75
+    },
+    {
+    "zipcode": 13580,
+    "city": "Regidor",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 8.6666667,
+    "longitude": -73.8333333
+    },
+    {
+    "zipcode": "05604",
+    "city": "Remedios",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7,
+    "longitude": -74.4166667
+    },
+    {
+    "zipcode": 47605,
+    "city": "Remolino",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.6666667,
+    "longitude": -74.5833333
+    },
+    {
+    "zipcode": "08606",
+    "city": "Repelón",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.55,
+    "longitude": -75.1333333
+    },
+    {
+    "zipcode": 50606,
+    "city": "Restrepo",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 4.1666667,
+    "longitude": -73.4166667
+    },
+    {
+    "zipcode": 76606,
+    "city": "Restrepo",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.7833333,
+    "longitude": -76.5
+    },
+    {
+    "zipcode": "05607",
+    "city": "Retiro",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.0833333,
+    "longitude": -75.5
+    },
+    {
+    "zipcode": 25612,
+    "city": "Ricaurte",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.2797222,
+    "longitude": -74.7761111
+    },
+    {
+    "zipcode": 52612,
+    "city": "Ricaurte",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.1666667,
+    "longitude": -78.1666667
+    },
+    {
+    "zipcode": 68615,
+    "city": "Rio Negro",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.2191667,
+    "longitude": -73.1558333
+    },
+    {
+    "zipcode": 73616,
+    "city": "Rioblanco",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 3.5,
+    "longitude": -75.8333333
+    },
+    {
+    "zipcode": 76616,
+    "city": "Riofrío",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.0833333,
+    "longitude": -76.3333333
+    },
+    {
+    "zipcode": 44001,
+    "city": "Riohacha",
+    "code": 44,
+    "state": "La Guajira",
+    "latitude": 11.5444444,
+    "longitude": -72.9072222
+    },
+    {
+    "zipcode": 17616,
+    "city": "Risaralda",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.1666667,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 41615,
+    "city": "Rivera",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.8333333,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": 52621,
+    "city": "Roberto Payán (San José)",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.9166667,
+    "longitude": -78.3333333
+    },
+    {
+    "zipcode": 76622,
+    "city": "Roldanillo",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.4147222,
+    "longitude": -76.1547222
+    },
+    {
+    "zipcode": 73622,
+    "city": "Roncesvalles",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.0833333,
+    "longitude": -75.5833333
+    },
+    {
+    "zipcode": 15621,
+    "city": "Rondón",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.4166667,
+    "longitude": -73.1666667
+    },
+    {
+    "zipcode": 19622,
+    "city": "Rosas",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.3333333,
+    "longitude": -76.75
+    },
+    {
+    "zipcode": 73624,
+    "city": "Rovira",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.25,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": 15600,
+    "city": "Ráquira",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.6166667,
+    "longitude": -73.6333333
+    },
+    {
+    "zipcode": 27580,
+    "city": "Río Iró",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 5.1,
+    "longitude": -76.6666667
+    },
+    {
+    "zipcode": 27600,
+    "city": "Río Quito",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 5.7,
+    "longitude": -76.6666667
+    },
+    {
+    "zipcode": 17614,
+    "city": "Río Sucio",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.3791667,
+    "longitude": -75.6161111
+    },
+    {
+    "zipcode": 13600,
+    "city": "Río Viejo",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 8.59,
+    "longitude": -73.8436111
+    },
+    {
+    "zipcode": 20614,
+    "city": "Río de oro",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 8,
+    "longitude": -73.5
+    },
+    {
+    "zipcode": "05615",
+    "city": "Ríonegro",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.1666667,
+    "longitude": -75.4166667
+    },
+    {
+    "zipcode": 27615,
+    "city": "Ríosucio",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 7.4166667,
+    "longitude": -77.1666667
+    },
+    {
+    "zipcode": 68655,
+    "city": "Sabana de Torres",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.3980556,
+    "longitude": -73.4969444
+    },
+    {
+    "zipcode": "08634",
+    "city": "Sabanagrande",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.8,
+    "longitude": -74.75
+    },
+    {
+    "zipcode": "05628",
+    "city": "Sabanalarga",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.9166667,
+    "longitude": -75.8
+    },
+    {
+    "zipcode": "08638",
+    "city": "Sabanalarga",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.6333333,
+    "longitude": -74.8333333
+    },
+    {
+    "zipcode": 85300,
+    "city": "Sabanalarga",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 4.8536111,
+    "longitude": -73.0430556
+    },
+    {
+    "zipcode": 47660,
+    "city": "Sabanas de San Angel (SAN ANGEL)",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.033,
+    "longitude": -74.217
+    },
+    {
+    "zipcode": "05631",
+    "city": "Sabaneta",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.15,
+    "longitude": -75.6
+    },
+    {
+    "zipcode": 15632,
+    "city": "Saboyá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.75,
+    "longitude": -73.7
+    },
+    {
+    "zipcode": 23660,
+    "city": "Sahagún",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 8.8333333,
+    "longitude": -75.4166667
+    },
+    {
+    "zipcode": 41660,
+    "city": "Saladoblanco",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.0144444,
+    "longitude": -76.0502778
+    },
+    {
+    "zipcode": 17653,
+    "city": "Salamina",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.4166667,
+    "longitude": -75.4166667
+    },
+    {
+    "zipcode": 47675,
+    "city": "Salamina",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.5,
+    "longitude": -74.7
+    },
+    {
+    "zipcode": 54660,
+    "city": "Salazar",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.8,
+    "longitude": -72.8333333
+    },
+    {
+    "zipcode": 73671,
+    "city": "Saldaña",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 3.9347222,
+    "longitude": -75.0202778
+    },
+    {
+    "zipcode": 63690,
+    "city": "Salento",
+    "code": 63,
+    "state": "Quindío",
+    "latitude": 4.6666667,
+    "longitude": -75.5
+    },
+    {
+    "zipcode": "05642",
+    "city": "Salgar",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6,
+    "longitude": -76
+    },
+    {
+    "zipcode": 15646,
+    "city": "Samacá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5,
+    "longitude": -73.5
+    },
+    {
+    "zipcode": 52678,
+    "city": "Samaniego",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.4166667,
+    "longitude": -77.6666667
+    },
+    {
+    "zipcode": 17662,
+    "city": "Samaná",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.5833333,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 70670,
+    "city": "Sampués",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.1666667,
+    "longitude": -75.3
+    },
+    {
+    "zipcode": 41668,
+    "city": "San Agustín",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 1.9166667,
+    "longitude": -76.3333333
+    },
+    {
+    "zipcode": 20710,
+    "city": "San Alberto",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 7.7525,
+    "longitude": -73.3891667
+    },
+    {
+    "zipcode": 68669,
+    "city": "San Andrés",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.8333333,
+    "longitude": -72.75
+    },
+    {
+    "zipcode": 23670,
+    "city": "San Andrés Sotavento",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 9.1666667,
+    "longitude": -75.55
+    },
+    {
+    "zipcode": "05647",
+    "city": "San Andrés de Cuerquía",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.917,
+    "longitude": -75.667
+    },
+    {
+    "zipcode": 23672,
+    "city": "San Antero",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 9.35,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 73675,
+    "city": "San Antonio",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 3.9166667,
+    "longitude": -75.5
+    },
+    {
+    "zipcode": 25645,
+    "city": "San Antonio de Tequendama",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.1333333,
+    "longitude": -74.5
+    },
+    {
+    "zipcode": 68673,
+    "city": "San Benito",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.1666667,
+    "longitude": -73.4666667
+    },
+    {
+    "zipcode": 70678,
+    "city": "San Benito Abad",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 8.75,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 25649,
+    "city": "San Bernardo",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.2,
+    "longitude": -74.3333333
+    },
+    {
+    "zipcode": 52685,
+    "city": "San Bernardo",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.5163889,
+    "longitude": -77.0466667
+    },
+    {
+    "zipcode": 23675,
+    "city": "San Bernardo del Viento",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 9.25,
+    "longitude": -76
+    },
+    {
+    "zipcode": 54670,
+    "city": "San Calixto",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 8.75,
+    "longitude": -73.0333333
+    },
+    {
+    "zipcode": "05649",
+    "city": "San Carlos",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.2,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 23678,
+    "city": "San Carlos",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 8.7,
+    "longitude": -75.7
+    },
+    {
+    "zipcode": 50680,
+    "city": "San Carlos de Guaroa",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 3.7122222,
+    "longitude": -73.2436111
+    },
+    {
+    "zipcode": 25653,
+    "city": "San Cayetano",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.3333333,
+    "longitude": -74.0833333
+    },
+    {
+    "zipcode": 54673,
+    "city": "San Cayetano",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.8833333,
+    "longitude": -72.5833333
+    },
+    {
+    "zipcode": 13620,
+    "city": "San Cristobal",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 9.8833333,
+    "longitude": -75.25
+    },
+    {
+    "zipcode": 20750,
+    "city": "San Diego",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 10.3375,
+    "longitude": -73.1825
+    },
+    {
+    "zipcode": 15660,
+    "city": "San Eduardo",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.2166667,
+    "longitude": -73.1333333
+    },
+    {
+    "zipcode": 13647,
+    "city": "San Estanislao",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10.3983333,
+    "longitude": -75.1511111
+    },
+    {
+    "zipcode": 13650,
+    "city": "San Fernando",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 9.0833333,
+    "longitude": -74.3333333
+    },
+    {
+    "zipcode": "05652",
+    "city": "San Francisco",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.1166667,
+    "longitude": -75.9833333
+    },
+    {
+    "zipcode": 25658,
+    "city": "San Francisco",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5,
+    "longitude": -74.2833333
+    },
+    {
+    "zipcode": 86755,
+    "city": "San Francisco",
+    "code": 86,
+    "state": "Putumayo",
+    "latitude": 1.1772222,
+    "longitude": -76.8830556
+    },
+    {
+    "zipcode": 68679,
+    "city": "San Gíl",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.5833333,
+    "longitude": -73.0833333
+    },
+    {
+    "zipcode": 13654,
+    "city": "San Jacinto",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 9.8333333,
+    "longitude": -75.0833333
+    },
+    {
+    "zipcode": 13655,
+    "city": "San Jacinto del Cauca",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 9.8316667,
+    "longitude": -75.1263889
+    },
+    {
+    "zipcode": "05656",
+    "city": "San Jerónimo",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.45,
+    "longitude": -75.7
+    },
+    {
+    "zipcode": 68682,
+    "city": "San Joaquín",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.4333333,
+    "longitude": -72.8666667
+    },
+    {
+    "zipcode": 17665,
+    "city": "San José",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.0858333,
+    "longitude": -75.7883333
+    },
+    {
+    "zipcode": 68686,
+    "city": "San José de Miranda",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.7,
+    "longitude": -72.6666667
+    },
+    {
+    "zipcode": "05658",
+    "city": "San José de Montaña",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.8502778,
+    "longitude": -75.6833333
+    },
+    {
+    "zipcode": 15664,
+    "city": "San José de Pare",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.0833333,
+    "longitude": -73.4666667
+    },
+    {
+    "zipcode": 23682,
+    "city": "San José de Uré",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 7.767,
+    "longitude": -75.517
+    },
+    {
+    "zipcode": 18610,
+    "city": "San José del Fragua",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 1.3611111,
+    "longitude": -75.9883333
+    },
+    {
+    "zipcode": 95001,
+    "city": "San José del Guaviare",
+    "code": 95,
+    "state": "Guaviare",
+    "latitude": 2.5683333,
+    "longitude": -72.6416667
+    },
+    {
+    "zipcode": 27660,
+    "city": "San José del Palmar",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 4.9166667,
+    "longitude": -76.25
+    },
+    {
+    "zipcode": 50683,
+    "city": "San Juan de Arama",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 3.3463889,
+    "longitude": -73.8894444
+    },
+    {
+    "zipcode": 70702,
+    "city": "San Juan de Betulia",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.2755556,
+    "longitude": -75.2455556
+    },
+    {
+    "zipcode": 13657,
+    "city": "San Juan de Nepomuceno",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 9.9566667,
+    "longitude": -75.0866667
+    },
+    {
+    "zipcode": 52001,
+    "city": "San Juan de Pasto",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.21467073681653,
+    "longitude": -77.2786474227905
+    },
+    {
+    "zipcode": 25662,
+    "city": "San Juan de Río Seco",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.9166667,
+    "longitude": -74.6666667
+    },
+    {
+    "zipcode": "05659",
+    "city": "San Juan de Urabá",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 8.7630556,
+    "longitude": -76.53
+    },
+    {
+    "zipcode": 44650,
+    "city": "San Juan del Cesar",
+    "code": 44,
+    "state": "La Guajira",
+    "latitude": 10.8333333,
+    "longitude": -73.0833333
+    },
+    {
+    "zipcode": 50686,
+    "city": "San Juanito",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 4.4586111,
+    "longitude": -73.6730556
+    },
+    {
+    "zipcode": 52687,
+    "city": "San Lorenzo",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.5,
+    "longitude": -77.1666667
+    },
+    {
+    "zipcode": 73678,
+    "city": "San Luis",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.1666667,
+    "longitude": -75.0833333
+    },
+    {
+    "zipcode": "05660",
+    "city": "San Luís",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6,
+    "longitude": -74.8333333
+    },
+    {
+    "zipcode": 15667,
+    "city": "San Luís de Gaceno",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 4.8213889,
+    "longitude": -73.1675
+    },
+    {
+    "zipcode": 85325,
+    "city": "San Luís de Palenque",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 5.2805556,
+    "longitude": -71.5819444
+    },
+    {
+    "zipcode": 70708,
+    "city": "San Marcos",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 8.5833333,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": 20770,
+    "city": "San Martín",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 8.0047222,
+    "longitude": -73.5152778
+    },
+    {
+    "zipcode": 50689,
+    "city": "San Martín",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 3.7,
+    "longitude": -73.7
+    },
+    {
+    "zipcode": 13667,
+    "city": "San Martín de Loba",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 8.8333333,
+    "longitude": -73.9166667
+    },
+    {
+    "zipcode": 15673,
+    "city": "San Mateo",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.5,
+    "longitude": -72.5
+    },
+    {
+    "zipcode": 68684,
+    "city": "San Miguel",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.6666667,
+    "longitude": -72.55
+    },
+    {
+    "zipcode": 86757,
+    "city": "San Miguel",
+    "code": 86,
+    "state": "Putumayo",
+    "latitude": 0.3394444,
+    "longitude": -76.8830556
+    },
+    {
+    "zipcode": 15676,
+    "city": "San Miguel de Sema",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.55,
+    "longitude": -73.75
+    },
+    {
+    "zipcode": 70713,
+    "city": "San Onofre",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.8333333,
+    "longitude": -75.5
+    },
+    {
+    "zipcode": 13670,
+    "city": "San Pablo",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10.0527778,
+    "longitude": -75.2680556
+    },
+    {
+    "zipcode": 52693,
+    "city": "San Pablo",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.6666667,
+    "longitude": -76.9166667
+    },
+    {
+    "zipcode": 15681,
+    "city": "San Pablo de Borbur",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.75,
+    "longitude": -74.0833333
+    },
+    {
+    "zipcode": "05664",
+    "city": "San Pedro",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.45,
+    "longitude": -75.5833333
+    },
+    {
+    "zipcode": 70717,
+    "city": "San Pedro",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.4166667,
+    "longitude": -75
+    },
+    {
+    "zipcode": 76670,
+    "city": "San Pedro",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4,
+    "longitude": -76.1666667
+    },
+    {
+    "zipcode": 52694,
+    "city": "San Pedro de Cartago",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.5613889,
+    "longitude": -77.1180556
+    },
+    {
+    "zipcode": "05665",
+    "city": "San Pedro de Urabá",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 8.2761111,
+    "longitude": -76.3786111
+    },
+    {
+    "zipcode": 23686,
+    "city": "San Pelayo",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 9,
+    "longitude": -75.9166667
+    },
+    {
+    "zipcode": "05667",
+    "city": "San Rafael",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.3,
+    "longitude": -75
+    },
+    {
+    "zipcode": "05670",
+    "city": "San Roque",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.4166667,
+    "longitude": -74.8333333
+    },
+    {
+    "zipcode": 19693,
+    "city": "San Sebastián",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 1.9166667,
+    "longitude": -76.6666667
+    },
+    {
+    "zipcode": 47692,
+    "city": "San Sebastián de Buenavista",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 9.3333333,
+    "longitude": -74.3333333
+    },
+    {
+    "zipcode": "05674",
+    "city": "San Vicente",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.3333333,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": 18753,
+    "city": "San Vicente del Caguán",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 2.1525,
+    "longitude": -74.7888889
+    },
+    {
+    "zipcode": 68689,
+    "city": "San Vicente del Chucurí",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.8836111,
+    "longitude": -73.4138889
+    },
+    {
+    "zipcode": 47703,
+    "city": "San Zenón",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 9.3333333,
+    "longitude": -74.3
+    },
+    {
+    "zipcode": 52683,
+    "city": "Sandoná",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.25,
+    "longitude": -77.45
+    },
+    {
+    "zipcode": 47707,
+    "city": "Santa Ana",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 9.3166667,
+    "longitude": -74.5833333
+    },
+    {
+    "zipcode": "05679",
+    "city": "Santa Bárbara",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.8666667,
+    "longitude": -75.5833333
+    },
+    {
+    "zipcode": 68705,
+    "city": "Santa Bárbara",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.9927778,
+    "longitude": -72.9102778
+    },
+    {
+    "zipcode": 52695,
+    "city": "Santa Bárbara (Iscuandé)",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 2.3333333,
+    "longitude": -77.9166667
+    },
+    {
+    "zipcode": 47720,
+    "city": "Santa Bárbara de Pinto",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.6,
+    "longitude": -74.167
+    },
+    {
+    "zipcode": 13673,
+    "city": "Santa Catalina",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10.5833333,
+    "longitude": -75.25
+    },
+    {
+    "zipcode": "05042",
+    "city": "Santa Fé de Antioquia",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.5597222,
+    "longitude": -75.8280556
+    },
+    {
+    "zipcode": 27250,
+    "city": "Santa Genoveva de Docorodó",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 4.2586111,
+    "longitude": -77.3675
+    },
+    {
+    "zipcode": 68720,
+    "city": "Santa Helena del Opón",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.3375,
+    "longitude": -73.5919444
+    },
+    {
+    "zipcode": 73686,
+    "city": "Santa Isabel",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.75,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": "08675",
+    "city": "Santa Lucía",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.3286111,
+    "longitude": -74.9644444
+    },
+    {
+    "zipcode": 47001,
+    "city": "Santa Marta",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 11.2472222,
+    "longitude": -74.2016667
+    },
+    {
+    "zipcode": 15690,
+    "city": "Santa María",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 4.8616667,
+    "longitude": -73.2641667
+    },
+    {
+    "zipcode": 41676,
+    "city": "Santa María",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 3,
+    "longitude": -75.7
+    },
+    {
+    "zipcode": 13683,
+    "city": "Santa Rosa",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10.45,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": 19701,
+    "city": "Santa Rosa",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 1.5,
+    "longitude": -76.5
+    },
+    {
+    "zipcode": 66682,
+    "city": "Santa Rosa de Cabal",
+    "code": 66,
+    "state": "Risaralda",
+    "latitude": 4.8680556,
+    "longitude": -75.6213889
+    },
+    {
+    "zipcode": "05686",
+    "city": "Santa Rosa de Osos",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.6666667,
+    "longitude": -75.4166667
+    },
+    {
+    "zipcode": 15693,
+    "city": "Santa Rosa de Viterbo",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.9166667,
+    "longitude": -73
+    },
+    {
+    "zipcode": 13688,
+    "city": "Santa Rosa del Sur",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 7.9644444,
+    "longitude": -74.0544444
+    },
+    {
+    "zipcode": 99624,
+    "city": "Santa Rosalía",
+    "code": 99,
+    "state": "Vichada",
+    "latitude": 5.1261111,
+    "longitude": -70.8758333
+    },
+    {
+    "zipcode": 15696,
+    "city": "Santa Sofía",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.75,
+    "longitude": -73.5833333
+    },
+    {
+    "zipcode": 15686,
+    "city": "Santana",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.0572222,
+    "longitude": -73.4822222
+    },
+    {
+    "zipcode": 19698,
+    "city": "Santander de Quilichao",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 3.0130556,
+    "longitude": -76.4866667
+    },
+    {
+    "zipcode": 54680,
+    "city": "Santiago",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.9166667,
+    "longitude": -72.6666667
+    },
+    {
+    "zipcode": 86760,
+    "city": "Santiago",
+    "code": 86,
+    "state": "Putumayo",
+    "latitude": 1.1511111,
+    "longitude": -77.0075
+    },
+    {
+    "zipcode": "05690",
+    "city": "Santo Domingo",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.4722222,
+    "longitude": -75.1647222
+    },
+    {
+    "zipcode": "08685",
+    "city": "Santo Tomás",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.75,
+    "longitude": -74.8333333
+    },
+    {
+    "zipcode": "05697",
+    "city": "Santuario",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.1333333,
+    "longitude": -75.25
+    },
+    {
+    "zipcode": 66687,
+    "city": "Santuario",
+    "code": 66,
+    "state": "Risaralda",
+    "latitude": 5.0833333,
+    "longitude": -76
+    },
+    {
+    "zipcode": 52720,
+    "city": "Sapuyes",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.0333333,
+    "longitude": -77.6
+    },
+    {
+    "zipcode": 81736,
+    "city": "Saravena",
+    "code": 81,
+    "state": "Arauca",
+    "latitude": 6.9205556,
+    "longitude": -71.8533333
+    },
+    {
+    "zipcode": 54720,
+    "city": "Sardinata",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 8.25,
+    "longitude": -72.75
+    },
+    {
+    "zipcode": 25718,
+    "city": "Sasaima",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5,
+    "longitude": -74.45
+    },
+    {
+    "zipcode": 15720,
+    "city": "Sativanorte",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.1666667,
+    "longitude": -72.6666667
+    },
+    {
+    "zipcode": 15723,
+    "city": "Sativasur",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.1333333,
+    "longitude": -72.6666667
+    },
+    {
+    "zipcode": "05736",
+    "city": "Segovia",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.25,
+    "longitude": -74.75
+    },
+    {
+    "zipcode": 25736,
+    "city": "Sesquilé",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.0833333,
+    "longitude": -73.8333333
+    },
+    {
+    "zipcode": 76736,
+    "city": "Sevilla",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.2688889,
+    "longitude": -75.9361111
+    },
+    {
+    "zipcode": 15740,
+    "city": "Siachoque",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5833333,
+    "longitude": -73.1666667
+    },
+    {
+    "zipcode": 25740,
+    "city": "Sibaté",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.4913889,
+    "longitude": -74.2605556
+    },
+    {
+    "zipcode": 86749,
+    "city": "Sibundoy",
+    "code": 86,
+    "state": "Putumayo",
+    "latitude": 1.1833333,
+    "longitude": -76.9166667
+    },
+    {
+    "zipcode": 54743,
+    "city": "Silos",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.2,
+    "longitude": -72.75
+    },
+    {
+    "zipcode": 25743,
+    "city": "Silvania",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.5,
+    "longitude": -74.3333333
+    },
+    {
+    "zipcode": 19743,
+    "city": "Silvia",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.75,
+    "longitude": -76.3333333
+    },
+    {
+    "zipcode": 68745,
+    "city": "Simacota",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.4472222,
+    "longitude": -73.3413889
+    },
+    {
+    "zipcode": 25745,
+    "city": "Simijaca",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.5833333,
+    "longitude": -73.8333333
+    },
+    {
+    "zipcode": 13744,
+    "city": "Simití",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 7.5833333,
+    "longitude": -74.1666667
+    },
+    {
+    "zipcode": 70001,
+    "city": "Sincelejo",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.3047222,
+    "longitude": -75.3977778
+    },
+    {
+    "zipcode": 70742,
+    "city": "Sincé",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.1666667,
+    "longitude": -75
+    },
+    {
+    "zipcode": 27745,
+    "city": "Sipí",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 4.5833333,
+    "longitude": -76.5
+    },
+    {
+    "zipcode": 47745,
+    "city": "Sitionuevo",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.9166667,
+    "longitude": -74.5833333
+    },
+    {
+    "zipcode": 25754,
+    "city": "Soacha",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.5872222,
+    "longitude": -74.2213889
+    },
+    {
+    "zipcode": 15753,
+    "city": "Soatá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.4166667,
+    "longitude": -72.6666667
+    },
+    {
+    "zipcode": 15757,
+    "city": "Socha",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6,
+    "longitude": -72.6666667
+    },
+    {
+    "zipcode": 68755,
+    "city": "Socorro",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.5333333,
+    "longitude": -73.2
+    },
+    {
+    "zipcode": 15755,
+    "city": "Socotá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.0833333,
+    "longitude": -72.5833333
+    },
+    {
+    "zipcode": 15759,
+    "city": "Sogamoso",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.7205556,
+    "longitude": -72.9297222
+    },
+    {
+    "zipcode": 18765,
+    "city": "Solano",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 0.7147222,
+    "longitude": -75.2486111
+    },
+    {
+    "zipcode": "08758",
+    "city": "Soledad",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.9172222,
+    "longitude": -74.7666667
+    },
+    {
+    "zipcode": 18785,
+    "city": "Solita",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 0.9,
+    "longitude": -75.623
+    },
+    {
+    "zipcode": 15761,
+    "city": "Somondoco",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 4.9877778,
+    "longitude": -73.4361111
+    },
+    {
+    "zipcode": "05756",
+    "city": "Sonsón",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.75,
+    "longitude": -75
+    },
+    {
+    "zipcode": "05761",
+    "city": "Sopetrán",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.5,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 13760,
+    "city": "Soplaviento",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10.3333333,
+    "longitude": -75.1
+    },
+    {
+    "zipcode": 25758,
+    "city": "Sopó",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.9166667,
+    "longitude": -73.95
+    },
+    {
+    "zipcode": 15762,
+    "city": "Sora",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5666667,
+    "longitude": -73.4333333
+    },
+    {
+    "zipcode": 15764,
+    "city": "Soracá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5,
+    "longitude": -73.3166667
+    },
+    {
+    "zipcode": 15763,
+    "city": "Sotaquirá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.8333333,
+    "longitude": -73.25
+    },
+    {
+    "zipcode": 19760,
+    "city": "Sotara (Paispamba)",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.2566667,
+    "longitude": -76.6186111
+    },
+    {
+    "zipcode": 52418,
+    "city": "Sotomayor (Los Andes)",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.5155556,
+    "longitude": -77.495
+    },
+    {
+    "zipcode": 68770,
+    "city": "Suaita",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.1666667,
+    "longitude": -73.3
+    },
+    {
+    "zipcode": "08770",
+    "city": "Suan",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.3333333,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": 41770,
+    "city": "Suaza",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 1.9166667,
+    "longitude": -75.8333333
+    },
+    {
+    "zipcode": 25769,
+    "city": "Subachoque",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5,
+    "longitude": -74.1666667
+    },
+    {
+    "zipcode": 19785,
+    "city": "Sucre",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.0333333,
+    "longitude": -76.9166667
+    },
+    {
+    "zipcode": 68773,
+    "city": "Sucre",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.0833333,
+    "longitude": -73.9166667
+    },
+    {
+    "zipcode": 70771,
+    "city": "Sucre",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9,
+    "longitude": -75
+    },
+    {
+    "zipcode": 25772,
+    "city": "Suesca",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.1666667,
+    "longitude": -73.8333333
+    },
+    {
+    "zipcode": 25777,
+    "city": "Supatá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.0833333,
+    "longitude": -74.25
+    },
+    {
+    "zipcode": 17777,
+    "city": "Supía",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.5,
+    "longitude": -75.6333333
+    },
+    {
+    "zipcode": 68780,
+    "city": "Suratá",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.5,
+    "longitude": -72.9666667
+    },
+    {
+    "zipcode": 25779,
+    "city": "Susa",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.5,
+    "longitude": -73.8333333
+    },
+    {
+    "zipcode": 15774,
+    "city": "Susacón",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.2666667,
+    "longitude": -72.6666667
+    },
+    {
+    "zipcode": 15776,
+    "city": "Sutamarchán",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.6666667,
+    "longitude": -73.5833333
+    },
+    {
+    "zipcode": 25781,
+    "city": "Sutatausa",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.251,
+    "longitude": -73.856
+    },
+    {
+    "zipcode": 15778,
+    "city": "Sutatenza",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.0166667,
+    "longitude": -73.45
+    },
+    {
+    "zipcode": 19780,
+    "city": "Suárez",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.9588889,
+    "longitude": -76.6952778
+    },
+    {
+    "zipcode": 73770,
+    "city": "Suárez",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.0833333,
+    "longitude": -74.7833333
+    },
+    {
+    "zipcode": 85315,
+    "city": "Sácama",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 6.0833333,
+    "longitude": -72.0833333
+    },
+    {
+    "zipcode": 15638,
+    "city": "Sáchica",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.6666667,
+    "longitude": -73.5
+    },
+    {
+    "zipcode": 25785,
+    "city": "Tabio",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5,
+    "longitude": -74.0833333
+    },
+    {
+    "zipcode": 27787,
+    "city": "Tadó",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 5.3333333,
+    "longitude": -76.4166667
+    },
+    {
+    "zipcode": 13780,
+    "city": "Talaigua Nuevo",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 9.3069444,
+    "longitude": -74.5686111
+    },
+    {
+    "zipcode": 20787,
+    "city": "Tamalameque",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 8.8333333,
+    "longitude": -73.5833333
+    },
+    {
+    "zipcode": 81794,
+    "city": "Tame",
+    "code": 81,
+    "state": "Arauca",
+    "latitude": 6.4641667,
+    "longitude": -71.7288889
+    },
+    {
+    "zipcode": 52786,
+    "city": "Taminango",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.5833333,
+    "longitude": -77.25
+    },
+    {
+    "zipcode": 52788,
+    "city": "Tangua",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.0833333,
+    "longitude": -77.3
+    },
+    {
+    "zipcode": 97666,
+    "city": "Taraira",
+    "code": 97,
+    "state": "Vaupés",
+    "latitude": 0.4938889,
+    "longitude": -69.6669444
+    },
+    {
+    "zipcode": "05790",
+    "city": "Tarazá",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.5833333,
+    "longitude": -75.35
+    },
+    {
+    "zipcode": 41791,
+    "city": "Tarqui",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.1666667,
+    "longitude": -75.9166667
+    },
+    {
+    "zipcode": "05792",
+    "city": "Tarso",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.8333333,
+    "longitude": -75.8333333
+    },
+    {
+    "zipcode": 15790,
+    "city": "Tasco",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.9166667,
+    "longitude": -72.7
+    },
+    {
+    "zipcode": 85410,
+    "city": "Tauramena",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 5.0186111,
+    "longitude": -72.7552778
+    },
+    {
+    "zipcode": 25793,
+    "city": "Tausa",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.25,
+    "longitude": -73.9166667
+    },
+    {
+    "zipcode": 41799,
+    "city": "Tello",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 3.0833333,
+    "longitude": -75.0833333
+    },
+    {
+    "zipcode": 25797,
+    "city": "Tena",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.7,
+    "longitude": -74.4166667
+    },
+    {
+    "zipcode": 47798,
+    "city": "Tenerife",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10,
+    "longitude": -74.6666667
+    },
+    {
+    "zipcode": 25799,
+    "city": "Tenjo",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.9166667,
+    "longitude": -74.1666667
+    },
+    {
+    "zipcode": 15798,
+    "city": "Tenza",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.15,
+    "longitude": -73.45
+    },
+    {
+    "zipcode": 54800,
+    "city": "Teorama",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 8.75,
+    "longitude": -73.1666667
+    },
+    {
+    "zipcode": 41801,
+    "city": "Teruel",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.9166667,
+    "longitude": -75.6666667
+    },
+    {
+    "zipcode": 41797,
+    "city": "Tesalia",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.6666667,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 25805,
+    "city": "Tibacuy",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.3833333,
+    "longitude": -74.5
+    },
+    {
+    "zipcode": 15804,
+    "city": "Tibaná",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.3333333,
+    "longitude": -73.3833333
+    },
+    {
+    "zipcode": 15806,
+    "city": "Tibasosa",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.8333333,
+    "longitude": -72.9666667
+    },
+    {
+    "zipcode": 25807,
+    "city": "Tibirita",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.1333333,
+    "longitude": -73.5333333
+    },
+    {
+    "zipcode": 54810,
+    "city": "Tibú",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 8.6480556,
+    "longitude": -72.7394444
+    },
+    {
+    "zipcode": 23807,
+    "city": "Tierralta",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 8.1736111,
+    "longitude": -76.0591667
+    },
+    {
+    "zipcode": 41807,
+    "city": "Timaná",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2,
+    "longitude": -75.9166667
+    },
+    {
+    "zipcode": 19809,
+    "city": "Timbiquí",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.75,
+    "longitude": -77.5833333
+    },
+    {
+    "zipcode": 19807,
+    "city": "Timbío",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.4166667,
+    "longitude": -76.75
+    },
+    {
+    "zipcode": 15808,
+    "city": "Tinjacá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.6333333,
+    "longitude": -73.65
+    },
+    {
+    "zipcode": 15810,
+    "city": "Tipacoque",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.4233333,
+    "longitude": -72.6952778
+    },
+    {
+    "zipcode": 13810,
+    "city": "Tiquisio (Puerto Rico)",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 8.5597222,
+    "longitude": -74.2669444
+    },
+    {
+    "zipcode": "05809",
+    "city": "Titiribí",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.0833333,
+    "longitude": -75.8
+    },
+    {
+    "zipcode": 15814,
+    "city": "Toca",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.6666667,
+    "longitude": -73.1666667
+    },
+    {
+    "zipcode": 25815,
+    "city": "Tocaima",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.5,
+    "longitude": -74.6666667
+    },
+    {
+    "zipcode": 25817,
+    "city": "Tocancipá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5,
+    "longitude": -73.9166667
+    },
+    {
+    "zipcode": 15816,
+    "city": "Toguí",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.95,
+    "longitude": -73.4166667
+    },
+    {
+    "zipcode": "05819",
+    "city": "Toledo",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7,
+    "longitude": -75.7
+    },
+    {
+    "zipcode": 54820,
+    "city": "Toledo",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.3,
+    "longitude": -72.25
+    },
+    {
+    "zipcode": 70820,
+    "city": "Tolú",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": 9.5,
+    "longitude": -75.5333333
+    },
+    {
+    "zipcode": 70823,
+    "city": "Tolú Viejo",
+    "code": 70,
+    "state": "Sucre",
+    "latitude": "",
+    "longitude": ""
+    },
+    {
+    "zipcode": 68820,
+    "city": "Tona",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.25,
+    "longitude": -72.9
+    },
+    {
+    "zipcode": 15820,
+    "city": "Topagá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.8333333,
+    "longitude": -72.8333333
+    },
+    {
+    "zipcode": 25823,
+    "city": "Topaipí",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.4166667,
+    "longitude": -74.3333333
+    },
+    {
+    "zipcode": 19821,
+    "city": "Toribío",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 3,
+    "longitude": -76.1666667
+    },
+    {
+    "zipcode": 76823,
+    "city": "Toro",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.6116667,
+    "longitude": -76.0813889
+    },
+    {
+    "zipcode": 15822,
+    "city": "Tota",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5,
+    "longitude": -73
+    },
+    {
+    "zipcode": 19824,
+    "city": "Totoró",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.5833333,
+    "longitude": -76.3333333
+    },
+    {
+    "zipcode": 85430,
+    "city": "Trinidad",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 5.4305556,
+    "longitude": -71.6311111
+    },
+    {
+    "zipcode": 76828,
+    "city": "Trujillo",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.25,
+    "longitude": -76.3333333
+    },
+    {
+    "zipcode": "08832",
+    "city": "Tubará",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.9166667,
+    "longitude": -74.95
+    },
+    {
+    "zipcode": 23815,
+    "city": "Tuchín",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 9.1833333,
+    "longitude": -75.55
+    },
+    {
+    "zipcode": 76834,
+    "city": "Tulúa",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.0866667,
+    "longitude": -76.2
+    },
+    {
+    "zipcode": 52835,
+    "city": "Tumaco",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.7986111,
+    "longitude": -78.8155556
+    },
+    {
+    "zipcode": 15001,
+    "city": "Tunja",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5352778,
+    "longitude": -73.3677778
+    },
+    {
+    "zipcode": 15832,
+    "city": "Tunungua",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.7333333,
+    "longitude": -73.9333333
+    },
+    {
+    "zipcode": 13836,
+    "city": "Turbaco",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10.35,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": 13838,
+    "city": "Turbaná",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10.25,
+    "longitude": -75.4166667
+    },
+    {
+    "zipcode": "05837",
+    "city": "Turbo",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 8,
+    "longitude": -76.5833333
+    },
+    {
+    "zipcode": 15835,
+    "city": "Turmequé",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.3333333,
+    "longitude": -73.5
+    },
+    {
+    "zipcode": 15837,
+    "city": "Tuta",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.75,
+    "longitude": -73.1666667
+    },
+    {
+    "zipcode": 15839,
+    "city": "Tutasá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 6.1666667,
+    "longitude": -72.8333333
+    },
+    {
+    "zipcode": 85400,
+    "city": "Támara",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 5.8297222,
+    "longitude": -72.1633333
+    },
+    {
+    "zipcode": "05789",
+    "city": "Támesis",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.6666667,
+    "longitude": -75.6666667
+    },
+    {
+    "zipcode": 52838,
+    "city": "Túquerres",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.1666667,
+    "longitude": -77.5833333
+    },
+    {
+    "zipcode": 25839,
+    "city": "Ubalá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.8333333,
+    "longitude": -73.5
+    },
+    {
+    "zipcode": 25841,
+    "city": "Ubaque",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.5833333,
+    "longitude": -74
+    },
+    {
+    "zipcode": 25843,
+    "city": "Ubaté",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.35,
+    "longitude": -73.8333333
+    },
+    {
+    "zipcode": 76845,
+    "city": "Ulloa",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.7166667,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 25845,
+    "city": "Une",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.3333333,
+    "longitude": -74.0833333
+    },
+    {
+    "zipcode": 27800,
+    "city": "Unguía",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 8.0430556,
+    "longitude": -77.0961111
+    },
+    {
+    "zipcode": 27810,
+    "city": "Unión Panamericana (ÁNIMAS)",
+    "code": 27,
+    "state": "Chocó",
+    "latitude": 5.283,
+    "longitude": -76.617
+    },
+    {
+    "zipcode": "05842",
+    "city": "Uramita",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.8994444,
+    "longitude": -76.1741667
+    },
+    {
+    "zipcode": 50370,
+    "city": "Uribe",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 3.254,
+    "longitude": -74.358
+    },
+    {
+    "zipcode": 44847,
+    "city": "Uribia",
+    "code": 44,
+    "state": "La Guajira",
+    "latitude": 11.9166667,
+    "longitude": -72
+    },
+    {
+    "zipcode": "05847",
+    "city": "Urrao",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.3333333,
+    "longitude": -76.4166667
+    },
+    {
+    "zipcode": 44855,
+    "city": "Urumita",
+    "code": 44,
+    "state": "La Guajira",
+    "latitude": 10.5666667,
+    "longitude": -73.0166667
+    },
+    {
+    "zipcode": "08849",
+    "city": "Usiacuri",
+    "code": "08",
+    "state": "Atlántico",
+    "latitude": 10.75,
+    "longitude": -74.9666667
+    },
+    {
+    "zipcode": "05854",
+    "city": "Valdivia",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.3333333,
+    "longitude": -75.3333333
+    },
+    {
+    "zipcode": 23855,
+    "city": "Valencia",
+    "code": 23,
+    "state": "Córdoba",
+    "latitude": 8.3,
+    "longitude": -76.1666667
+    },
+    {
+    "zipcode": 68855,
+    "city": "Valle de San José",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.5,
+    "longitude": -73.0666667
+    },
+    {
+    "zipcode": 73854,
+    "city": "Valle de San Juan",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.25,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": 86865,
+    "city": "Valle del Guamuez",
+    "code": 86,
+    "state": "Putumayo",
+    "latitude": 0.4525,
+    "longitude": -76.9191667
+    },
+    {
+    "zipcode": 20001,
+    "city": "Valledupar",
+    "code": 20,
+    "state": "Cesar",
+    "latitude": 10.4769444,
+    "longitude": -73.2505556
+    },
+    {
+    "zipcode": "05856",
+    "city": "Valparaiso",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.6666667,
+    "longitude": -75.5833333
+    },
+    {
+    "zipcode": 18860,
+    "city": "Valparaiso",
+    "code": 18,
+    "state": "Caquetá",
+    "latitude": 1.1991667,
+    "longitude": -75.7097222
+    },
+    {
+    "zipcode": "05858",
+    "city": "Vegachí",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.7730556,
+    "longitude": -74.8016667
+    },
+    {
+    "zipcode": 73861,
+    "city": "Venadillo",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4.75,
+    "longitude": -74.9166667
+    },
+    {
+    "zipcode": "05861",
+    "city": "Venecia",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 5.9166667,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 25506,
+    "city": "Venecia (Ospina Pérez)",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.1333333,
+    "longitude": -74.5
+    },
+    {
+    "zipcode": 15861,
+    "city": "Ventaquemada",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.4166667,
+    "longitude": -73.5
+    },
+    {
+    "zipcode": 25862,
+    "city": "Vergara",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.1666667,
+    "longitude": -74.3333333
+    },
+    {
+    "zipcode": 76863,
+    "city": "Versalles",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.6666667,
+    "longitude": -76.25
+    },
+    {
+    "zipcode": 68867,
+    "city": "Vetas",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 7.3333333,
+    "longitude": -72.8666667
+    },
+    {
+    "zipcode": 25867,
+    "city": "Viani",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.9166667,
+    "longitude": -74.55
+    },
+    {
+    "zipcode": "05873",
+    "city": "Vigía del Fuerte",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.5919444,
+    "longitude": -76.8986111
+    },
+    {
+    "zipcode": 76869,
+    "city": "Vijes",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.6986111,
+    "longitude": -76.4491667
+    },
+    {
+    "zipcode": 54871,
+    "city": "Villa Caro",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.9169444,
+    "longitude": -72.9763889
+    },
+    {
+    "zipcode": 19845,
+    "city": "Villa Rica",
+    "code": 19,
+    "state": "Cauca",
+    "latitude": 2.5136111,
+    "longitude": -76.8477778
+    },
+    {
+    "zipcode": 15407,
+    "city": "Villa de Leiva",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.6333333,
+    "longitude": -73.5333333
+    },
+    {
+    "zipcode": 54874,
+    "city": "Villa del Rosario",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 7.8338889,
+    "longitude": -72.4741667
+    },
+    {
+    "zipcode": 86885,
+    "city": "Villagarzón",
+    "code": 86,
+    "state": "Putumayo",
+    "latitude": 1.038,
+    "longitude": -76.627
+    },
+    {
+    "zipcode": 25871,
+    "city": "Villagómez",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.2761111,
+    "longitude": -74.1988889
+    },
+    {
+    "zipcode": 73870,
+    "city": "Villahermosa",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 5,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": 17873,
+    "city": "Villamaría",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5,
+    "longitude": -75.5
+    },
+    {
+    "zipcode": 13873,
+    "city": "Villanueva",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 10.45,
+    "longitude": -75.25
+    },
+    {
+    "zipcode": 44874,
+    "city": "Villanueva",
+    "code": 44,
+    "state": "La Guajira",
+    "latitude": 10.5833333,
+    "longitude": -73
+    },
+    {
+    "zipcode": 68872,
+    "city": "Villanueva",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.6741667,
+    "longitude": -73.1777778
+    },
+    {
+    "zipcode": 85440,
+    "city": "Villanueva",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 5.2833333,
+    "longitude": -71.9666667
+    },
+    {
+    "zipcode": 25873,
+    "city": "Villapinzón",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.2833333,
+    "longitude": -73.5833333
+    },
+    {
+    "zipcode": 73873,
+    "city": "Villarrica",
+    "code": 73,
+    "state": "Tolima",
+    "latitude": 4,
+    "longitude": -74.5833333
+    },
+    {
+    "zipcode": 50001,
+    "city": "Villavicencio",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 4.1533333,
+    "longitude": -73.635
+    },
+    {
+    "zipcode": 41872,
+    "city": "Villavieja",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 3.3333333,
+    "longitude": -75.1666667
+    },
+    {
+    "zipcode": 25875,
+    "city": "Villeta",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.0833333,
+    "longitude": -74.5
+    },
+    {
+    "zipcode": 25878,
+    "city": "Viotá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.5,
+    "longitude": -74.5
+    },
+    {
+    "zipcode": 15879,
+    "city": "Viracachá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.5,
+    "longitude": -73.25
+    },
+    {
+    "zipcode": 50711,
+    "city": "Vista Hermosa",
+    "code": 50,
+    "state": "Meta",
+    "latitude": 3.0863889,
+    "longitude": -73.7513889
+    },
+    {
+    "zipcode": 17877,
+    "city": "Viterbo",
+    "code": 17,
+    "state": "Caldas",
+    "latitude": 5.0833333,
+    "longitude": -75.8666667
+    },
+    {
+    "zipcode": 68861,
+    "city": "Vélez",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.0833333,
+    "longitude": -73.5833333
+    },
+    {
+    "zipcode": 25885,
+    "city": "Yacopí",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.6666667,
+    "longitude": -74.4166667
+    },
+    {
+    "zipcode": 52885,
+    "city": "Yacuanquer",
+    "code": 52,
+    "state": "Nariño",
+    "latitude": 1.0833333,
+    "longitude": -77.4166667
+    },
+    {
+    "zipcode": 41885,
+    "city": "Yaguará",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.6666667,
+    "longitude": -75.5833333
+    },
+    {
+    "zipcode": "05885",
+    "city": "Yalí",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.8333333,
+    "longitude": -74.75
+    },
+    {
+    "zipcode": "05887",
+    "city": "Yarumal",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7,
+    "longitude": -75.5
+    },
+    {
+    "zipcode": "05890",
+    "city": "Yolombó",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 6.6666667,
+    "longitude": -75
+    },
+    {
+    "zipcode": "05893",
+    "city": "Yondó (Casabe)",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.0077778,
+    "longitude": -73.9141667
+    },
+    {
+    "zipcode": 85001,
+    "city": "Yopal",
+    "code": 85,
+    "state": "Casanare",
+    "latitude": 5.3394444,
+    "longitude": -72.3941667
+    },
+    {
+    "zipcode": 76890,
+    "city": "Yotoco",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.9166667,
+    "longitude": -76.3333333
+    },
+    {
+    "zipcode": 76892,
+    "city": "Yumbo",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 3.585,
+    "longitude": -76.4958333
+    },
+    {
+    "zipcode": 13894,
+    "city": "Zambrano",
+    "code": 13,
+    "state": "Bolívar",
+    "latitude": 9.75,
+    "longitude": -74.8333333
+    },
+    {
+    "zipcode": 68895,
+    "city": "Zapatoca",
+    "code": 68,
+    "state": "Santander",
+    "latitude": 6.8333333,
+    "longitude": -73.25
+    },
+    {
+    "zipcode": 47960,
+    "city": "Zapayán (PUNTA DE PIEDRAS)",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": 10.171,
+    "longitude": -74.719
+    },
+    {
+    "zipcode": "05895",
+    "city": "Zaragoza",
+    "code": "05",
+    "state": "Antioquia",
+    "latitude": 7.75,
+    "longitude": -74.75
+    },
+    {
+    "zipcode": 76895,
+    "city": "Zarzal",
+    "code": 76,
+    "state": "Valle del Cauca",
+    "latitude": 4.3983333,
+    "longitude": -76.0772222
+    },
+    {
+    "zipcode": 15897,
+    "city": "Zetaquirá",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.35,
+    "longitude": -73.1666667
+    },
+    {
+    "zipcode": 25888,
+    "city": "Zipacón",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 4.8333333,
+    "longitude": -74.4166667
+    },
+    {
+    "zipcode": 25899,
+    "city": "Zipaquirá",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.0283333,
+    "longitude": -74.0058333
+    },
+    {
+    "zipcode": 47980,
+    "city": "Zona Bananera (PRADO - SEVILLA)",
+    "code": 47,
+    "state": "Magdalena",
+    "latitude": "",
+    "longitude": ""
+    },
+    {
+    "zipcode": 54003,
+    "city": "Ábrego",
+    "code": 54,
+    "state": "Norte de Santander",
+    "latitude": 8,
+    "longitude": -73.2
+    },
+    {
+    "zipcode": 41357,
+    "city": "Íquira",
+    "code": 41,
+    "state": "Huila",
+    "latitude": 2.75,
+    "longitude": -75.75
+    },
+    {
+    "zipcode": 15842,
+    "city": "Cómbita",
+    "code": 15,
+    "state": "Boyacá",
+    "latitude": 5.2333333,
+    "longitude": -73.45
+    },
+    {
+    "zipcode": 25851,
+    "city": "Útica",
+    "code": 25,
+    "state": "Cundinamarca",
+    "latitude": 5.25,
+    "longitude": -74.5
+    }
+    ]

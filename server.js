@@ -8,6 +8,9 @@ const cors = require('cors');
 const helmet = require('helmet');
 const request = require('request-promise');
 
+const fs = require('fs');
+
+
 require('dotenv').config();
 app.use(cors());
 
@@ -83,6 +86,76 @@ api_router
             else
                 return false;
 
+        })
+
+        res.send(response);
+
+
+
+    })
+
+
+    api_router
+    .get("/casesv2.geojson", async (req, res, next) => {
+
+        let data = [];
+        data = await require('./scrap.js').getCovidCoDetails().catch(console.log).catch(() => {
+            res.json(data);
+        });
+
+
+        let response = {
+            "type": "FeatureCollection",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+                }
+            },
+            "features": []
+        }
+
+
+        let geodata = fs.readFileSync('./co.cities.json');
+            geodata = JSON.parse(geodata);
+            console.log(geodata);
+
+
+
+
+        response.features = await data.map((report) => {
+
+            console.log(report)
+            let coordinates = [0,0];
+
+               for(x in geodata){
+                   if(report.city.toLowerCase().match("sin identificar"))
+                         report.city = "Ibagué";
+
+                    if(geodata[x].city.trim().toLowerCase().match(report.city.trim().toLowerCase()))
+                       coordinates = [geodata[x].latitude, geodata[x].longitude];
+
+               }
+            
+            console.log(coordinates)
+
+                return {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [coordinates[1], coordinates[0]]
+                    },
+                    "properties": {
+                        "status": 'Confirmed',
+                        "confirmed" : report.confirmed,
+                        "recovered": report.recovered,
+                        "deaths": report.deaths,
+                        "city": report.city, 
+                        "days": report.days || ''
+                    }
+                };
+
+     
         })
 
         res.send(response);

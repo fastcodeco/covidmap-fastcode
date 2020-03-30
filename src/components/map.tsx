@@ -160,7 +160,7 @@ class Map extends React.Component<any, any>{
  <Source
         id="my-data"
           type="geojson"
-          data={process.env.REACT_APP_MAP_DATA_URL || 'http://localhost:5000/api/cases.geojson'}
+          data={process.env.REACT_APP_MAP_DATA_URL || 'http://localhost:5000/api/casesv2.geojson'}
           clusterMaxZoom={13}
           clusterRadius={20}
         >
