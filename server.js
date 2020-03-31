@@ -2,7 +2,7 @@ const express = require('express')
 const path = require('path')
 const app = express()
 const api_router = express.Router();
-const api = require('./api');
+const api = require('./api/api');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const helmet = require('helmet');
@@ -99,7 +99,7 @@ api_router
     .get("/casesv2.geojson", async (req, res, next) => {
 
         let data = [];
-        data = await require('./scrap.js').getCovidCoDetails().catch(console.log).catch(() => {
+        data = await require('./api/scrap.js').getCovidCoDetails().catch(console.log).catch(() => {
             res.json(data);
         });
 
@@ -116,7 +116,7 @@ api_router
         }
 
 
-        let geodata = fs.readFileSync('./co.cities.json');
+        let geodata = fs.readFileSync('./api/co.cities.json');
             geodata = JSON.parse(geodata);
             console.log(geodata);
 
@@ -218,7 +218,7 @@ api_router
     .get("/details/:country", async (req, res, next) => {
 
         let data = [];
-        data = await require('./scrap.js').getCovidCoDetails().catch(console.log).catch(() => {
+        data = await require('./api/scrap.js').getCovidCoDetails().catch(console.log).catch(() => {
             res.json(data);
         });
 

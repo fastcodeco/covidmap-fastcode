@@ -1,5 +1,5 @@
 import React from 'react';
-import { IonRow, IonGrid, IonButton,  IonModal, IonLabel, IonAlert, IonContent, } from '@ionic/react';
+import { IonRow, IonGrid, IonButton,  IonModal, IonLabel, IonAlert, IonContent, IonCol, } from '@ionic/react';
 import ReCAPTCHA from "react-google-recaptcha";
 
 const captchaRef = React.createRef<any>();
@@ -99,8 +99,12 @@ class Report extends React.Component<any, any>{
                </IonRow>
 
                <IonRow style={{justifyContent: 'center'}}>
+                   <IonCol>
                <IonButton  onClick={this.props.cancel} style={{marginRight:'20px'}}>Cancelar</IonButton>
+               </IonCol>
+               <IonCol>
                <IonButton color="danger" onClick={this.submit} >Enviar Reporte</IonButton>
+               </IonCol>
                </IonRow>
          
 
