@@ -10,7 +10,7 @@ const { Geolocation } = Plugins;
 
 var getPosition = function (options: any) {
     return new Promise(function (resolve, reject) {
-         Geolocation.getCurrentPosition().then(resolve).catch(reject);
+         Geolocation.getCurrentPosition({enableHighAccuracy:false}).then(resolve).catch(reject);
     });
 }
 

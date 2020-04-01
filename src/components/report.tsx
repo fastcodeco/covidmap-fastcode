@@ -100,10 +100,10 @@ class Report extends React.Component<any, any>{
 
                <IonRow style={{justifyContent: 'center'}}>
                    <IonCol>
-               <IonButton  onClick={this.props.cancel} style={{marginRight:'20px'}}>Cancelar</IonButton>
+               <IonButton  onClick={this.props.cancel} style={{marginRight:'20px', width:'95%'}}>Cancelar</IonButton>
                </IonCol>
                <IonCol>
-               <IonButton color="danger" onClick={this.submit} >Enviar Reporte</IonButton>
+               <IonButton color="danger" onClick={this.submit} style={{width:'95%'}}>Enviar Reporte</IonButton>
                </IonCol>
                </IonRow>
          
