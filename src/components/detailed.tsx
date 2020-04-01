@@ -51,13 +51,12 @@ class Detailed extends React.Component<any, any>{
     return true;
 
 
-
        let result:any = [];
 
        this.state.cacheData.forEach((item:any)=>{
 
 
-                if(item.city.toLowerCase().match(value))
+                if(item.city.toLowerCase().normalize().match(value.toLowerCase().normalize()))
                   result.push(item);
            
        })
@@ -76,7 +75,7 @@ class Detailed extends React.Component<any, any>{
             <div>
           <IonModal isOpen={this.props.open}  swipeToClose={true} onDidDismiss={this.props.close}>
               <IonContent>
-              <IonFab vertical="top" color="success" slot="fixed"  style={{left:'auto', right:'10px', marginTop:'10px', opacity:0.8}} >
+              <IonFab vertical="top" color="success" slot="fixed"  style={{left:'auto', right:'10px', marginTop:'20px', opacity:0.8}} >
                 <IonFabButton  onClick={this.props.close} color="light">
                     <IonIcon icon={closeCircleOutline} />                    
                 </IonFabButton>

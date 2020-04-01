@@ -321,6 +321,11 @@ api_router
 
 app.use('/api', api_router);
 
+app.use('/privacy', (req, res) => {
+    res.sendFile(path.join(__dirname + '/build/privacy.html'));
+});
+
+
 app.use((req, res) => {
     res.sendFile(path.join(__dirname + '/build/index.html'));
 });
