@@ -5,11 +5,12 @@ import { locateOutline, callOutline, medkitOutline, reloadOutline, listOutline} 
 import API from '../services/api';
 import './styles/map.css';
 import Detailed from './detailed';
-
+import { Plugins } from '@capacitor/core';
+const { Geolocation } = Plugins;
 
 var getPosition = function (options: any) {
     return new Promise(function (resolve, reject) {
-        navigator.geolocation.getCurrentPosition(resolve, reject, options || {});
+         Geolocation.getCurrentPosition().then(resolve).catch(reject);
     });
 }
 

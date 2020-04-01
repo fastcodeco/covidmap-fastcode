@@ -23,19 +23,19 @@ const scrap = {
     
                 switch (i){
                     case 0:
-                        details.city = $(e).text().replace(/[\n\r]/g,"");
+                        details.city = $(e).text().replace(/[\n\r]/g,"").trim();
                     break;
                     case 1:
-                        details.state = $(e).text().replace(/[\n\r]/g,"");
+                        details.state = $(e).text().replace(/[\n\r]/g,"").trim();
                     break;
                     case 2:
-                        details.confirmed = $(e).text().replace(/[\n\r]/g,"");
+                        details.confirmed = $(e).text().replace(/[\n\r]/g,"").trim();
                     break;
                     case 3:
-                        details.recovered = $(e).text().replace(/[\n\r]/g,"");
+                        details.recovered = $(e).text().replace(/[\n\r]/g,"").trim();
                     break;
                     case 4:
-                        details.deaths = $(e).text().replace(/[\n\r]/g,"")
+                        details.deaths = $(e).text().replace(/[\n\r]/g,"").trim();
                 }
     
             })
