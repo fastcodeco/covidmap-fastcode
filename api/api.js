@@ -1,7 +1,7 @@
 
 var admin = require("firebase-admin");
 
-var serviceAccount = require("./covidp-419b2-firebase-adminsdk-pyvns-71460e857c.json");
+var serviceAccount = require("./firestore-credentials.json");
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
