@@ -5,6 +5,7 @@
 ### Dependencias
 
 * Ionic 4
+* Capacitor
 * React JS 
 * Node.js v12.1.16 
 * Firestore 
