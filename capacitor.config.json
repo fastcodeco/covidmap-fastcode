@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "covidmap",
+  "appId": "com.fastcodelab.covidmap",
+  "appName": "Covid Map",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
