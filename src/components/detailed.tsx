@@ -40,18 +40,22 @@ class Detailed extends React.Component<any, any>{
 
   Search(value:any){
 
-    if(value==='' || !value)
-      {
-          this.setState({data:this.state.cacheData})
-          return true;
-      }
+        let result:any = [];      
 
 
-    if(value.split('').length < 2)
-    return true;
+        if(value==='' || !value)
+        {
+            let result:any = [];   
+            this.setState({data:this.state.cacheData})
+            return true;
+        }
 
 
-       let result:any = [];
+        if(value.split('').length < 2)
+        return true;
+
+
+       
 
        this.state.cacheData.forEach((item:any)=>{
 
@@ -95,9 +99,9 @@ class Detailed extends React.Component<any, any>{
 
                  { this.state.data.length > 0 ? this.state.data.map((data:any)=>{
             
-                     return <IonCard  color="dark" key={data.city}>
+                     return <IonCard  color="dark" key={`${data.city}-${data.state}`}>
                      <IonCardHeader>
-                     <IonCardSubtitle>{!data.city.match("sin identificar") ? data.city : data.state}</IonCardSubtitle>
+                     <IonCardSubtitle>{`${data.city} - ${data.state}`}</IonCardSubtitle>
                      </IonCardHeader>
                      <IonCardContent>
                            <table style={{width:'98%', margin:'0 auto'}}>

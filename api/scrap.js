@@ -14,6 +14,8 @@ const scrap = {
         let $ = await scrap.fetchData(process.env.CO_REPORT_DATA || "https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2020_en_Colombia");
     
         let data = [];
+        let cities = [];
+
     
         $(".wikitable").first().find("tr").each((i,e)=>{
     
@@ -40,14 +42,24 @@ const scrap = {
     
             })
 
+
+
     
-            if(details.city)
-            data.push(details);
+            if(details.city && cities.indexOf(details.city.toLowerCase().normalize().trim()+details.state.toLowerCase().normalize().trim()) === -1)
+            
+            {
+
+                data.push(details);
+                cities.push(details.city.toLowerCase().normalize()+details.state.toLowerCase().normalize());
+
+            }
             
     
         })
+
+
     
-        console.log(data);
+        cities = null;
         return data;
     
       }
