@@ -9,7 +9,7 @@
 * Node.js v12.1.16 
 * Firestore 
 
-Nota: debes configurar el key.json que entrega Firestore en api.js
+Nota: debes remplazar el contenido del file firestore.credentials.json por el que entrega Firestore en /api
 
 
 ### Iniciar entorno de Desarrollo 
